@@ -79,7 +79,7 @@ export default class Home extends React.Component {
             <div className="col-md-6 hidden-sm-down">
             </div>
             <div className="col-lg-6 col-md-12">
-              <video className="video-section__video" controls src="static/tendens.mp4"></video>
+              <video className="video-section__video" controls src="img/tendens.mp4"></video>
             </div>
           </div>
         </div>

@@ -36,7 +36,13 @@ export default class Home extends React.Component {
     const chosenDate = this.state.reservation.date
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
-    console.log(this.props)
+
+    const infoDescr = this.props.info.split(`\n\n`).map(paragraph => `<p>${paragraph.replace(/\n/g, `<br>`)}</p>`).join(``) 
+    const aboutDescr = this.props.about.split(`\n\n`).map(paragraph => `<p>${paragraph.replace(/\n/g, `<br>`)}</p>`).join(``) 
+
+    const info = <div dangerouslySetInnerHTML={{ __html: infoDescr }} />
+    const about = <div dangerouslySetInnerHTML={{ __html: aboutDescr }} />
+
     return (
       <Page>
         <Header>
@@ -63,7 +69,7 @@ export default class Home extends React.Component {
             <div className="col-lg-6">
               <Section>
                 <h4>OVER ONS</h4>
-                <p>{this.props.about}</p>
+                {about}
               </Section>
             </div>
           </div>
@@ -83,7 +89,7 @@ export default class Home extends React.Component {
             <div className="col-md-12">
               <MenuSection>
                 <h4>MENU</h4>
-                {/* <Menus data={entries[0].fields.menus}></Menus> */}
+                <Menus data={this.props.menus}></Menus>
               </MenuSection>
             </div>
           </div>
@@ -94,7 +100,7 @@ export default class Home extends React.Component {
             <div className="col-md-6">
               <SectionInfo>
                 <h4>MEER INFO</h4>
-                {this.props.info}
+                {info}
               </SectionInfo>
             </div>
           </div>

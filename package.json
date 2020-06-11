@@ -29,7 +29,10 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^6.0.0",
-    "uuid": "^7.0.0"
+    "uuid": "^7.0.0",
+    "react-accessible-accordion": "^2.4.5",
+    "styled-components": "^4.4.0",
+    "react-datepicker": "^2.9.6"
   },
   "keywords": [
     "gatsby"

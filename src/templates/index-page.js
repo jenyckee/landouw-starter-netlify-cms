@@ -10,17 +10,16 @@ import theme from './theme'
 export const IndexPageTemplate = ({
   image,
   title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
+  info,
+  about,
+  menus
 }) => (
   <div>
     {/* <Features gridItems={intro.blurbs} /> */}
     {/* <BlogRoll /> */}
     <ThemeProvider theme={theme}>
-      <Home intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}/>
+      <Home intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
+        info={info} menus={menus} about={about}/>
     </ThemeProvider>
   </div>
 )
@@ -77,20 +76,13 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading
-        subheading
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
-          blurbs {
+        about 
+        menus {
+          options {
             text
           }
-          heading
-          description
         }
+        info
       }
     }
   }

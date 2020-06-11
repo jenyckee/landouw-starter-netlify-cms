@@ -36,7 +36,7 @@ export default class Home extends React.Component {
     const chosenDate = this.state.reservation.date
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
-
+    console.log(this.props)
     return (
       <Page>
         <Header>
@@ -63,7 +63,7 @@ export default class Home extends React.Component {
             <div className="col-lg-6">
               <Section>
                 <h4>OVER ONS</h4>
-                {/* {entries[0].fields.about.content.map((p,i ) => <p key={i}>{p.content[0].value}</p>)} */}
+                <p>{this.props.about}</p>
               </Section>
             </div>
           </div>
@@ -94,7 +94,7 @@ export default class Home extends React.Component {
             <div className="col-md-6">
               <SectionInfo>
                 <h4>MEER INFO</h4>
-                {/* {entries[0].fields.info.content.map((p,i ) => <p key={i}>{p.content[0].value}</p>)} */}
+                {this.props.info}
               </SectionInfo>
             </div>
           </div>

@@ -75,6 +75,7 @@ export const pageQuery = graphql`
           }
         }
         about
+        video
         menus {
           options {
             title

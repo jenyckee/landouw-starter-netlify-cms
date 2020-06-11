@@ -96,6 +96,16 @@ menus:
 
         Mojito € 8
       image: /img/foto_116_full.jpg
+    - title: Mocktails
+      text: |-
+        Appletiser special € 4
+
+        Coconut € 6
+
+        Sweet dreams € 6
+
+        Bitter Spritz € 6
+      image: /img/foto_116_full.jpg
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze
@@ -111,7 +121,7 @@ info: >+
   Tijdens de zomermaanden zullen onze openingstijden aangepast worden.
 
 
-  Voor groepen vanaf 20 personen ook open tijdens de week.
+  Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.
 
 
   Wij aanvaarden noch bankkaarten noch kredietkaarten.

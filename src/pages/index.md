@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
 image: /img/edited.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup

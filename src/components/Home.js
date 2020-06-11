@@ -44,7 +44,7 @@ export default class Home extends React.Component {
             <div className="col-lg-6 d-md-flex">
               <div className="block">
                 <div >
-                  <img src="/static/logo.png"></img>
+                  <img src="/img/logo.png"></img>
                 </div>
               </div>
             </div>

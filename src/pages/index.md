@@ -1,9 +1,7 @@
 ---
-templateKey: index-page
-title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/edited.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,10 +9,6 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -50,6 +44,78 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
+image: /img/edited.jpeg
+about: >-
+  LANDOUW SUMMER EDITION 2020
+
+
+  Come and enjoy a cosy apero and tapas with friends!
+
+
+  We staan te popelen om vanaf vrijdag 12 juni onze deuren terug te openen met een gloednieuw concept!
+
+
+  We bezorgen jullie het zuiderse vakantiegevoel en laten jullie genieten van een heerlijke cocktail/mocktail vergezeld van koude en/of warme tapas.
+
+
+  Ook voor de kids is er een lekkere tapasplank!
+
+
+  Het restaurant blijft open, maar met een aangepaste zomerkaart.
+
+
+  U kunt onze tapas, cocktails/mocktails alsook onze aangepaste zomerkaart checken hieronder.
+menus:
+  options:
+    - title: Apero & Cocktails
+      text: |-
+        Porto (wit - rood) € 5
+
+        Martini (wit - rood) € 5
+
+        Martini bellini € 6
+
+        Ricard € 6
+
+        Kirr Royal € 7
+
+        Pisang orange € 7
+
+        Campari orange € 7
+
+        Picon € 7
+
+        Maison € 7
+
+        Aperol Spritz € 7
+
+        Witte sangria v/h huis € 8
+
+        Witte sangria v/h huis (1L) € 20
+
+        Mojito € 8
+      image: /img/foto_116_full.jpg
+info: >+
+  Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
+  aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze
+  hartverwarmende Tiegemse koffie.
+
+
+  Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. Vraag onze geschenkbonnen: een PRACHTIG cadeau in te ruilen tegen een heerlijke maaltijd (waarde zelf te bepalen).
+
+
+  Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
+
+
+  Tijdens de zomermaanden zullen onze openingstijden aangepast worden.
+
+
+  Voor groepen vanaf 20 personen ook open tijdens de week.
+
+
+  Wij aanvaarden noch bankkaarten noch kredietkaarten.
+
 main:
   heading: Great coffee with no compromises
   description: >
@@ -66,4 +132,8 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---

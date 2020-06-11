@@ -2,7 +2,7 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import './all.sass'
+import './index.css'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
@@ -22,7 +22,6 @@ const TemplateWrapper = ({ children }) => {
           sizes="32x32"
         />
 
-
         <meta content="restaurant grill tea-room sfeervol tafelen kindvriendelijk terras speeltuin" name="keywords"></meta>
         <meta content="LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn." name="description"></meta>
         <meta content="nl" name="LANGUAGE"></meta>
@@ -37,7 +36,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       {/* <Navbar /> */}
       <div>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }

@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import Home from '../components/Home'
+import {ThemeProvider} from 'styled-components'
+import theme from './theme'
 
 export const IndexPageTemplate = ({
   image,
@@ -17,9 +19,21 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
+    <div
+      className="full-width-image margin-top-0"
+      style={{
+        backgroundImage: `url(${
+          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        })`,
+        backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,
+      }}
+    ></div>
     {/* <Features gridItems={intro.blurbs} /> */}
     {/* <BlogRoll /> */}
-    <Home/>
+    <ThemeProvider theme={theme}>
+      <Home/>
+    </ThemeProvider>
   </div>
 )
 

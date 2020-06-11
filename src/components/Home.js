@@ -22,38 +22,6 @@ export default class Home extends React.Component {
         date: null
       }
     }
-    this.handleChange = this.handleChange.bind(this);    
-  }
-
-  handleReservation(e) {
-    e.preventDefault();
-    let formData = new FormData()
-    formData.append('message', `Nieuwe reservatie:
-      Naam: ${this.state.reservation.naam}
-      Email: ${this.state.reservation.email}
-      Volwassenen: ${this.state.reservation.volwassenen}
-      Kinderen: ${this.state.reservation.kinderen}
-      Uur: ${this.state.reservation.hour}
-      Datum: ${this.state.reservation.date}
-      Opmerkingen: ${this.state.reservation.opmerkingen}
-    `
-    )
-    fetch("https://formspree.io/landouw@telenet.be", {
-      method: "POST",
-      // body: formData
-    }).then(response => response)
-    .catch(error => console.error('Error:', error))
-    .then(response => console.log('Success:', JSON.stringify(response)))
-  }
-
-  handleChange(value) {
-    this.setState({
-      ...this.state,
-      reservation: {
-        ...this.state.reservation,
-        ...value
-      }
-    })
   }
 
   getMinTime(date) {
@@ -68,6 +36,7 @@ export default class Home extends React.Component {
     const chosenDate = this.state.reservation.date
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
+
     return (
       <Page>
         <Header>
@@ -103,6 +72,7 @@ export default class Home extends React.Component {
             </div>
           </div>
         </div>
+
         <div className="container">
           <div className="row no-gutters">
             <div className="col-md-12">
@@ -124,6 +94,7 @@ export default class Home extends React.Component {
             </div>
           </div>
         </div>
+
         <Footer>
           <div className="container">
             <div className="row">
@@ -132,15 +103,15 @@ export default class Home extends React.Component {
                   <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" >
                     <input type="hidden" name="form-name" value="contact" />
                     <h4>RESERVEREN</h4>
-                    <InputField label="Naam" name="naam" onChange={e => this.handleChange({naam: e.target.value})}/>
-                    <InputField label="Email" name="_replyto" onChange={e => this.handleChange({email: e.target.value})}/>
-                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={e => this.handleChange({number: e.target.value})}/>
+                    <InputField label="Naam" name="naam"/>
+                    <InputField label="Email" name="_replyto"/>
+                    <InputField label="Telefoonnummer" name="telefoonnummer"/>
                     <div className="row">
                       <div className="col-md-6">
-                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={e => this.handleChange({volwassenen: e.target.value})}/>
+                        <InputField label="Volwassenen" name="volwassenen" type="number"/>
                       </div>
                       <div className="col-md-6">
-                        <InputField label="Kinderen" name="kinderen" type="number" onChange={e => this.handleChange({kinderen: e.target.value})}/>
+                        <InputField label="Kinderen" name="kinderen" type="number"/>
                       </div>
                     </div>
                     <div className="row">
@@ -153,7 +124,7 @@ export default class Home extends React.Component {
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
                             selected={this.state.reservation.date} 
-                            onChange={e => this.handleChange({date: e})}></DatePicker>
+                            ></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
@@ -169,13 +140,13 @@ export default class Home extends React.Component {
                             dateFormat="HH:mm"
                             minTime={minTime}
                             maxTime={maxTime}
-                            onChange={e => this.handleChange({date: e})}></DatePicker>
+                            ></DatePicker>
                         </div>
                       </div>
                     </div>
                     <div className="row">
                       <div className="col-md-12">
-                        <TextareaField placeholder="Om vlotte bediening te garanderen vragen wij om vanaf 10 personen uw menukeuze door te geven." label="Opmerkingen" name="Opmerkingen" onChange={e => this.handleChange({opmerkingen: e.target.value})} />
+                        <TextareaField label="Opmerkingen" name="Opmerkingen" />
                       </div>
                     </div>
                     <div className="row">
@@ -211,13 +182,14 @@ export default class Home extends React.Component {
             </div>
           </div>
         </Footer>
-        <Helmet title='Home' />
+        {/* <Helmet title='Home' /> */}
+
       </Page>
     )
+
   }
 }
   
-
 export const Button = styled.button`
 background: #c2baa6;
 border: none;
@@ -229,17 +201,17 @@ width: 100%;
 }
 `
 
-export const InputField = ({label, name, type, onChange, value}) => (
+export const InputField = ({label, name, type, value}) => (
 <div>
   <label>{label}</label>
-  <Input type={type} onChange={onChange} name={name} value={value}></Input>
+  <Input type={type} name={name} value={value}></Input>
 </div>
 )
 
-export const TextareaField = ({label, name, onChange, value, placeholder}) => (
+export const TextareaField = ({label, name, value, placeholder}) => (
 <div>
   <label>{label}</label>
-  <TextArea onChange={onChange} value={value} name={name} placeholder={placeholder} />
+  <TextArea value={value} name={name} placeholder={placeholder} />
 </div>
 )
 

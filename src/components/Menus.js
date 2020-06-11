@@ -1,11 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import 'react-accessible-accordion/dist/minimal-example.css';
-
-function format(text) {
-  const formatted = text.split(`\n\n`).map(paragraph => `<p>${paragraph.replace(/\n/g, `<br>`)}</p>`).join(``) 
-  return <div dangerouslySetInnerHTML={{ __html: formatted }} />
-}
+import { format } from './helpers'
 
 export default class Menus extends Component {
   constructor() {

@@ -5,6 +5,7 @@ import Location from './Location'
 import Menus from './Menus'
 import Page from './Page'
 import DatePicker, { registerLocale, setDefaultLocale } from "react-datepicker"
+import { format } from "./helpers"
 
 import "react-datepicker/dist/react-datepicker.css"
 import nl from 'date-fns/locale/nl';
@@ -37,11 +38,8 @@ export default class Home extends React.Component {
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
 
-    const infoDescr = this.props.info.split(`\n\n`).map(paragraph => `<p>${paragraph.replace(/\n/g, `<br>`)}</p>`).join(``) 
-    const aboutDescr = this.props.about.split(`\n\n`).map(paragraph => `<p>${paragraph.replace(/\n/g, `<br>`)}</p>`).join(``) 
-
-    const info = <div dangerouslySetInnerHTML={{ __html: infoDescr }} />
-    const about = <div dangerouslySetInnerHTML={{ __html: aboutDescr }} />
+    const info = format(this.props.info)
+    const about = format(this.props.about)
 
     return (
       <Page>

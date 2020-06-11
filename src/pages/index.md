@@ -111,7 +111,7 @@ info: >+
   Tijdens de zomermaanden zullen onze openingstijden aangepast worden.
 
 
-  Voor groepen vanaf 20 personen ook open tijdens de week.
+  Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.
 
 
   Wij aanvaarden noch bankkaarten noch kredietkaarten.

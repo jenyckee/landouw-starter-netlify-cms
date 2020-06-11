@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './index.css'
+import './bootstrap.css'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
@@ -29,10 +30,10 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
-        <meta
+        {/* <meta
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
-        />
+        /> */}
       </Helmet>
       {/* <Navbar /> */}
       <div>{children}</div>

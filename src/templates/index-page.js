@@ -19,20 +19,10 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    ></div>
     {/* <Features gridItems={intro.blurbs} /> */}
     {/* <BlogRoll /> */}
     <ThemeProvider theme={theme}>
-      <Home/>
+      <Home intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}/>
     </ThemeProvider>
   </div>
 )

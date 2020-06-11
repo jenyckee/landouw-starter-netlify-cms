@@ -49,7 +49,12 @@ export default class Home extends React.Component {
               </div>
             </div>
             <div className="col-lg-6 col-sm-12 hidden-md-down">
-              <IntroRight ></IntroRight>
+              <div style={{width: "100%",
+                  height: "75vh",
+                  background: `url(${this.props.intro})`,
+                  backgroundSize: "cover"}}>
+
+              </div>
             </div>
           </div>
         </Header>
@@ -238,11 +243,9 @@ color:  ${props => props.theme.white};
 
 
 export const IntroRight = styled.div`
-width: 100%;
-height: 75vh;
-background: url(/static/edited_ss.jpeg);
-background-size: cover;
+
 `
+
 export const IntroLeft = styled.img`
 `
 export const Container = styled.div`

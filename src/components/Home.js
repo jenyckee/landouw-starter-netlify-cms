@@ -27,9 +27,6 @@ export default class Home extends React.Component {
   constructor() {
     super()
     this.state = {
-      reservation: {
-        date: null
-      },
       isValidated: false
     }
     this.handleChange = this.handleChange.bind(this);    
@@ -50,14 +47,8 @@ export default class Home extends React.Component {
       .catch(error => alert(error))
   }
 
-  handleChange(value) {
-    this.setState({
-      ...this.state,
-      reservation: {
-        ...this.state.reservation,
-        ...value
-      }
-    })
+  handleChange = e => {
+    this.setState({ [e.target.name]: e.target.value })
   }
 
   getMinTime(date) {
@@ -69,7 +60,7 @@ export default class Home extends React.Component {
       const day = getDay(date);
       return !(day !== 0 && day !== 6 && day !== 5)
     }
-    const chosenDate = this.state.reservation.date
+    const chosenDate = this.state.date
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
 
@@ -148,15 +139,15 @@ export default class Home extends React.Component {
                         name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                     <input type="hidden" name="form-name" value="contact" />
                     <h4>RESERVEREN</h4>
-                    <InputField label="Naam" name="naam" onChange={e => this.handleChange({naam: e.target.value})}/>
-                    <InputField label="Email" name="_replyto" onChange={e => this.handleChange({email: e.target.value})}/>
-                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={e => this.handleChange({number: e.target.value})}/>
+                    <InputField label="Naam" name="naam" onChange={this.handleChange}/>
+                    <InputField label="Email" name="_replyto" onChange={this.handleChange}/>
+                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange}/>
                     <div className="row">
                       <div className="col-md-6">
-                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={e => this.handleChange({volwassenen: e.target.value})}/>
+                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={this.handleChange}/>
                       </div>
                       <div className="col-md-6">
-                        <InputField label="Kinderen" name="kinderen" type="number" onChange={e => this.handleChange({kinderen: e.target.value})}/>
+                        <InputField label="Kinderen" name="kinderen" type="number" onChange={this.handleChange}/>
                       </div>
                     </div>
                     <div className="row">
@@ -168,8 +159,8 @@ export default class Home extends React.Component {
                             locale="nl"
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
-                            selected={this.state.reservation.date} 
-                            onChange={e => this.handleChange({date: e})}></DatePicker>
+                            selected={this.state.date} 
+                            onChange={e => { e.target.name = "date"; this.handleChange(e)}}></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
@@ -181,11 +172,11 @@ export default class Home extends React.Component {
                             showTimeSelect
                             timeIntervals={30}
                             showTimeSelectOnly
-                            selected={this.state.reservation.date}
+                            selected={this.state.date}
                             dateFormat="HH:mm"
                             minTime={minTime}
                             maxTime={maxTime}
-                            onChange={e => this.handleChange({date: e})}></DatePicker>
+                            onChange={e => { e.target.name = "date"; this.handleChange(e)}}></DatePicker>
                         </div>
                       </div>
                     </div>
@@ -249,7 +240,7 @@ width: 100%;
 export const InputField = ({label, name, type, value}) => (
 <div>
   <label>{label}</label>
-  <Input type={type} name={name} value={value}></Input>
+  <input required={true} type={type} name={name} value={value}></input>
 </div>
 )
 
@@ -282,12 +273,6 @@ color:  ${props => props.theme.white};
 `
 
 
-export const IntroRight = styled.div`
-
-`
-
-export const IntroLeft = styled.img`
-`
 export const Container = styled.div`
 background-color: ${props => props.theme.beigeLight};
 height: 75vh;
@@ -297,9 +282,6 @@ export const Header = styled.div`
 background-color: ${props => props.theme.beigeLight};
 `
 
-export const Input = styled.input`
-
-`
 export const Select = styled.select`
 background: #c2baa6;
 width: 100%;

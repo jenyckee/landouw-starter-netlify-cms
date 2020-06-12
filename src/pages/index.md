@@ -45,7 +45,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/edited.jpeg
+image: /img/onze_verfrissende_mojito_.jpg
 about: >-
   LANDOUW SUMMER EDITION 2020
 

@@ -21,8 +21,6 @@ function encode(data) {
 }
 
 export default class Home extends React.Component {
-
- 
   constructor() {
     super()
     this.state = {
@@ -77,12 +75,9 @@ export default class Home extends React.Component {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 col-sm-12 hidden-md-down">
-              <div style={{width: "100%",
-                  height: "75vh",
-                  background: `url(${this.props.intro})`,
-                  backgroundSize: "cover"}}>
-
+            <div className="col-lg-6 hidden-md-down">
+              <div style={{widht:"100%", background: "white"}}>
+                <img src={this.props.intro}></img>
               </div>
             </div>
           </div>
@@ -217,8 +212,6 @@ export default class Home extends React.Component {
             </div>
           </div>
         </Footer>
-        {/* <Helmet title='Home' /> */}
-
       </Page>
     )
 

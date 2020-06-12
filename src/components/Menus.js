@@ -11,7 +11,9 @@ export default class Menus extends Component {
     }
   }
   render() {
-    console.log(this.props.data)
+    if (!this.props.data) {
+      return <p>Menus ...</p>
+    }
     return (
       <div className="row">
         <div className="col-md-6">

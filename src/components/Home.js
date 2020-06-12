@@ -29,7 +29,6 @@ export default class Home extends React.Component {
     this.state = {
       isValidated: false
     }
-    this.handleChange = this.handleChange.bind(this);    
   }
 
   handleSubmit = e => {
@@ -48,6 +47,7 @@ export default class Home extends React.Component {
   }
 
   handleChange = e => {
+    console.log(this.state)
     this.setState({ [e.target.name]: e.target.value })
   }
 
@@ -237,10 +237,10 @@ width: 100%;
 }
 `
 
-export const InputField = ({label, name, type, value}) => (
+export const InputField = ({label, name, type, value, onChange}) => (
 <div>
   <label>{label}</label>
-  <input required={true} type={type} name={name} value={value}></input>
+  <input required={true} type={type} name={name} value={value} onChange={onChange}></input>
 </div>
 )
 

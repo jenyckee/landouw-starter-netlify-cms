@@ -18,7 +18,7 @@ export default class Menus extends Component {
       <div className="row">
         <div className="col-md-6">
           {this.props.data.options.map((menu, i) => 
-            <div onClick={() => this.setState({current: i})}>
+            <div key={i} onClick={() => this.setState({current: i})}>
               <h4 className={`menu-title ${this.state.current === i ? "selected": ""}`}>{menu.title}</h4>
             </div>
           )}

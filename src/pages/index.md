@@ -106,6 +106,121 @@ menus:
 
         Bitter Spritz € 6
       image: /img/foto_116_full.jpg
+    - title: Gin
+      text: |+
+        Gin Tonic - Nordic € 8
+
+        Bombay Sapphire - Nordic € 10
+
+        Fie's Gin - Nordic € 10
+
+        London Dry Gin N°3 - Nordic € 12
+
+      image: /img/foto_116_full.jpg
+    - title: Tapas
+      text: >-
+        Ravioli met zalm & ricotta € 5
+
+
+        Huisgemaakte goujounettes € 8
+
+
+        Zeeparels met gerookte forel € 7
+
+
+        Foie gras met bosvruchten € 9
+
+
+        Bruschetta met huisgemaakt brood €5
+
+
+        Bowl nacho's met guacamole en tomatenchutney € 6
+
+
+        Rib's in a basket € 8 / € 14
+
+
+        Chicken wings € 7
+
+
+        Tempura van groenten € 5
+
+
+        Droge worst € 3
+
+
+        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
+      image: /img/foto_116_full.jpg
+    - text: |-
+        Coupe cava
+
+        ~
+
+        Duo kaas- en garnaalkroketje met fris slaatje
+
+        -
+
+        Seizoensgebonden suggestie
+
+        ~
+
+        Côte à l'os met frietjes & saus naar keuze
+
+        -
+
+        Vis van de dag met puree en gewokte groentjes
+
+        ~
+
+        Dessert van de chef
+
+        Met voorgerecht € 44
+
+        Zonder voorgerecht € 35
+      title: Suggestiemenu
+      image: /img/foto_116_full.jpg
+    - title: Hoofdgerechten
+      image: /img/foto_116_full.jpg
+      text: |-
+        Coupe cava
+
+        ~
+
+        Duo kaas- en garnaalkroketje met fris slaatje
+
+        -
+
+        Seizoensgebonden suggestie
+
+        ~
+
+        Côte à l'os met frietjes & saus naar keuze
+
+        -
+
+        Vis van de dag met puree en gewokte groentjes
+
+        ~
+
+        Dessert van de chef
+
+        Met voorgerecht € 44
+
+        Zonder voorgerecht € 35
+    - title: Voor de kleinsten
+      image: /img/foto_116_full.jpg
+      text: |-
+        Kinderspaghetti € 10
+
+        Snackmannetje € 8
+
+        Frikandel met frietjes € 10
+
+        Balletjes in tomatensaus € 10
+
+        Kipnuggets met frietjes € 8
+
+        Hamburger met appelmoes € 10
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze

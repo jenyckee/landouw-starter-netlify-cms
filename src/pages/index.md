@@ -182,31 +182,17 @@ menus:
     - title: Hoofdgerechten
       image: /img/foto_116_full.jpg
       text: |-
-        Coupe cava
+        Gegrilde gamba's met look € 24
 
-        ~
+        Ribbetjes met frietjes en slaatje € 20
 
-        Duo kaas- en garnaalkroketje met fris slaatje
+        Lamskotelletjes met hofmeesterboter € 24
 
-        -
+        Gemarineerde gevogeltebrochette € 22
 
-        Seizoensgebonden suggestie
+        Vis van de dag met risotto DAGPRIJS
 
-        ~
-
-        Côte à l'os met frietjes & saus naar keuze
-
-        -
-
-        Vis van de dag met puree en gewokte groentjes
-
-        ~
-
-        Dessert van de chef
-
-        Met voorgerecht € 44
-
-        Zonder voorgerecht € 35
+        Côte à l'os met frietjes € 28
     - title: Voor de kleinsten
       image: /img/foto_116_full.jpg
       text: |-

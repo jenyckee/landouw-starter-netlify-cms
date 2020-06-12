@@ -6,6 +6,7 @@ import Menus from './Menus'
 import Page from './Page'
 import DatePicker, { registerLocale, setDefaultLocale } from "react-datepicker"
 import { format } from "./helpers"
+import { navigate } from 'gatsby-link'
 
 import "react-datepicker/dist/react-datepicker.css"
 import nl from 'date-fns/locale/nl';
@@ -14,15 +15,49 @@ import { getDay, setHours, setMinutes } from "date-fns";
 registerLocale('nl', nl)
 setDefaultLocale('nl');
 
+function encode(data) {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+    .join('&')
+}
+
 export default class Home extends React.Component {
 
+ 
   constructor() {
     super()
     this.state = {
       reservation: {
         date: null
-      }
+      },
+      isValidated: false
     }
+    this.handleChange = this.handleChange.bind(this);    
+  }
+
+  handleSubmit = e => {
+    e.preventDefault()
+    const form = e.target
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: encode({
+        'form-name': form.getAttribute('name'),
+        ...this.state,
+      }),
+    })
+      .then(() => navigate(form.getAttribute('action')))
+      .catch(error => alert(error))
+  }
+
+  handleChange(value) {
+    this.setState({
+      ...this.state,
+      reservation: {
+        ...this.state.reservation,
+        ...value
+      }
+    })
   }
 
   getMinTime(date) {
@@ -109,18 +144,19 @@ export default class Home extends React.Component {
             <div className="row">
               <div className="col-md-6">
                 <section>
-                  <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" >
+                  <form action="/contact/thanks/"
+                        name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                     <input type="hidden" name="form-name" value="contact" />
                     <h4>RESERVEREN</h4>
-                    <InputField label="Naam" name="naam"/>
-                    <InputField label="Email" name="_replyto"/>
-                    <InputField label="Telefoonnummer" name="telefoonnummer"/>
+                    <InputField label="Naam" name="naam" onChange={e => this.handleChange({naam: e.target.value})}/>
+                    <InputField label="Email" name="_replyto" onChange={e => this.handleChange({email: e.target.value})}/>
+                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={e => this.handleChange({number: e.target.value})}/>
                     <div className="row">
                       <div className="col-md-6">
-                        <InputField label="Volwassenen" name="volwassenen" type="number"/>
+                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={e => this.handleChange({volwassenen: e.target.value})}/>
                       </div>
                       <div className="col-md-6">
-                        <InputField label="Kinderen" name="kinderen" type="number"/>
+                        <InputField label="Kinderen" name="kinderen" type="number" onChange={e => this.handleChange({kinderen: e.target.value})}/>
                       </div>
                     </div>
                     <div className="row">
@@ -133,7 +169,7 @@ export default class Home extends React.Component {
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
                             selected={this.state.reservation.date} 
-                            ></DatePicker>
+                            onChange={e => this.handleChange({date: e})}></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
@@ -149,7 +185,7 @@ export default class Home extends React.Component {
                             dateFormat="HH:mm"
                             minTime={minTime}
                             maxTime={maxTime}
-                            ></DatePicker>
+                            onChange={e => this.handleChange({date: e})}></DatePicker>
                         </div>
                       </div>
                     </div>

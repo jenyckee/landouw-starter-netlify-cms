@@ -22,6 +22,7 @@ const TemplateWrapper = ({ children }) => {
           href={`${withPrefix('/')}img/favicon.ico`}
           sizes="32x32"
         />
+        <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet"></link>
 
         <meta content="restaurant grill tea-room sfeervol tafelen kindvriendelijk terras speeltuin" name="keywords"></meta>
         <meta content="LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn." name="description"></meta>

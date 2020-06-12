@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import styled from 'styled-components'
 import Location from './Location'
 import Menus from './Menus'
@@ -38,7 +37,7 @@ export default class Home extends React.Component {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
-        'form-name': form.getAttribute('name'),
+        // 'form-name': form.getAttribute('name'),
         ...this.state,
       }),
     })
@@ -155,7 +154,6 @@ export default class Home extends React.Component {
                         <div>
                           <label>Datum</label>
                           <DatePicker
-                            name="datum"
                             locale="nl"
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
@@ -168,7 +166,6 @@ export default class Home extends React.Component {
                           <label>Uur</label>
                           <DatePicker 
                             locale="nl"
-                            name="uur"
                             showTimeSelect
                             timeIntervals={30}
                             showTimeSelectOnly
@@ -182,7 +179,7 @@ export default class Home extends React.Component {
                     </div>
                     <div className="row">
                       <div className="col-md-12">
-                        <TextareaField label="Opmerkingen" name="Opmerkingen" />
+                        <TextareaField label="Opmerkingen" name="Opmerkingen" onChange={this.handleChange}/>
                       </div>
                     </div>
                     <div className="row">

@@ -160,7 +160,7 @@ export default class Home extends React.Component {
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
                             selected={this.state.date} 
-                            onChange={e => { e.target.name = "date"; this.handleChange(e)}}></DatePicker>
+                            onChange={d => this.setState({...this.state, date: d})}></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
@@ -176,7 +176,7 @@ export default class Home extends React.Component {
                             dateFormat="HH:mm"
                             minTime={minTime}
                             maxTime={maxTime}
-                            onChange={e => { e.target.name = "date"; this.handleChange(e)}}></DatePicker>
+                            onChange={d => this.setState({...this.state, date: d})}></DatePicker>
                         </div>
                       </div>
                     </div>

@@ -67,17 +67,17 @@ export default class Home extends React.Component {
     return (
       <Page>
         <Header>
-          <div className="row no-gutters">
-            <div className="col-lg-6 d-md-flex">
-              <div className="block">
-                <div >
+          <div className="">
+            <div className="row no-gutters">
+              <div className="col-lg-6 d-md-flex">
+                <div className="block">
                   <img src="/img/logo.png"></img>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-6 hidden-md-down">
-              <div style={{widht:"100%", background: "white"}}>
-                <img src={this.props.intro}></img>
+              <div className="col-lg-6 hidden-md-down">
+                <div style={{ background: "white"}}>
+                  <img style={{ maxWidth: "50vw", maxHeight: "100vh"}} src={this.props.intro}></img>
+                </div>
               </div>
             </div>
           </div>

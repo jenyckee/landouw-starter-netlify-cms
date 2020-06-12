@@ -59,7 +59,7 @@ export default class Home extends React.Component {
       const day = getDay(date);
       return !(day !== 0 && day !== 6 && day !== 5)
     }
-    const chosenDate = this.state.date
+    const chosenDate = this.state.datum
     const minTime = this.getMinTime(chosenDate)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
 
@@ -155,10 +155,11 @@ export default class Home extends React.Component {
                           <label>Datum</label>
                           <DatePicker
                             locale="nl"
+                            name="datum"
                             filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
-                            selected={this.state.date} 
-                            onChange={d => this.setState({...this.state, date: d})}></DatePicker>
+                            selected={this.state.datum} 
+                            onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
@@ -166,14 +167,15 @@ export default class Home extends React.Component {
                           <label>Uur</label>
                           <DatePicker 
                             locale="nl"
+                            name="datum"
                             showTimeSelect
                             timeIntervals={30}
                             showTimeSelectOnly
-                            selected={this.state.date}
+                            selected={this.state.datum}
                             dateFormat="HH:mm"
                             minTime={minTime}
                             maxTime={maxTime}
-                            onChange={d => this.setState({...this.state, date: d})}></DatePicker>
+                            onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>
                     </div>
@@ -241,10 +243,10 @@ export const InputField = ({label, name, type, value, onChange}) => (
 </div>
 )
 
-export const TextareaField = ({label, name, value, placeholder}) => (
+export const TextareaField = ({label, name, value, placeholder, onChange}) => (
 <div>
   <label>{label}</label>
-  <TextArea value={value} name={name} placeholder={placeholder} />
+  <TextArea value={value} name={name} placeholder={placeholder} onChange={onChange} />
 </div>
 )
 

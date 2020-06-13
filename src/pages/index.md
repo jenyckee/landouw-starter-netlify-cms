@@ -105,7 +105,7 @@ menus:
         Sweet dreams € 6
 
         Bitter Spritz € 6
-      image: /img/foto_116_full.jpg
+      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
     - title: Gin
       text: |+
         Gin Tonic - Nordic € 8
@@ -116,7 +116,7 @@ menus:
 
         London Dry Gin N°3 - Nordic € 12
 
-      image: /img/foto_116_full.jpg
+      image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
         Ravioli met zalm & ricotta € 5
@@ -189,9 +189,9 @@ menus:
 
         Zonder voorgerecht € 35
       title: Suggestiemenu
-      image: /img/foto_116_full.jpg
+      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: Hoofdgerechten
-      image: /img/foto_116_full.jpg
+      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
       text: |-
         Gegrilde gamba's met look € 24
 

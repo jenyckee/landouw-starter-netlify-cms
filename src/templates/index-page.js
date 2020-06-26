@@ -52,6 +52,7 @@ const IndexPage = ({ data }) => {
         about={frontmatter.about}
         info={frontmatter.info}
         menus={frontmatter.menus}
+        hours={frontmatter.hours}
       />
     </Layout>
   )
@@ -94,6 +95,7 @@ export const pageQuery = graphql`
           }
         }
         info
+        hours
       }
     }
   }

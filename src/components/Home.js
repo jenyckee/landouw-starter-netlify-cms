@@ -214,7 +214,6 @@ export default class Home extends React.Component {
         </Footer>
       </Page>
     )
-
   }
 }
   

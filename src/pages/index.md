@@ -45,7 +45,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/103053764_2583323891879810_5511877343881749218_o-1-.jpg
+image: /img/onze_verfrissende_mojito_.jpg
 about: >-
   LANDOUW SUMMER EDITION 2020
 
@@ -95,7 +95,7 @@ menus:
         Witte sangria v/h huis (1L) € 20
 
         Mojito € 8
-      image: /img/foto_116_full.jpg
+      image: /img/onze_verfrissende_mojito_.jpg
     - title: Mocktails
       text: |-
         Appletiser special € 4
@@ -105,7 +105,7 @@ menus:
         Sweet dreams € 6
 
         Bitter Spritz € 6
-      image: /img/foto_116_full.jpg
+      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
     - title: Gin
       text: |+
         Gin Tonic - Nordic € 8
@@ -116,7 +116,7 @@ menus:
 
         London Dry Gin N°3 - Nordic € 12
 
-      image: /img/foto_116_full.jpg
+      image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
         Ravioli met zalm & ricotta € 5
@@ -151,6 +151,17 @@ menus:
 
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
       image: /img/foto_116_full.jpg
+    - title: Tapasplanken
+      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
+      text: >-
+        Warme tapasplank: gegrilde witte pens, buikspek, patatas bravas,
+        lookbroodjes, gebakken scampi's, tempura van groenten € 18
+
+
+        Koude tapasplank: verschillende kazen & hesp, chorizo, paté, tapenade € 16
+
+
+        Kinder tapasplank: mini frikandellen, kipnuggets, bitterballen, loempia's, sausjes € 12
     - text: |-
         Coupe cava
 
@@ -178,9 +189,9 @@ menus:
 
         Zonder voorgerecht € 35
       title: Suggestiemenu
-      image: /img/foto_116_full.jpg
+      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: Hoofdgerechten
-      image: /img/foto_116_full.jpg
+      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
       text: |-
         Gegrilde gamba's met look € 24
 
@@ -207,6 +218,25 @@ menus:
         Kipnuggets met frietjes € 8
 
         Hamburger met appelmoes € 10
+    - title: Desserts
+      image: /img/47216601_2182634031948800_5103231736825774080_o.jpg
+      text: >-
+        Dame Blanche € 7
+
+
+        Moelleux au chocolat met vanille roomijs € 9
+
+
+        Frambozensorbet met amandelroomijs en meringue € 9
+
+
+        Crème brûlée € 7
+
+
+        Appeltaart met roomijs € 9
+
+
+        Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze
@@ -217,6 +247,8 @@ info: >+
 
 
   Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
+
+  Vanaf 15 juli tot en met 15 augustus zijn wij DOORLOPEND open vanaf 17u. 
 
 
   Tijdens de zomermaanden zullen onze openingstijden aangepast worden.

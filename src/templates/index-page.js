@@ -94,7 +94,6 @@ export const pageQuery = graphql`
           }
         }
         info
-        hours
       }
     }
   }

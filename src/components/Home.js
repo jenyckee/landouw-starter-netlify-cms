@@ -199,7 +199,7 @@ export default class Home extends React.Component {
                     </div>
                     <div className="col-md-6">
                       <h4>OPENINGSUREN</h4>
-                      <span>VRIJDAG VANAF 17U, ZATERDAG EN ZONDAG DOORLOPEND 'S MIDDAGS EN 'S AVONDS.</span>
+                      <span>{this.props.hours}</span>
                     </div>
                   </div>
                   <div className="row">

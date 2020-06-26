@@ -12,14 +12,19 @@ export const IndexPageTemplate = ({
   title,
   info,
   about,
-  menus
+  menus,
+  hours
 }) => (
   <div>
     {/* <Features gridItems={intro.blurbs} /> */}
     {/* <BlogRoll /> */}
     <ThemeProvider theme={theme}>
-      <Home intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
-        info={info} menus={menus} about={about}/>
+      <Home 
+        intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
+        info={info} 
+        menus={menus} 
+        about={about}
+        hours={hours}/>
     </ThemeProvider>
   </div>
 )
@@ -89,6 +94,7 @@ export const pageQuery = graphql`
           }
         }
         info
+        hours
       }
     }
   }

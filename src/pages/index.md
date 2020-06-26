@@ -259,6 +259,8 @@ info: >+
 
   Wij aanvaarden noch bankkaarten noch kredietkaarten.
 
+hours: 15 juli tot en met 15 augustus doorlopend open is (iedere dag van de
+  week) vanaf 17u
 main:
   heading: Great coffee with no compromises
   description: >

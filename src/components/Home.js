@@ -59,7 +59,7 @@ export default class Home extends React.Component {
     }
     const chosenDate = this.state.datum
     // const minTime = this.getMinTime(chosenDate)
-    const minTime = setHours(setMinutes(new Date(), 00), 17)
+    const minTime = setHours(setMinutes(new Date(), 0), 17)
     const maxTime = setHours(setMinutes(new Date(), 30), 20)
 
     const info = format(this.props.info)

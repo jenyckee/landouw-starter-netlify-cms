@@ -45,7 +45,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/onze_verfrissende_mojito_.jpg
+image: /img/106128729_2594764197402446_1821529218414731076_n.jpg
 about: >-
   LANDOUW SUMMER EDITION 2020
 
@@ -150,9 +150,9 @@ menus:
 
 
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
-      image: /img/foto_116_full.jpg
+      image: /img/103324992_2585399458338920_8809612428848375627_n.jpg
     - title: Tapasplanken
-      image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
+      image: /img/75233458_2597265530485646_5684991334705997721_n.jpg
       text: >-
         Warme tapasplank: gegrilde witte pens, buikspek, patatas bravas,
         lookbroodjes, gebakken scampi's, tempura van groenten € 18

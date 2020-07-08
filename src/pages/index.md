@@ -165,7 +165,7 @@ menus:
         Camembert in de oven & charcuterie € 16
 
 
-        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt aangepast. Check onze facebook-pagina voor meer informatie.
+        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart geregeld wordt aangepast. 
       image: /img/103324992_2585399458338920_8809612428848375627_n.jpg
     - title: Tapasplanken
       image: /img/75233458_2597265530485646_5684991334705997721_n.jpg
@@ -236,7 +236,7 @@ menus:
         Côte à l'os met frietjes € 28
 
 
-        Dit is een voorbeeld van onze zomerkaart. Onze zomerkaart wordt aangepast. Check onze facebook-pagina voor meer informatie.
+        Dit is een voorbeeld van onze zomerkaart. Onze zomerkaart wordt geregeld aangepast. 
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-

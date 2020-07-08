@@ -269,7 +269,7 @@ menus:
         Appeltaart met roomijs € 9
 
 
-        Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
+        Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze

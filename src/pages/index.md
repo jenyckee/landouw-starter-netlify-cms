@@ -209,19 +209,28 @@ menus:
     - title: Hoofdgerechten
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
       text: >-
+        Salade geitenkaas € 19
+
+
+        Rundscarpaccio € 19
+
+
+        Scampi maison € 20
+
+
+        Ribbetjes met frietjes en slaatje € 22
+
+
+        Vis van de dag met gewokte groenten DAGPRIJS
+
+
+        Rundsteak € 24
+
+
         Gegrilde gamba's met look € 24
 
 
-        Ribbetjes met frietjes en slaatje € 20
-
-
         Lamskotelletjes met hofmeesterboter € 24
-
-
-        Gemarineerde gevogeltebrochette € 22
-
-
-        Vis van de dag met risotto DAGPRIJS
 
 
         Côte à l'os met frietjes € 28

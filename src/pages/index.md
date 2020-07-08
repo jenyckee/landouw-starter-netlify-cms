@@ -68,7 +68,7 @@ about: >-
   U kunt onze tapas, cocktails/mocktails alsook onze aangepaste zomerkaart checken hieronder.
 menus:
   options:
-    - title: Apero & Cocktails
+    - title: Apero
       text: |-
         Porto (wit - rood) € 5
 
@@ -79,6 +79,8 @@ menus:
         Ricard € 6
 
         Kirr Royal € 7
+
+        Kirr Landouw € 7
 
         Pisang orange € 7
 
@@ -93,8 +95,6 @@ menus:
         Witte sangria v/h huis € 8
 
         Witte sangria v/h huis (1L) € 20
-
-        Mojito € 8
       image: /img/onze_verfrissende_mojito_.jpg
     - title: Mocktails
       text: |-
@@ -245,6 +245,16 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
+    - title: "Cocktails "
+      image: /img/onze_verfrissende_mojito_.jpg
+      text: |-
+        Mojito € 8
+
+        Mojito strawberry € 9
+
+        Calvados sour € 9
+
+        Dirty Martini € 10
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze

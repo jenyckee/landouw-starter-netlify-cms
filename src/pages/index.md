@@ -95,7 +95,17 @@ menus:
         Witte sangria v/h huis € 8
 
         Witte sangria v/h huis (1L) € 20
+      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
+    - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg
+      text: |-
+        Mojito € 8
+
+        Mojito strawberry € 9
+
+        Calvados sour € 9
+
+        Dirty Martini € 10
     - title: Mocktails
       text: |-
         Appletiser special € 4
@@ -119,34 +129,40 @@ menus:
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
-        Ravioli met zalm & ricotta € 5
+        Klassieke spaanse bruschetta € 6
+
+
+        Gemarineerde kipspiesjes met sesam € 7
+
+
+        Bowl nacho's met guacamole, tomatenchutney & kaassaus € 7
 
 
         Huisgemaakte goujounettes € 8
 
 
-        Zeeparels met gerookte forel € 7
+        Bruschetta met serranoham € 9
 
 
-        Foie gras met bosvruchten € 9
+        Albondigas € 10
 
 
-        Bruschetta met huisgemaakt brood €5
+        Foie gras op chef's wijze € 10
 
 
-        Bowl nacho's met guacamole en tomatenchutney € 6
+        Hartige muffins met kruidenkaas € 10
+
+
+        Chicken wings € 12
 
 
         Rib's in a basket € 8 / € 14
 
 
-        Chicken wings € 7
+        Scampi lookboter € 9 / € 14
 
 
-        Tempura van groenten € 5
-
-
-        Droge worst € 3
+        Camembert in de oven & charcuterie € 16
 
 
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt aangepast. Check onze facebook-pagina voor meer informatie.
@@ -245,16 +261,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
-    - title: "Cocktails "
-      image: /img/onze_verfrissende_mojito_.jpg
-      text: |-
-        Mojito € 8
-
-        Mojito strawberry € 9
-
-        Calvados sour € 9
-
-        Dirty Martini € 10
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze

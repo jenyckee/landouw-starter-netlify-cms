@@ -105,7 +105,7 @@ menus:
         Sweet dreams € 6
 
         Bitter Spritz € 6
-      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
+      image: /img/landouwsummer-13.jpg
     - title: Gin
       text: |+
         Gin Tonic - Nordic € 8
@@ -205,7 +205,7 @@ menus:
 
         Côte à l'os met frietjes € 28
     - title: Voor de kleinsten
-      image: /img/foto_116_full.jpg
+      image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
         Kinderspaghetti € 10
 

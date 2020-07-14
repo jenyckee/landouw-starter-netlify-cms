@@ -168,7 +168,7 @@ export default class Home extends React.Component {
                             showTimeSelectOnly
                             selected={this.state.datum}
                             dateFormat="HH:mm"
-                            minTime={minTime}
+
                             onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>

@@ -152,7 +152,6 @@ export default class Home extends React.Component {
                           <DatePicker
                             locale="nl"
                             name="datum"
-                            filterDate={isWeekendday}
                             dateFormat="dd/MM/yyyy"
                             selected={this.state.datum} 
                             onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
@@ -170,7 +169,6 @@ export default class Home extends React.Component {
                             selected={this.state.datum}
                             dateFormat="HH:mm"
                             minTime={minTime}
-                            maxTime={maxTime}
                             onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>

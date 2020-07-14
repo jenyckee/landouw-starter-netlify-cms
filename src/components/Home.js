@@ -153,7 +153,8 @@ export default class Home extends React.Component {
                             locale="nl"
                             name="datum"
                             dateFormat="dd/MM/yyyy"
-                            selected={this.state.datum} 
+                            selected={this.state.datum}
+                            required={true}
                             onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>
@@ -168,7 +169,7 @@ export default class Home extends React.Component {
                             showTimeSelectOnly
                             selected={this.state.datum}
                             dateFormat="HH:mm"
-
+                            required={true}
                             onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
                         </div>
                       </div>

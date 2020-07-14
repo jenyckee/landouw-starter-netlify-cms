@@ -45,7 +45,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/106128729_2594764197402446_1821529218414731076_n.jpg
+image: /img/106495264_2600600686818797_8000416797161714661_n.jpg
 about: >-
   LANDOUW SUMMER EDITION 2020
 
@@ -68,7 +68,7 @@ about: >-
   U kunt onze tapas, cocktails/mocktails alsook onze aangepaste zomerkaart checken hieronder.
 menus:
   options:
-    - title: Apero & Cocktails
+    - title: Apero
       text: |-
         Porto (wit - rood) € 5
 
@@ -79,6 +79,8 @@ menus:
         Ricard € 6
 
         Kirr Royal € 7
+
+        Kirr Landouw € 7
 
         Pisang orange € 7
 
@@ -93,9 +95,17 @@ menus:
         Witte sangria v/h huis € 8
 
         Witte sangria v/h huis (1L) € 20
-
-        Mojito € 8
+      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
+    - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg
+      text: |-
+        Mojito € 8
+
+        Mojito strawberry € 9
+
+        Calvados sour € 9
+
+        Dirty Martini € 10
     - title: Mocktails
       text: |-
         Appletiser special € 4
@@ -105,7 +115,7 @@ menus:
         Sweet dreams € 6
 
         Bitter Spritz € 6
-      image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
+      image: /img/landouwsummer-13.jpg
     - title: Gin
       text: |+
         Gin Tonic - Nordic € 8
@@ -119,37 +129,43 @@ menus:
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
-        Ravioli met zalm & ricotta € 5
+        Klassieke spaanse bruschetta € 6
+
+
+        Gemarineerde kipspiesjes met sesam € 7
+
+
+        Bowl nacho's met guacamole, tomatenchutney & kaassaus € 7
 
 
         Huisgemaakte goujounettes € 8
 
 
-        Zeeparels met gerookte forel € 7
+        Bruschetta met serranoham € 9
 
 
-        Foie gras met bosvruchten € 9
+        Albondigas € 10
 
 
-        Bruschetta met huisgemaakt brood €5
+        Foie gras op chef's wijze € 10
 
 
-        Bowl nacho's met guacamole en tomatenchutney € 6
+        Hartige muffins met kruidenkaas € 10
+
+
+        Chicken wings € 12
 
 
         Rib's in a basket € 8 / € 14
 
 
-        Chicken wings € 7
+        Scampi lookboter € 9 / € 14
 
 
-        Tempura van groenten € 5
+        Camembert in de oven & charcuterie € 16
 
 
-        Droge worst € 3
-
-
-        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
+        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart geregeld wordt aangepast. 
       image: /img/103324992_2585399458338920_8809612428848375627_n.jpg
     - title: Tapasplanken
       image: /img/75233458_2597265530485646_5684991334705997721_n.jpg
@@ -192,20 +208,37 @@ menus:
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: Hoofdgerechten
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
-      text: |-
+      text: >-
+        Salade geitenkaas € 19
+
+
+        Rundscarpaccio € 19
+
+
+        Scampi maison € 20
+
+
+        Ribbetjes met frietjes en slaatje € 22
+
+
+        Vis van de dag met gewokte groenten DAGPRIJS
+
+
+        Rundsteak € 24
+
+
         Gegrilde gamba's met look € 24
 
-        Ribbetjes met frietjes en slaatje € 20
 
         Lamskotelletjes met hofmeesterboter € 24
 
-        Gemarineerde gevogeltebrochette € 22
-
-        Vis van de dag met risotto DAGPRIJS
 
         Côte à l'os met frietjes € 28
+
+
+        Dit is een voorbeeld van onze zomerkaart. Onze zomerkaart wordt geregeld aangepast. 
     - title: Voor de kleinsten
-      image: /img/foto_116_full.jpg
+      image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
         Kinderspaghetti € 10
 
@@ -236,7 +269,7 @@ menus:
         Appeltaart met roomijs € 9
 
 
-        Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt elke week aangepast. Check onze facebook-pagina voor meer informatie.
+        Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze
@@ -259,8 +292,11 @@ info: >+
 
   Wij aanvaarden noch bankkaarten noch kredietkaarten.
 
-hours: 15 juli tot en met 15 augustus doorlopend open (iedere dag van de week)
-  vanaf 17u
+hours: |-
+  VRIJDAG OPEN OM 17U
+  ZATERDAG & ZONDAG OPEN OM 12u
+
+  Vanaf 15 juli tot en met 15 augustus zullen we doorlopend open zijn vanaf 17u
 main:
   heading: Great coffee with no compromises
   description: >

@@ -131,7 +131,7 @@ export default class Home extends React.Component {
                 <h4>CORONA REGISTRATIE</h4>
                 <p>Wegens de coronamaatregelen zijn wij verplicht uw contactgegevens bij te houden. Bedankt voor uw medewerking.</p>
                 <form action="/contact/thanks/"
-                        name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
+                        name="coronaregistratie" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                     <input type="hidden" name="form-name" value="coronaregistratie" />
                     <InputField label="Voornaam" name="voornaam" onChange={this.handleChange}/>
                     <InputField label="Familienaam" name="familienaam" onChange={this.handleChange}/>

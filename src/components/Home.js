@@ -114,7 +114,7 @@ export default class Home extends React.Component {
           </div>
         </div>
         <div className="container">
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6"></div>
             <div className="col-md-6">
               <SectionInfo>
@@ -124,7 +124,31 @@ export default class Home extends React.Component {
             </div>
           </div>
         </div>
-
+        <div className="container">
+          <div className="row no-gutters">
+            <div className="col-md-6">
+              <SectionCorona>
+                <h4>CORONA REGISTRATIE</h4>
+                <p>Wegens de coronamaatregelen zijn wij verplicht uw contactgegevens bij te houden. Bedankt voor uw medewerking.</p>
+                <form action="/contact/thanks/"
+                        name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
+                    <input type="hidden" name="form-name" value="coronaregistratie" />
+                    <InputField label="Voornaam" name="voornaam" onChange={this.handleChange}/>
+                    <InputField label="Familienaam" name="familienaam" onChange={this.handleChange}/>
+                    <InputField label="Straat + Nummer" name="straat" onChange={this.handleChange}/>
+                    <InputField label="Gemeente" name="gemeente" onChange={this.handleChange}/>
+                    <InputField label="Email" name="_replyto" onChange={this.handleChange}/>
+                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange}/>
+                    <div className="row mt-4">
+                      <div className="col-md-12">
+                        <Button type="submit">Versturen</Button>
+                      </div>
+                    </div>
+                  </form>
+              </SectionCorona>
+            </div>
+          </div>
+        </div>
         <Footer>
           <div className="container">
             <div className="row">
@@ -251,6 +275,10 @@ background: ${props => props.theme.oliveGreen};
 color:  ${props => props.theme.coal};
 `
 
+export const SectionCorona = styled.section`
+  background: ${props => props.theme.beigeLight};
+  color:  ${props => props.theme.coal};
+`
 
 export const Section = styled.section`
 background: ${props => props.theme.beigeLight};

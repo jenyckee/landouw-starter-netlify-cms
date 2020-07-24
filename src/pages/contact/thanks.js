@@ -7,7 +7,7 @@ export default () => (
     <section className="section">
       <div className="container">
         <div className="content">
-          <h1>Bedankt en tot binnenkort! </h1>
+          <h1>Bedankt!</h1>
           <Link to="/">Ga terug</Link>
         </div>
       </div>

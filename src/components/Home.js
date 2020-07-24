@@ -135,8 +135,6 @@ export default class Home extends React.Component {
                     <input type="hidden" name="form-name" value="coronaregistratie" />
                     <InputField label="Voornaam" name="voornaam" onChange={this.handleChange}/>
                     <InputField label="Familienaam" name="familienaam" onChange={this.handleChange}/>
-                    <InputField label="Straat + Nummer" name="straat" onChange={this.handleChange}/>
-                    <InputField label="Gemeente" name="gemeente" onChange={this.handleChange}/>
                     <InputField label="Email" name="_replyto" onChange={this.handleChange}/>
                     <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange}/>
                     <div className="row mt-4">

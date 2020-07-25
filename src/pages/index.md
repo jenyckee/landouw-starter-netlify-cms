@@ -168,7 +168,7 @@ menus:
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart geregeld wordt aangepast. 
       image: /img/103324992_2585399458338920_8809612428848375627_n.jpg
     - title: Tapasplanken
-      image: /img/75233458_2597265530485646_5684991334705997721_n.jpg
+      image: /img/111802368_3100003306749853_339794286471165344_n.jpg
       text: >-
         Warme tapasplank: gegrilde witte pens, buikspek, patatas bravas,
         lookbroodjes, gebakken scampi's, tempura van groenten € 20

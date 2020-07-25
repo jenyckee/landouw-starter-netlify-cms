@@ -171,10 +171,10 @@ menus:
       image: /img/75233458_2597265530485646_5684991334705997721_n.jpg
       text: >-
         Warme tapasplank: gegrilde witte pens, buikspek, patatas bravas,
-        lookbroodjes, gebakken scampi's, tempura van groenten € 18
+        lookbroodjes, gebakken scampi's, tempura van groenten € 20
 
 
-        Koude tapasplank: verschillende kazen & hesp, chorizo, paté, tapenade € 16
+        Koude tapasplank: verschillende kazen & hesp, chorizo, paté, tapenade € 18
 
 
         Kinder tapasplank: mini frikandellen, kipnuggets, bitterballen, loempia's, sausjes € 12

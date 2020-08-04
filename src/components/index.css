@@ -46,6 +46,10 @@ input {
   padding: 0.5rem;
 }
 
+iframe {
+  border: none;
+}
+
 h4 {
   font-weight: bold;
   margin-bottom: 2rem;

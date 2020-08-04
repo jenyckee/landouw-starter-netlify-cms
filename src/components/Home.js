@@ -130,7 +130,8 @@ export default class Home extends React.Component {
               <SectionCorona>
                 <h4>CORONA REGISTRATIE</h4>
                 <p>Wegens de coronamaatregelen zijn wij verplicht uw contactgegevens bij te houden. Bedankt voor uw medewerking.</p>
-                <form action="/contact/thanks/"
+                <a href="https://coronaregistratie.herokuapp.com/">Gelieve dit formulier in te vullen.</a>
+                {/* <form action="/contact/thanks/"
                         name="coronaregistratie" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                     <input type="hidden" name="form-name" value="coronaregistratie" />
                     <InputField label="Voornaam" name="voornaam" onChange={this.handleChange}/>
@@ -142,7 +143,7 @@ export default class Home extends React.Component {
                         <Button type="submit">Versturen</Button>
                       </div>
                     </div>
-                  </form>
+                  </form> */}
               </SectionCorona>
             </div>
           </div>

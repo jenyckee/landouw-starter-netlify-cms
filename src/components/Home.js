@@ -130,21 +130,7 @@ export default class Home extends React.Component {
               <SectionCorona>
                 <h4>CORONA REGISTRATIE</h4>
                 <p>Wegens de coronamaatregelen zijn wij verplicht uw contactgegevens bij te houden. Bedankt voor uw medewerking.</p>
-                <iframe src="http://localhost:3000" width="100%" height="500px"></iframe>
-                {/* <a href="https://coronaregistratie.herokuapp.com/">Gelieve dit formulier in te vullen.</a> */}
-                {/* <form action="/contact/thanks/"
-                        name="coronaregistratie" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
-                    <input type="hidden" name="form-name" value="coronaregistratie" />
-                    <InputField label="Voornaam" name="voornaam" onChange={this.handleChange}/>
-                    <InputField label="Familienaam" name="familienaam" onChange={this.handleChange}/>
-                    <InputField label="Email" name="_replyto" onChange={this.handleChange}/>
-                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange}/>
-                    <div className="row mt-4">
-                      <div className="col-md-12">
-                        <Button type="submit">Versturen</Button>
-                      </div>
-                    </div>
-                  </form> */}
+                <iframe src="https://coronaregistratie.herokuapp.com/" width="100%" height="500px"></iframe>
               </SectionCorona>
             </div>
           </div>

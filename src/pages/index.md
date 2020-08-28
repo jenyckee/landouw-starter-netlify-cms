@@ -281,8 +281,6 @@ info: >+
 
   Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
 
-  Vanaf 15 juli tot en met 15 augustus zijn wij DOORLOPEND open vanaf 17u. 
-
 
   Tijdens de zomermaanden zullen onze openingstijden aangepast worden.
 

@@ -67,22 +67,22 @@ export default class Home extends React.Component {
 
     return (
       <Page>
-        <Header>
-          <div className="">
+        <div className="intro">
+          <div className="container">
             <div className="row no-gutters">
-              <div className="col-lg-6 d-md-flex">
+              <div className="col-md-12 col-lg-6 d-md-flex yellow-bg-left">
                 <div className="block">
-                  <img src="/img/logo.png"></img>
+                  <img src="/img/logo.png" width="250px"></img>
                 </div>
               </div>
-              <div className="col-lg-6 hidden-md-down">
-                <div style={{ background: "white"}}>
-                  <img style={{ maxWidth: "50vw", maxHeight: "100vh"}} src={this.props.intro}></img>
+              <div className="col-md-12 col-lg-6">
+                <div style={{ background: "white", width: "100%"}}>
+                  <img className="splash" height="787" src={this.props.intro}></img>
                 </div>
               </div>
             </div>
           </div>
-        </Header>
+        </div>
         <div className="container">
           <div className="row no-gutters">
             <div className="col-lg-6">
@@ -137,7 +137,7 @@ export default class Home extends React.Component {
         </div>
         <Footer>
           <div className="container">
-            <div className="row">
+            <div className="row no-gutters">
               <div className="col-md-6">
                 <section>
                   <form action="/contact/thanks/"
@@ -281,10 +281,6 @@ color:  ${props => props.theme.white};
 export const Container = styled.div`
 background-color: ${props => props.theme.beigeLight};
 height: 75vh;
-`
-
-export const Header = styled.div`
-background-color: ${props => props.theme.beigeLight};
 `
 
 export const Select = styled.select`

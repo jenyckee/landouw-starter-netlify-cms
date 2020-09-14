@@ -293,8 +293,6 @@ info: >+
 hours: |-
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u
-
-  Vanaf 15 juli tot en met 15 augustus zullen we doorlopend open zijn vanaf 17u
 main:
   heading: Great coffee with no compromises
   description: >

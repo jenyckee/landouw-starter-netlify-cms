@@ -68,6 +68,15 @@ about: >-
   U kunt onze tapas, cocktails/mocktails alsook onze aangepaste zomerkaart checken hieronder.
 menus:
   options:
+    - title: Tapas takeaway
+      text: |-
+        Er kan afgehaald worden op:
+        VRIJDAG vanaf 17u - 19u
+        ZATERDAG vanaf 10u - 12u | 16u - 18u
+        ZONDAG vanaf 10u - 12u | 16u - 18u
+
+        Er kan besteld worden via het nummer: 056/72 25 97
+      image: /img/blauw_en_geel_collage_diner_menu__1_.jpg
     - title: Apero
       text: |-
         Porto (wit - rood) € 5

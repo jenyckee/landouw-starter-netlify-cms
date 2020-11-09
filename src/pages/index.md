@@ -317,17 +317,22 @@ menus:
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
-        Kinderspaghetti € 10
+        Snackmannetje | € 8
+        mini-frikandel - boulet - kipnugget
 
-        Snackmannetje € 8
+        Kipnuggets met frietjes | € 8
 
-        Frikandel met frietjes € 10
+        Kinderspaghetti | € 10
 
-        Balletjes in tomatensaus € 10
+        Frikandel met frietjes | € 10
+        2 stuks
 
-        Kipnuggets met frietjes € 8
+        Balletjes in tomatensaus | € 10
 
-        Hamburger met appelmoes € 10
+        Hamburger met appelmoes | € 10
+
+        Kindersteak | € 14
+        met appelmoes - frietjes 
     - title: Desserts
       image: /img/47216601_2182634031948800_5103231736825774080_o.jpg
       text: >-

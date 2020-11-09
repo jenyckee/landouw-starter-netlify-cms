@@ -137,8 +137,8 @@ menus:
         Bitter Spritz | € 6
         Bitter Rosso - Schweppes tonic 
       image: /img/landouwsummer-13.jpg
-    - title: Gin
-      text: |+
+    - title: Gin & Bubbels
+      text: |
         Gin Tonic - Nordic | € 8
 
         Bombay Sapphire - Nordic | € 10
@@ -147,6 +147,17 @@ menus:
 
         London Dry Gin N°3 - Nordic | € 12
 
+        ~
+
+        Coupe cava | € 7
+
+        Coupe champagne | € 9
+
+        Fles cava | € 27
+
+        Crèment de Bourgogne | € 30
+
+        Champagne Laurent - Perrier Brut | € 65
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-

@@ -382,6 +382,8 @@ menus:
         vanaf 2 personen
 
 
+
+
         Dit is een voorbeeld van onze kaart. Onze kaart wordt geregeld aangepast. 
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg

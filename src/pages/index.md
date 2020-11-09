@@ -79,31 +79,35 @@ menus:
       image: /img/blauw_en_geel_collage_diner_menu__1_.jpg
     - title: Apero
       text: |-
-        Porto (wit - rood) € 5
+        Porto | € 5
+        wit - rood
 
-        Martini (wit - rood) € 5
+        Martini | € 5
+        wit - rood 
 
-        Martini bellini € 6
+        Martini bellini | € 6
 
-        Ricard € 6
+        Ricard | € 6
 
-        Kirr Royal € 7
+        Kirr Royal | € 7
+        crème de cassis - cava
 
-        Kirr Landouw € 7
+        Kirr Landouw | € 7
+        aardbeienlikeur - cava
 
-        Pisang orange € 7
+        Pisang orange | € 7
 
-        Campari orange € 7
+        Campari orange | € 7
 
-        Picon € 7
+        Picon | € 7
 
-        Maison € 7
+        Maison | € 7
 
-        Aperol Spritz € 7
+        Aperol Spritz | € 7
 
-        Witte sangria v/h huis € 8
+        Witte sangria v/h huis | € 8
 
-        Witte sangria v/h huis (1L) € 20
+        Witte sangria v/h huis (1L) | € 20
       image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
     - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg

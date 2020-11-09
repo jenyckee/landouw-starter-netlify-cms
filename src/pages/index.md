@@ -427,6 +427,8 @@ menus:
         met roomijs
 
 
+
+
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
 info: >+
   Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld

@@ -221,7 +221,7 @@ menus:
         met vers brood
 
 
-        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart geregeld wordt aangepast. 
+        Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt geregeld aangepast. 
       image: /img/103324992_2585399458338920_8809612428848375627_n.jpg
     - title: Tapasplanken
       image: /img/111802368_3100003306749853_339794286471165344_n.jpg

@@ -262,9 +262,9 @@ menus:
 
         Dessert van de chef
 
-        Met voorgerecht € 44
+        Met voorgerecht | € 44
 
-        Zonder voorgerecht € 35
+        Zonder voorgerecht | € 35
       title: Suggestiemenu
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: Hoofdgerechten

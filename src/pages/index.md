@@ -122,13 +122,16 @@ menus:
         rum - passievruchtensap - limoensap 
     - title: Mocktails
       text: |-
-        Appletiser special € 4
+        Appletiser special | € 4
 
-        Coconut € 6
+        Coconut | € 6
+        ananassap - kokosmelk
 
-        Sweet dreams € 6
+        Sweet dreams | € 6
+        Hoegaarden 0.0 - cranberrysap - citroensap
 
-        Bitter Spritz € 6
+        Bitter Spritz | € 6
+        Bitter Rosso - Schweppes tonic 
       image: /img/landouwsummer-13.jpg
     - title: Gin
       text: |+

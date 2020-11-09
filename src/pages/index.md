@@ -50,7 +50,7 @@ about: >-
   Beste klanten,
 
 
-  Als gloednieuw concept tapas | lounge bar in een gezellig en sfeervol kader was een groot succes!
+  Ons gloednieuw concept tapas | lounge bar in een gezellig en sfeervol kader was een groot succes!
 
 
   In de veel te korte zomerperiode dat jullie hebben kunnen genieten, de dankbaarheid, appreciatie en vele complimenten wisten ons te overtuigen met ons concept verder te gaan.

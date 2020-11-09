@@ -139,13 +139,13 @@ menus:
       image: /img/landouwsummer-13.jpg
     - title: Gin
       text: |+
-        Gin Tonic - Nordic € 8
+        Gin Tonic - Nordic | € 8
 
-        Bombay Sapphire - Nordic € 10
+        Bombay Sapphire - Nordic | € 10
 
-        Fie's Gin - Nordic € 10
+        Fie's Gin - Nordic | € 10
 
-        London Dry Gin N°3 - Nordic € 12
+        London Dry Gin N°3 - Nordic | € 12
 
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas

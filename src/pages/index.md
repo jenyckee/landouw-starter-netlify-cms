@@ -45,27 +45,27 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/103053764_2583323891879810_5511877343881749218_o-1-.jpg
+image: /img/blauw-en-geel-collage-diner-menu-1-.jpg
 about: >-
-  LANDOUW SUMMER EDITION 2020
+  Beste klanten,
 
 
-  Come and enjoy a cosy apero and tapas with friends!
+  Als gloednieuw concept tapas | lounge bar in een gezellig en sfeervol kader was een groot succes!
 
 
-  We staan te popelen om vanaf vrijdag 12 juni onze deuren terug te openen met een gloednieuw concept!
+  In de veel te korte zomerperiode dat jullie hebben kunnen genieten, de dankbaarheid, appreciatie en vele complimenten wisten ons te overtuigen met ons concept verder te gaan.
 
 
-  We bezorgen jullie het zuiderse vakantiegevoel en laten jullie genieten van een heerlijke cocktail/mocktail vergezeld van koude en/of warme tapas.
+  Ook in de winterperiode kunnen jullie genieten van een warm, knus en sfeervol plekje rond het haardvuur. Met een cocktail, mocktail of een Tiegemse koffie vergezeld van lekkere tapas.
 
 
-  Ook voor de kids is er een lekkere tapasplank!
+  Natuurlijk staan de kids op de eerste plaats, een kindertapasplank of een lekker ijsje zal hun kunnen smaken!
 
 
-  Het restaurant blijft open, maar met een aangepaste zomerkaart.
+  Wees allemaal welkom als wij na deze lockdown terug mogen opengaan. Tot die tijd kan je genieten van onze tapas take away. Lees meer hierover, hieronder bij 'Tapas takeaway'.
 
 
-  U kunt onze tapas, cocktails/mocktails alsook onze aangepaste zomerkaart checken hieronder.
+  Zorg voor elkaar, hou het veilig en tot dan!
 menus:
   options:
     - title: Tapas takeaway
@@ -108,13 +108,18 @@ menus:
     - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg
       text: |-
-        Mojito € 8
+        Piña Colada | € 8
+        rum - ananassap - kokosmelk 
 
-        Mojito strawberry € 9
+        Mojito | € 8
 
-        Calvados sour € 9
+        Strawberry Mojito | € 9
 
-        Dirty Martini € 10
+        Sex on the beach | € 10
+        wodka - peach liqueur - sinsaasappel - cranberry 
+
+        Cocktail maison passion fruit | € 10
+        rum - passievruchtensap - limoensap 
     - title: Mocktails
       text: |-
         Appletiser special € 4

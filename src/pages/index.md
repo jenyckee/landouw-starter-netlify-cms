@@ -161,40 +161,64 @@ menus:
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
-        Klassieke spaanse bruschetta € 6
+        Patatas bravas | € 4
 
 
-        Gemarineerde kipspiesjes met sesam € 7
+        Klassieke Spaanse bruschetta | € 6
 
 
-        Bowl nacho's met guacamole, tomatenchutney & kaassaus € 7
+        Ravioli met zalm en ricotta | € 6
 
 
-        Huisgemaakte goujounettes € 8
+        Portie gegrilde witte pens | € 6
 
 
-        Bruschetta met serranoham € 9
+        Gemarineerde kipspiesjes met sesam | € 7
 
 
-        Albondigas € 10
+        Bowl nacho's met guacamole - tomatenchutney - kaassaus | € 7
 
 
-        Foie gras op chef's wijze € 10
+        Portie gelakt buikspek | € 8
 
 
-        Hartige muffins met kruidenkaas € 10
+        Huisgemaakte goujounettes | € 8
+
+        met verse tartaarsaus
 
 
-        Chicken wings € 12
+        Krokante halloumisticks | € 8
 
 
-        Rib's in a basket € 8 / € 14
+        Bruschetta met serranoham | € 9
 
 
-        Scampi lookboter € 9 / € 14
+        Albondigas | € 10
+
+        pikante Spaanse gehaktballetjes 
 
 
-        Camembert in de oven & charcuterie € 16
+        Foie gras op chef's wijze | € 10
+
+        voor één persoon
+
+
+        Chicken wings | € 12
+
+        met zoetzure saus - 10 stuks 
+
+
+        Rib's in a basket | € 8 - 14
+
+
+        Scampi lookboter | € 9 - 14
+
+        6 stuks - 9 stuks
+
+
+        Camembert in de oven met charcuterie | € 16
+
+        met vers brood
 
 
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart geregeld wordt aangepast. 

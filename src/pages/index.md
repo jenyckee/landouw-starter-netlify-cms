@@ -270,34 +270,50 @@ menus:
     - title: Hoofdgerechten
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
       text: >-
-        Salade geitenkaas € 19
+        Salade geitenkaas | € 19
 
 
-        Rundscarpaccio € 19
+        Rundscarpaccio | € 19
+
+        met rucola - parmezaan - balsamico
 
 
-        Scampi maison € 20
+        Vol au vent | € 20
 
 
-        Ribbetjes met frietjes en slaatje € 22
+        Scampi maison | € 22
 
 
-        Vis van de dag met gewokte groenten DAGPRIJS
+        Ribbetjes met frietjes en slaatje | € 22
 
 
-        Rundsteak € 24
+        Stoofvlees van varkenswangen met Westmalle dubbel | € 22
 
 
-        Gegrilde gamba's met look € 24
+        Vis van de dag met gewokte groenten | DAGPRIJS
+
+        met witte wijnsaus
 
 
-        Lamskotelletjes met hofmeesterboter € 24
+        Rundsteak | € 24
+
+        saus naar keuze
 
 
-        Côte à l'os met frietjes € 28
+        Gegrilde gamba's met look | € 24
+
+        met bearnaisesaus
 
 
-        Dit is een voorbeeld van onze zomerkaart. Onze zomerkaart wordt geregeld aangepast. 
+        Lamskotelletjes met hofmeesterboter  | € 24
+
+
+        Côte à l'os met frietjes | € 28
+
+        vanaf 2 personen
+
+
+        Dit is een voorbeeld van onze kaart. Onze kaart wordt geregeld aangepast. 
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-

@@ -336,19 +336,24 @@ menus:
     - title: Desserts
       image: /img/47216601_2182634031948800_5103231736825774080_o.jpg
       text: >-
-        Dame Blanche € 7
+        Coupe vanille | € 6
 
 
-        Moelleux au chocolat met vanille roomijs € 9
+        Duo van sorbets | €  7
 
 
-        Frambozensorbet met amandelroomijs en meringue € 9
+        Dame blanche | € 7
 
 
-        Crème brûlée € 7
+        Coupe bresilienne | € 7
 
 
-        Appeltaart met roomijs € 9
+        Coupe vers fruit | € 9
+
+
+        Moelleux au chocolat | € 9
+
+        met roomijs
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 

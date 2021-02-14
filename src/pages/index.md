@@ -45,7 +45,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
-image: /img/blauw-en-geel-collage-diner-menu-1-.jpg
+image: /img/111802368_3100003306749853_339794286471165344_n.jpg
 about: >-
   Beste klanten,
 
@@ -68,82 +68,6 @@ about: >-
   Zorg voor elkaar, hou het veilig en tot dan!
 menus:
   options:
-    - title: Tapas takeaway
-      text: >+
-        Warme tapasplank | € 20 
-
-        voor 4 personen
-
-
-        Koude tapasplank | € 18
-
-        voor 4 personen
-
-
-        Bruschetta | € 8 - 10
-
-        6 stuks - Klassieke Spaanse bruschetta - Bruschetta met serranoham
-
-
-        Patatas bravas | € 4
-
-        voor 1 persoon
-
-
-        Ravioli met zalm en ricotta | € 6
-
-        voor 1 persoon
-
-
-        Portie gegrilde witte pens | € 6
-
-        voor 2 personen
-
-
-        Huisgemaakte goujounettes | € 8 
-
-        4 stuks
-
-
-        Krokante halloumisticks | € 8
-
-        15 stuks 
-
-
-        Scampi lookboter | € 9 - 14
-
-        6 of 9 stuks
-
-
-        Camembert in de oven met vleeswaren en vers brood | € 16
-
-        2 à 3 personen 
-
-
-
-
-        Apero box | € 25
-
-        huisgemaakt brood - 2 dips - nacho's met guacamole - gefrituurde hapjes
-
-
-        Tapas box | € 45
-
-        huigemaakt brood - camembert in de oven met vleeswaren - scampi tempura - patatas bravas - kip saté terryaki 
-
-
-
-        Bestel 24 uur op voorhand via 056 72 25 97 of via de website 
-
-        Afhalen mogelijk op:
-
-        vrijdag | 17u - 19u
-
-        zaterdag | 10u - 12u & 16u - 18u
-
-        zondag | 10u - 12u & 16u - 18u
-
-      image: /img/blauw_en_geel_collage_diner_menu__1_.jpg
     - title: Apero
       text: |-
         Porto | € 5

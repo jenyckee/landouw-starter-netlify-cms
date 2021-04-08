@@ -47,25 +47,19 @@ intro:
 title: LANDOUW Restaurant - grill - tea-room!  Een plaats waar het origineel mag zijn.
 image: /img/111802368_3100003306749853_339794286471165344_n.jpg
 about: >-
-  Beste klanten,
+  Beste klanten 
 
 
-  Ons gloednieuw concept tapas | lounge bar in een gezellig en sfeervol kader was een groot succes!
+  Vorig jaar konden jullie genieten van ons gloednieuw concept tapas & lounge bar. Door het grote succes, de dankbaarheid en vele complimenten behouden we dit concept.
 
 
-  In de veel te korte zomerperiode dat jullie hebben kunnen genieten, de dankbaarheid, appreciatie en vele complimenten wisten ons te overtuigen met ons concept verder te gaan.
+  In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | Tiegemse koffie & veel meer. 
 
 
-  Ook in de winterperiode kunnen jullie genieten van een warm, knus en sfeervol plekje rond het haardvuur. Met een cocktail, mocktail of een Tiegemse koffie vergezeld van lekkere tapas.
+  Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan!
 
 
-  Natuurlijk staan de kids op de eerste plaats, een kindertapasplank of een lekker ijsje zal hun kunnen smaken!
-
-
-  Wees allemaal welkom als wij na deze lockdown terug mogen opengaan. Tot die tijd kan je genieten van onze tapas take away. Lees meer hierover, hieronder bij 'Tapas takeaway'.
-
-
-  Zorg voor elkaar, hou het veilig en tot dan!
+  Wees allemaal welkom bij ons in Landouw! 
 menus:
   options:
     - title: Apero
@@ -355,24 +349,29 @@ menus:
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
 info: >+
-  Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
-  aangepast. Check onze facebook-pagina voor de laatste updates! Proef onze
-  hartverwarmende Tiegemse koffie.
+  | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
+  aangepast. 
+   Proef onze hartverwarmende Tiegemse koffie.
+
+  | Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. 
 
 
-  Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. Vraag onze geschenkbonnen: een PRACHTIG cadeau in te ruilen tegen een heerlijke maaltijd (waarde zelf te bepalen).
+  | Vraag onze geschenkbonnen: een PRACHTIG cadeau in te ruilen tegen een heerlijke maaltijd (waarde zelf te bepalen).
 
 
-  Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
+  | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
 
 
-  Tijdens de zomermaanden zullen onze openingstijden aangepast worden.
+  | Tijdens de zomermaanden variëren onze openingsuren.
 
 
-  Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.
+  | Check onze facebook-pagina voor de laatste updates
 
 
-  Wij aanvaarden noch bankkaarten noch kredietkaarten.
+  | Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.
+
+
+  | Wij aanvaarden cash & Payconiq - GEEN BANK- EN/OF KREDIETKAARTEN. 
 
 hours: |-
   VRIJDAG OPEN OM 17U

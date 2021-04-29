@@ -86,7 +86,7 @@ menus:
 
         Picon | € 7
 
-        Maison | € 7
+        Aperitief van het huis | € 7
 
         Aperol Spritz | € 7
 
@@ -97,9 +97,6 @@ menus:
     - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg
       text: |-
-        Piña Colada | € 8
-        rum - ananassap - kokosmelk 
-
         Mojito | € 8
 
         Strawberry Mojito | € 9
@@ -107,30 +104,32 @@ menus:
         Sex on the beach | € 10
         wodka - peach liqueur - sinsaasappel - cranberry 
 
-        Cocktail maison passion fruit | € 10
-        rum - passievruchtensap - limoensap 
+        Cosmopolitan | € 10
+        wodka - cointreau - limoen - cranberry
+
+        Cocktail van het huis | € 10
+        rum - passievrucht - limoen
     - title: Mocktails
       text: |-
         Appletiser special | € 4
 
-        Coconut | € 6
-        ananassap - kokosmelk
+        Virgin mojito | € 6
 
         Sweet dreams | € 6
-        Hoegaarden 0.0 - cranberrysap - citroensap
+        beer 0.0 - cranberrysap - citroensap
 
         Bitter Spritz | € 6
-        Bitter Rosso - Schweppes tonic 
+        bitter Rosso - tonic 
       image: /img/landouwsummer-13.jpg
     - title: Gin & Bubbels
       text: |
-        Gin Tonic - Nordic | € 8
+        Gin Tonic | € 8
 
-        Bombay Sapphire - Nordic | € 10
+        Fie's homemade | € 10
 
-        Fie's Gin - Nordic | € 10
+        Bulldog | € 12
 
-        London Dry Gin N°3 - Nordic | € 12
+        Gin Mare | € 14
 
         ~
 

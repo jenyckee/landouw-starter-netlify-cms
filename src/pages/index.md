@@ -348,8 +348,11 @@ menus:
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
 info: >+
-  | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
-  aangepast. 
+  | Vanaf 8 mei mogen we onze terras openen. Daarom hebben wij een aangepaste
+  kaart gemaakt die u kunt terugvinden op onze facebook-pagina.
+
+
+  | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld aangepast. 
    Proef onze hartverwarmende Tiegemse koffie.
 
   | Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. 
@@ -364,7 +367,7 @@ info: >+
   | Tijdens de zomermaanden variëren onze openingsuren.
 
 
-  | Check onze facebook-pagina voor de laatste updates
+  | Check onze facebook-pagina voor de laatste updates.
 
 
   | Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.

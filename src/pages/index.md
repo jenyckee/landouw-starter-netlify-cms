@@ -307,6 +307,21 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
+    - title: Vaderdagmenu
+      image: /img/fijnevaderdag.jpg
+      text: |
+        | Bubbels vergezeld van tapas
+
+        | Witte Belgische asperges met gerookte zalm en gepocheerd eitje
+
+        | Gelakte eendenborstfilet, haringsaus en trio van primeurwortelen
+
+        | Aardbeien Romanoff 
+
+        | Mokka en versnaperingen 
+
+
+        | € 56 Alles inbegrepen
 info: >+
   | Vanaf 8 mei mogen we onze terras openen. Daarom hebben wij een aangepaste
   kaart gemaakt die u kunt terugvinden op onze facebook-pagina.

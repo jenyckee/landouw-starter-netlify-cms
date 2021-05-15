@@ -148,63 +148,33 @@ menus:
         Patatas bravas | € 4
 
 
-        Klassieke Spaanse bruschetta | € 6
-
-
-        Ravioli met zalm en ricotta | € 6
-
-
         Portie gegrilde witte pens | € 6
 
 
-        Gemarineerde kipspiesjes met sesam | € 7
+        Bowl nacho's | € 6
 
 
-        Bowl nacho's met guacamole - tomatenchutney - kaassaus | € 7
+        Gelakt buikspek | € 6
 
 
-        Portie gelakt buikspek | € 8
+        Klassieke Spaanse bruschetta's (6st) | € 8
 
 
-        Huisgemaakte goujounettes | € 8
+        Spaanse bruschetta's met serranoham (6st) | € 10
+
+
+        Huisgemaakte goujounettes (4st) | € 10
 
         met verse tartaarsaus
 
 
-        Krokante halloumisticks | € 8
+        Chickenwings met zoetzure saus (8st) | € 12
 
 
-        Bruschetta met serranoham | € 9
+        Seizoensgebonden tapas-kroketjes (4st) | € 12 
 
 
-        Albondigas | € 10
-
-        pikante Spaanse gehaktballetjes 
-
-
-        Foie gras op chef's wijze | € 10
-
-        voor één persoon
-
-
-        Chicken wings | € 12
-
-        met zoetzure saus - 10 stuks 
-
-
-        Rib's in a basket | € 8 - 14
-
-
-        Scampi lookboter | € 9 - 14
-
-        6 stuks - 9 stuks
-
-
-        Camembert in de oven met charcuterie | € 16
-
-        met vers brood
-
-
+        Ribs on a plate | € 14
 
 
         Dit is een voorbeeld van onze tapaskaart. Onze tapaskaart wordt geregeld aangepast. 

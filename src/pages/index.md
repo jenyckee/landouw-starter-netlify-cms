@@ -285,22 +285,23 @@ menus:
         Coupe vanille | € 6
 
 
-        Duo van sorbets | €  7
-
-
         Dame blanche | € 7
 
 
         Coupe bresilienne | € 7
 
 
-        Coupe vers fruit | € 9
+        Warme Bretoense appeltaart | € 9
+
+        met ijs en slagroom
 
 
         Moelleux au chocolat | € 9
 
         met roomijs
 
+
+        Suggestie nagerecht | € 9
 
 
 

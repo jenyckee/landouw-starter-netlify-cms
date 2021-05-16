@@ -314,7 +314,7 @@ menus:
 
         | Witte Belgische asperges met gerookte zalm en gepocheerd eitje
 
-        | Gelakte eendenborstfilet, haringsaus en trio van primeurwortelen
+        | Gelakte eendenborstfilet, honingsaus en trio van primeurwortelen
 
         | Aardbeien Romanoff 
 

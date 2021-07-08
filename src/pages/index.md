@@ -56,6 +56,9 @@ about: >-
   In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | Tiegemse koffie & veel meer. 
 
 
+  Tijdens de zomerperiode zijn wij doorlopend open. Dit vanaf 15 juli tot en met 15 augustus, behalve op dinsdag. We zijn dan iedere dag open vanaf 17u en zaterdag & zondag vanaf 12u. 
+
+
   Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan!
 
 
@@ -323,11 +326,8 @@ menus:
 
         | € 56 Alles inbegrepen
 info: >+
-  | Vanaf 8 mei mogen we onze terras openen. Daarom hebben wij een aangepaste
-  kaart gemaakt die u kunt terugvinden op onze facebook-pagina.
-
-
-  | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld aangepast. 
+  | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
+  aangepast. 
    Proef onze hartverwarmende Tiegemse koffie.
 
   | Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. 
@@ -337,6 +337,9 @@ info: >+
 
 
   | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
+
+
+  | TIJDENS DE ZOMERPERIODE ZIJN WIJ DOORLOPEND OPEN VANAF 15 JULI TOT EN MET 15 AUGUSTUS (BEHALVE OP DINSDAG). DIT VANAF 17U & ZATERDAG EN ZONDAG VANAF 12U. 
 
 
   | Tijdens de zomermaanden variëren onze openingsuren.

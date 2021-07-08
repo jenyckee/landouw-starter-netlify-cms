@@ -356,6 +356,9 @@ info: >+
 hours: |-
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u
+
+  15 JULI - 15 AUGUSTUS: DOORLOPEND OPEN (BEHALVE OP DINSDAG)
+  VANAF 17U | ZA & ZO/ VANAF 12U
 main:
   heading: Great coffee with no compromises
   description: >

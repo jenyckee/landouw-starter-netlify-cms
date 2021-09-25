@@ -56,9 +56,6 @@ about: >-
   In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | Tiegemse koffie & veel meer. 
 
 
-  Tijdens de zomerperiode zijn wij doorlopend open. Dit vanaf 15 juli tot en met 15 augustus, behalve op dinsdag. We zijn dan iedere dag open vanaf 17u en zaterdag & zondag vanaf 12u. 
-
-
   Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan!
 
 
@@ -310,21 +307,81 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: Vaderdagmenu
-      image: /img/fijnevaderdag.jpg
-      text: |
-        | Bubbels vergezeld van tapas
-
-        | Witte Belgische asperges met gerookte zalm en gepocheerd eitje
-
-        | Gelakte eendenborstfilet, honingsaus en trio van primeurwortelen
-
-        | Aardbeien Romanoff 
-
-        | Mokka en versnaperingen 
+    - title: "Kerstavondmenu "
+      text: >-
+        KERSTAVOND 
 
 
-        | € 56 Alles inbegrepen
+        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
+
+
+        -
+
+
+        Gebakken Sint-Jacobsnoten op een bedje van spinazie met een crunch van prosciutto
+
+
+        -
+
+
+        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroenten en artisanale kroketten 
+
+
+        OF
+
+
+        Boullabaisse van rouille, lookbrood en gemalen kaas
+
+
+        -
+
+
+        Symfonie van zoetigheden
+
+
+        - 
+
+
+        Koffie of thee met versnaperingen
+
+
+        € 75 
+
+        Inclusief water, wijnen & frisdranken 
+      image: /img/kerstavond.png
+    - title: Kerstdagmenu
+      text: >-
+        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
+
+
+        -
+
+
+        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroeten en artisanale kroketten 
+
+
+        OF
+
+
+        Bouillabaisse met rouille, lookbrood en gemalen kaas
+
+
+        -
+
+
+        Symfonie van zoetigheden
+
+
+        -
+
+
+        Koffie of thee met versnaperingen
+
+
+        € 65
+
+        Inclusief water, wijnen & frisdranken 
+      image: /img/kerstdag.png
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

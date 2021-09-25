@@ -326,9 +326,6 @@ menus:
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
     - title: "Kerstavondmenu "
       text: >-
-        KERSTAVOND 
-
-
         Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
 
 

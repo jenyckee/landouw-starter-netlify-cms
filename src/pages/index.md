@@ -396,9 +396,6 @@ info: >+
   | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
 
 
-  | TIJDENS DE ZOMERPERIODE ZIJN WIJ DOORLOPEND OPEN VANAF 15 JULI TOT EN MET 15 AUGUSTUS (BEHALVE OP DINSDAG). DIT VANAF 17U & ZATERDAG EN ZONDAG VANAF 12U. 
-
-
   | Tijdens de zomermaanden variëren onze openingsuren.
 
 
@@ -413,9 +410,6 @@ info: >+
 hours: |-
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u
-
-  15 JULI - 15 AUGUSTUS: DOORLOPEND OPEN (BEHALVE OP DINSDAG)
-  VANAF 17U | ZA & ZO/ VANAF 12U
 main:
   heading: Great coffee with no compromises
   description: >

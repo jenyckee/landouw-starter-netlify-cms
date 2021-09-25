@@ -109,6 +109,9 @@ menus:
 
         Cocktail van het huis | € 10
         rum - passievrucht - limoen
+
+        Moscow Mule | € 10
+        wodka - gemberbier - limoen 
     - title: Mocktails
       text: |-
         Appletiser special | € 4
@@ -120,6 +123,9 @@ menus:
 
         Bitter Spritz | € 6
         bitter Rosso - tonic 
+
+        Virgin Moscow mule | € 6
+        gemberbier - limoen 
       image: /img/landouwsummer-13.jpg
     - title: Gin & Bubbels
       text: |
@@ -152,6 +158,9 @@ menus:
 
 
         Bowl nacho's | € 6
+
+
+        Gevulde ravioli | € 6
 
 
         Gelakt buikspek | € 6
@@ -244,6 +253,9 @@ menus:
         VLEES
 
 
+        Stoverij van varkenswangetjes met patersbier | € 22
+
+
         Lamskoteletten met hofmeesterboter | € 24
 
         met slaatje en frietjes
@@ -254,9 +266,14 @@ menus:
         met champignonsaus, slaatje en frietjes
 
 
-        Diamanthaasje Choron | € 28
+        Gegrilde steak, saus naar keuze | € 25
 
-        met slaatje en frietjes
+        met slaatje en frietjes 
+
+
+        Côte à l'os gegrild, saus naar keuze | € 29
+
+        met slaatje en frietjes 
 
 
 

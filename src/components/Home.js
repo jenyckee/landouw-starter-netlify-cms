@@ -124,17 +124,6 @@ export default class Home extends React.Component {
             </div>
           </div>
         </div>
-        <div className="container">
-          <div className="row no-gutters">
-            <div className="col-md-6">
-              <SectionCorona>
-                <h4>CORONA REGISTRATIE</h4>
-                <p>Wegens de coronamaatregelen zijn wij verplicht uw contactgegevens bij te houden. Bedankt voor uw medewerking.</p>
-                <iframe src="https://coronaregistratie.herokuapp.com/" width="100%" height="500px"></iframe>
-              </SectionCorona>
-            </div>
-          </div>
-        </div>
         <Footer>
           <div className="container">
             <div className="row no-gutters">
@@ -259,11 +248,6 @@ background: ${props => props.theme.beigeLight};
 export const SectionInfo = styled.section`
 background: ${props => props.theme.oliveGreen};
 color:  ${props => props.theme.coal};
-`
-
-export const SectionCorona = styled.section`
-  background: ${props => props.theme.beigeLight};
-  color:  ${props => props.theme.coal};
 `
 
 export const Section = styled.section`

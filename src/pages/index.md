@@ -402,6 +402,42 @@ menus:
 
         Inclusief water, wijnen & frisdranken 
       image: /img/kerstdag.png
+    - title: Nieuwjaarmenu
+      image: /img/nieuwjaar.png
+      text: >-
+        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
+
+
+        -
+
+
+        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroeten en artisanale kroketten 
+
+
+        OF
+
+
+        Bouillabaisse met rouille, lookbrood en gemalen kaas
+
+
+        -
+
+
+        Symfonie van zoetigheden
+
+
+        -
+
+
+        Koffie of thee met versnaperingen
+
+
+
+
+
+        € 65
+
+        Inclusief water, wijnen & frisdranken 
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

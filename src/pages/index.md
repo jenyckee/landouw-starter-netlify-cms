@@ -324,120 +324,30 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: "Kerstavondmenu "
-      text: >-
-        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
+    - title: Maandmenu
+      text: |-
+        Bubbels met tapas
 
+        ~
 
-        -
+        Gegratineerde vispannetje
 
+        ~
 
-        Gebakken Sint-Jacobsnoten op een bedje van spinazie met een crunch van prosciutto
+        Parelhoenfilet met witloof, wortel en tomaat
 
+        ~
 
-        -
+        Mousse van peer en caramel
 
+        ~ 
 
-        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroenten en artisanale kroketten 
+        Koffie 
 
 
-        OF
-
-
-        Boullabaisse van rouille, lookbrood en gemalen kaas
-
-
-        -
-
-
-        Symfonie van zoetigheden
-
-
-        - 
-
-
-        Koffie of thee met versnaperingen
-
-
-
-
-
-        € 75 
-
-        Inclusief water, wijnen & frisdranken 
-      image: /img/kerstavond.png
-    - title: Kerstdagmenu
-      text: >-
-        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
-
-
-        -
-
-
-        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroeten en artisanale kroketten 
-
-
-        OF
-
-
-        Bouillabaisse met rouille, lookbrood en gemalen kaas
-
-
-        -
-
-
-        Symfonie van zoetigheden
-
-
-        -
-
-
-        Koffie of thee met versnaperingen
-
-
-
-
-
-        € 65
-
-        Inclusief water, wijnen & frisdranken 
-      image: /img/kerstdag.png
-    - title: Nieuwjaarmenu
-      image: /img/nieuwjaar.png
-      text: >-
-        Ontvangst met meerdere glazen bubbels en royaal assortiment aan tapas 
-
-
-        -
-
-
-        Krokant gebakken parelhoenfilet, fine champagne, oesterzwammen, jonge marktgroeten en artisanale kroketten 
-
-
-        OF
-
-
-        Bouillabaisse met rouille, lookbrood en gemalen kaas
-
-
-        -
-
-
-        Symfonie van zoetigheden
-
-
-        -
-
-
-        Koffie of thee met versnaperingen
-
-
-
-
-
-        € 65
-
-        Inclusief water, wijnen & frisdranken 
+        Prijs: € 59
+        Witte wijn, rode wijn & water inbegrepen
+      image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

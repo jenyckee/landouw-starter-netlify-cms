@@ -348,6 +348,30 @@ menus:
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
       image: /img/istockphoto-1297036474-612x612.jpg
+    - title: "Maandmenu April "
+      image: /img/april.jpg
+      text: |-
+        Bubbels met tapa
+
+        ~
+
+        Slaatje met eendenborstfilet, feta en dadels
+
+        ~
+
+        Kalkoenfilet met druivensaus
+
+        ~
+
+        Crème brûlée
+
+        ~ 
+
+        Mokka en versnaperingen
+
+
+        Prijs: € 59
+        Witte wijn, rode wijn & water inbegrepen
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

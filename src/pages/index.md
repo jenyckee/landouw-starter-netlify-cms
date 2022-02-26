@@ -324,30 +324,30 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: Maandmenu
+    - title: "Maandmenu Maart "
       text: |-
-        Bubbels met tapas
+        Bubbels met tapa
 
         ~
 
-        Gegratineerde vispannetje
+        Gegratineerde zalm op bedje van wokgroenten
 
         ~
 
-        Parelhoenfilet met witloof, wortel en tomaat
+        Varkenshaasje, honing-mosterdsaus en rösti-aardappelen
 
         ~
 
-        Mousse van peer en caramel
+        Huisgemaakte wafel met gezouten karamel
 
         ~ 
 
-        Koffie 
+        Mokka en versnaperingen
 
 
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
-      image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
+      image: /img/istockphoto-1297036474-612x612.jpg
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

@@ -324,30 +324,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: Maandmenu Mei
-      text: |-
-        Bubbels met hapje
-
-        ~
-
-        Asperges met gerookte zalm en hollandaise
-
-        ~
-
-        Mixed grill brochette met gemengde salade en frieten
-
-        ~
-
-        Tiramisu met aardbeien
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 59
-        Witte wijn, rode wijn & water inbegrepen
-      image: /img/c55673c22750d226f02805768b7df6f8.jpg
     - title: "Maandmenu April "
       image: /img/april.jpg
       text: |-
@@ -372,6 +348,30 @@ menus:
 
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
+    - title: Maandmenu Mei
+      text: |-
+        Bubbels met hapje
+
+        ~
+
+        Asperges met gerookte zalm en hollandaise
+
+        ~
+
+        Mixed grill brochette met gemengde salade en frieten
+
+        ~
+
+        Tiramisu met aardbeien
+
+        ~ 
+
+        Mokka en versnaperingen
+
+
+        Prijs: € 59
+        Witte wijn, rode wijn & water inbegrepen
+      image: /img/c55673c22750d226f02805768b7df6f8.jpg
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

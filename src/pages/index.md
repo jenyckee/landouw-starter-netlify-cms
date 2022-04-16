@@ -371,7 +371,41 @@ menus:
 
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
-      image: /img/c55673c22750d226f02805768b7df6f8.jpg
+      image: /img/happy-mothers-day-ftr.jpg
+    - title: Maandmenu Juni
+      text: >-
+        Cava met hapje
+
+
+        ~
+
+
+        Klassieke zeevruchtencocktail
+
+
+        ~
+
+
+        Varkenshaasje met een graanmosterdsausje, warme groentjes en gratin aardappelen
+
+
+        ~
+
+
+        Citroen-meringue taartje
+
+
+        ~ 
+
+
+        Mokka en versnaperingen
+
+
+
+        Prijs: € 59
+
+        Witte wijn, rode wijn & water inbegrepen
+      image: /img/fathersday.jpg
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

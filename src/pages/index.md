@@ -321,31 +321,7 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: "Maandmenu April "
-      image: /img/april.jpg
-      text: |-
-        Bubbels met tapa
-
-        ~
-
-        Slaatje met eendenborstfilet, feta en dadels
-
-        ~
-
-        Kalkoenfilet met druivensaus
-
-        ~
-
-        Crème brûlée
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 59
-        Witte wijn, rode wijn & water inbegrepen
-    - title: Maandmenu Mei
+    - title: MEI | maandmenu
       text: |-
         Bubbels met hapje
 
@@ -369,7 +345,7 @@ menus:
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
       image: /img/happy-mothers-day-ftr.jpg
-    - title: Maandmenu Juni
+    - title: JUNI | maandmenu
       text: >-
         Cava met hapje
 

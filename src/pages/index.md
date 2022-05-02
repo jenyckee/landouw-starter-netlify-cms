@@ -50,13 +50,13 @@ about: >-
   Beste klanten 
 
 
-  Vorig jaar konden jullie genieten van ons gloednieuw concept tapas & lounge bar. Door het grote succes, de dankbaarheid en vele complimenten behouden we dit concept.
+  Een tijd terug zijn wij gestart met een gloednieuw concept tapas & lounge bar. Door het grote succes, de dankbaarheid en vele complimenten behouden we dit concept.
 
 
   In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | Tiegemse koffie & veel meer. 
 
 
-  Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan!
+  Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan! De kinderen kunnen genieten van een grote binnenspeeltuin mét springkasteel én bij goed weer kunnen zij zich buiten uitleven op de buitenspeeltuin. 
 
 
   Wees allemaal welkom bij ons in Landouw! 
@@ -417,10 +417,10 @@ info: >+
   | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
 
 
-  | Tijdens de zomermaanden variëren onze openingsuren.
+  | Tijdens de zomermaanden variëren onze openingsuren. In juli en augustus zijn wij doorlopend (van 15 juli tem 15 augustus). De correcte openingstijden zullen uiteraard verschijnen op onze website en facebook-pagina. 
 
 
-  | Check onze facebook-pagina voor de laatste updates.
+  | Check onze facebook-pagina voor de laatste updates, leuke sfeerfoto's en veel meer!
 
 
   | Voor groepen vanaf 20 personen zijn wij ook open tijdens de week.

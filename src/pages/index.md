@@ -206,13 +206,9 @@ menus:
 
         mini frikandellen - kipnuggets - bitterballen - loempia's - sausjes
     - text: |-
-        Coupe cava
-
-        ~
-
         Duo kaas- en garnaalkroketje met fris slaatje
 
-        -
+        of
 
         Seizoensgebonden suggestie
 
@@ -220,13 +216,14 @@ menus:
 
         Côte à l'os met frietjes & saus naar keuze
 
-        -
+        of
 
         Vis van de dag met puree en gewokte groentjes
 
         ~
 
         Dessert van de chef
+
 
         Met voorgerecht | € 44
 

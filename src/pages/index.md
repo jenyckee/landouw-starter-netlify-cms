@@ -64,15 +64,13 @@ menus:
   options:
     - title: Apero
       text: |-
-        Porto | € 5
+        Porto | € 6
         wit - rood
 
-        Martini | € 5
+        Martini | € 6
         wit - rood 
 
-        Martini bellini | € 6
-
-        Ricard | € 6
+        Ricard | € 7
 
         Kirr Royal | € 7
         crème de cassis - cava
@@ -86,20 +84,18 @@ menus:
 
         Picon | € 7
 
-        Aperitief van het huis | € 7
+        Aperitief van het huis | € 9
 
-        Aperol Spritz | € 7
+        Aperol Spritz | € 9
 
-        Witte sangria v/h huis | € 8
-
-        Witte sangria v/h huis (1L) | € 20
+        Witte sangria v/h huis | € 9
       image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
     - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg
       text: |-
-        Mojito | € 8
+        Mojito | € 10
 
-        Strawberry Mojito | € 9
+        Strawberry Mojito | € 11
 
         Sex on the beach | € 10
         wodka - peach liqueur - sinsaasappel - cranberry 
@@ -129,9 +125,9 @@ menus:
       image: /img/landouwsummer-13.jpg
     - title: Gin & Bubbels
       text: |
-        Gin Tonic | € 8
-
         Fie's homemade | € 10
+
+        Bombay | € 10
 
         Bulldog | € 12
 
@@ -141,17 +137,23 @@ menus:
 
         Coupe cava | € 7
 
-        Coupe champagne | € 9
+        Coupe champagne | € 11
 
-        Fles cava | € 27
+        Fles cava | € 29
 
-        Crèment de Bourgogne | € 30
+        Champagne van het huis | € 45
 
         Champagne Laurent - Perrier Brut | € 65
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
-        Patatas bravas | € 4
+        Huisgemaakte zoete aardappel chips | € 4
+
+
+        Huisgemaakte lookbroodjes | € 4
+
+
+        Patatas bravas | € 6
 
 
         Portie gegrilde witte pens | € 6
@@ -160,30 +162,30 @@ menus:
         Bowl nacho's | € 6
 
 
-        Gevulde ravioli | € 6
+        Gelakt buikspek | € 8
 
 
-        Gelakt buikspek | € 6
-
-
-        Klassieke Spaanse bruschetta's (6st) | € 8
-
-
-        Spaanse bruschetta's met serranoham (6st) | € 10
-
-
-        Huisgemaakte goujounettes (4st) | € 10
+        Huisgemaakte goujounettes (6st) | € 12
 
         met verse tartaarsaus
 
 
-        Chickenwings met zoetzure saus (8st) | € 12
+        Klassieke Spaanse bruschetta's (6st) | € 12
 
 
-        Seizoensgebonden tapas-kroketjes (4st) | € 12 
+        Spaanse bruschetta's met serranoham (6st) | € 14
 
 
-        Ribs on a plate | € 14
+        Spaanse bruschetta's met gerookte zalm (6st) | € 14
+
+
+        Tapaskroketjes | € 12
+
+
+        Toastjes gerookte zalm | € 12
+
+
+        Plankje serranoham | € 18
 
 
 
@@ -210,60 +212,97 @@ menus:
 
         of
 
-        Seizoensgebonden suggestie
+        seizoensgebonden suggestie
 
         ~
 
-        Côte à l'os met frietjes & saus naar keuze
+        Côte à l'os met frietjes & saus naar keuze (vanaf 2 personen)
 
         of
 
-        Vis van de dag met puree en gewokte groentjes
+        Vis van de dag met gewokte groentjes
 
         ~
 
-        Dessert van de chef
+        Nagerecht van de chef
 
-
-        Met voorgerecht | € 44
-
-        Zonder voorgerecht | € 35
+        | € 44
       title: Suggestiemenu
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
+    - title: "Voorgerechten & kleine honger "
+      text: |-
+        VOORGERECHTEN
+
+        Ravioli met basilicum in roomsaus | € 14
+
+        Duo van kaas- en garnaalkroket | € 16
+
+        Gerookte zalm met slaatje | € 18
+
+        Slaatje geitenkaas | € 19
+
+        Scampi look | € 19
+
+        Scampi maison | € 19
+
+
+
+        KLEINE HONGER
+
+        Spaghetti bolognaise | € 14
+
+        Kaaskroketten (2st) | € 14
+
+        Duo van kaas- en garnaalkroket | € 16
+
+        Garnaalkroketten (2st) | € 18
+
+
+        met slaatje - brood/frietjes | + € 2
+      image: /img/b4c3eecdde711f6e7267af5735b67fde79b4224e.webp
     - title: Hoofdgerechten
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
       text: >-
         VIS
 
 
-        Gegrilde gamba's op chef's wijze | € 24
+        Scampi maison met gegrilde sucrine | € 24
+
+
+        Gegrilde gamba's op chef's wijze | € 26
 
         met bearnaisesaus
 
 
-        Scampi room-tuinkruiden op gegrilde salade | € 22
+        Dagverse vis op zoutsteen | € 26
 
 
-        Dagverse vis op zoutsteen | € 24
+        Gegratineerde zalm | € 26
+
+
+
 
 
         VLEES
 
 
-        Stoverij van varkenswangetjes met patersbier | € 22
+        Stoverij van varkenswangetjes met patersbier | € 24
 
 
-        Lamskoteletten met hofmeesterboter | € 24
+        Gelakte ribbetjes | € 24
+
+
+        Lamskoteletten met hofmeesterboter | € 26
 
         met slaatje en frietjes
 
 
-        Reuzenkipbrochette | € 24
+        Reuzenkipbrochette | € 26
 
         met champignonsaus, slaatje en frietjes
 
 
-        Gegrilde steak, saus naar keuze | € 25
+        Gegrilde steak, saus naar keuze | € 26
 
         met slaatje en frietjes 
 
@@ -273,15 +312,35 @@ menus:
         met slaatje en frietjes 
 
 
+        Zesrib entrecôte | € 29
+
+
 
         Dit is een voorbeeld van onze kaart. Onze kaart wordt geregeld aangepast. 
+    - title: Vegatarisch & slaatjes
+      text: |-
+        VEGETARISCH
+
+        Quinoa-burger met gewokte groentjes of slaatje | € 22
+
+
+
+        SLAATJES
+
+        Salade geitenkaas | € 22
+
+        Salade gebakken kip met appeltjes | € 22
+
+        Salade Landouw | € 24
+
+        Salade folle | € 27
+      image: /img/a9f52358f53611564065a8d8f950a627.jpg
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
-        Snackmannetje | € 8
-        mini-frikandel - boulet - kipnugget
+        Smulmannetje met appelmoes en frietjes | € 10
 
-        Kipnuggets met frietjes | € 8
+        Kipnuggets met appelmoes en frietjes | € 10
 
         Kinderspaghetti | € 10
 
@@ -297,13 +356,22 @@ menus:
     - title: Desserts
       image: /img/47216601_2182634031948800_5103231736825774080_o.jpg
       text: >-
-        Coupe vanille | € 6
+        Assortiment kinderijsjes | € 3
 
 
-        Dame blanche | € 7
+        Coupe vanille | € 7
 
 
-        Coupe bresilienne | € 7
+        Dame blanche | € 8
+
+
+        Coupe bresilienne | € 8
+
+
+        Coupe vers fruit | € 8
+
+
+        Brusselse wafel (met ijs of slagroom) | € 8
 
 
         Warme Bretoense appeltaart | € 9
@@ -316,7 +384,12 @@ menus:
         met roomijs
 
 
-        Suggestie nagerecht | € 9
+        Ananastaartje met roomijs en caramel | € 9
+
+
+        Café Glacé | € 10
+
+        met baileys - amaretto 
 
 
 

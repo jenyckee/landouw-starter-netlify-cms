@@ -452,6 +452,38 @@ menus:
 
         Witte wijn, rode wijn & water inbegrepen
       image: /img/fathersday.jpg
+    - title: JULI & AUGUSTUS | maandmenu
+      image: /img/zomervakantie.jpg
+      text: |-
+        Glaasje bubbels met tapa 
+
+        ~
+
+        Italiaanse ham met frisse meloen 
+
+        of 
+
+        trio van tomaat met mozzarella en balsamico
+
+        ~
+
+        Tongfilets met wokgroenten
+
+        of 
+
+        kipfilet met warme groenten
+
+        ~
+
+        Nagerecht chocosphére 
+
+        ~
+
+        Koffie
+
+
+        59 € per persoon
+        all-in (wit en rode wijn & water op tafel)
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

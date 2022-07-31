@@ -394,64 +394,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: MEI | maandmenu
-      text: |-
-        Bubbels met hapje
-
-        ~
-
-        Asperges met gerookte zalm en hollandaise
-
-        ~
-
-        Mixed grill brochette met gemengde salade en frieten
-
-        ~
-
-        Tiramisu met aardbeien
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 59
-        Witte wijn, rode wijn & water inbegrepen
-      image: /img/happy-mothers-day-ftr.jpg
-    - title: JUNI | maandmenu
-      text: >-
-        Cava met hapje
-
-
-        ~
-
-
-        Klassieke zeevruchtencocktail
-
-
-        ~
-
-
-        Varkenshaasje met een graanmosterdsausje, warme groentjes en gratin aardappelen
-
-
-        ~
-
-
-        Citroen-meringue taartje
-
-
-        ~ 
-
-
-        Mokka en versnaperingen
-
-
-
-        Prijs: € 59
-
-        Witte wijn, rode wijn & water inbegrepen
-      image: /img/fathersday.jpg
     - title: JULI & AUGUSTUS | maandmenu
       image: /img/zomervakantie.jpg
       text: |-
@@ -484,6 +426,33 @@ menus:
 
         59 € per persoon
         all-in (wit en rode wijn & water op tafel)
+    - title: SEPTEMBER | maandmenu
+      text: |-
+        Cava en bruschetta
+        ~
+
+        Nestje met geitenkaas en spekkrokantjes 
+
+        ~
+
+        Eendenborstfilet met sinaasappelsausje en ambachtelijke kroketten 
+
+        OF 
+
+        Ribeye met saus naar keuze, frisse groenten en frietjes (+ €3)
+
+        ~
+
+        Cheesecake met Maltezers en speculaas
+
+        ~ 
+
+        Mokka en versnaperingen
+
+
+        Prijs: € 59
+        Witte wijn, rode wijn & water inbegrepen
+      image: /img/istockphoto-1166354887-612x612.jpg
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 
@@ -512,6 +481,11 @@ info: >+
 hours: |-
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u
+
+  ZOMERPERIODE: 
+  15 JULI - 15 AUGUSTUS DOORLOPEND OPEN OP
+  MA - WOE - DO - VRIJ VANAF 17U
+  ZO & ZO VANAF 12U
 main:
   heading: Great coffee with no compromises
   description: >

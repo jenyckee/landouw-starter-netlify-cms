@@ -394,38 +394,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JULI & AUGUSTUS | maandmenu
-      image: /img/zomervakantie.jpg
-      text: |-
-        Glaasje bubbels met tapa 
-
-        ~
-
-        Italiaanse ham met frisse meloen 
-
-        of 
-
-        trio van tomaat met mozzarella en balsamico
-
-        ~
-
-        Tongfilets met wokgroenten
-
-        of 
-
-        kipfilet met warme groenten
-
-        ~
-
-        Nagerecht chocosphére 
-
-        ~
-
-        Koffie
-
-
-        59 € per persoon
-        all-in (wit en rode wijn & water op tafel)
     - title: SEPTEMBER | maandmenu
       text: |-
         Cava en bruschetta
@@ -452,7 +420,74 @@ menus:
 
         Prijs: € 59
         Witte wijn, rode wijn & water inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
       image: /img/istockphoto-1166354887-612x612.jpg
+    - title: OKTOBER | maandmenu
+      image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
+      text: >-
+        Glaasje bubbels met tapa 
+
+
+        ~
+
+
+        Mosselen natuur
+
+
+        ~
+
+
+        Brasvar filet pur, roomsaus met witte beukenzwam en ambachtelijke kroketten
+
+
+        ~
+
+
+        Roomijs met aardbeiensorbet
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        59 € per persoon
+
+        all-in (wit en rode wijn & water op tafel)
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: NOVEMBER | maandmenu
+      image: /img/november-word-hand-lettering-typography-260nw-1153658308.webp
+      text: |-
+        Glas bubbels met tapa
+        ~
+
+        Kabeljauw in papillot - garnaal - coquille 
+
+        ~
+
+        Eendenborstfilet met sjalot honingsaus en bloemkoolroosjes
+
+        ~
+
+        Chocoladeschuim met meringue en speculaas
+
+        ~ 
+
+        Mokka en versnaperingen
+
+
+        Prijs: € 59
+        Witte wijn, rode wijn & water inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

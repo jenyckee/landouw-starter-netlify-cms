@@ -269,7 +269,7 @@ menus:
         Scampi maison met gegrilde sucrine | € 24
 
 
-        Gegrilde gamba's op chef's wijze | € 26
+        Gegrilde gamba's op chef's wijze | € 28
 
         met bearnaisesaus
 
@@ -286,13 +286,16 @@ menus:
         VLEES
 
 
+        Vol au vent | € 24
+
+
         Stoverij van varkenswangetjes met patersbier | € 24
 
 
         Gelakte ribbetjes | € 24
 
 
-        Lamskoteletten met hofmeesterboter | € 26
+        Lamskoteletten met hofmeesterboter | € 31
 
         met slaatje en frietjes
 
@@ -332,13 +335,11 @@ menus:
         Salade gebakken kip met appeltjes | € 22
 
         Salade Landouw | € 24
-
-        Salade folle | € 27
       image: /img/a9f52358f53611564065a8d8f950a627.jpg
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
-        Smulmannetje met appelmoes en frietjes | € 10
+        Smull-mannetje met appelmoes en frietjes | € 10
 
         Kipnuggets met appelmoes en frietjes | € 10
 

@@ -395,36 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: SEPTEMBER | maandmenu
-      text: |-
-        Cava en bruschetta
-        ~
-
-        Nestje met geitenkaas en spekkrokantjes 
-
-        ~
-
-        Eendenborstfilet met sinaasappelsausje en ambachtelijke kroketten 
-
-        OF 
-
-        Ribeye met saus naar keuze, frisse groenten en frietjes (+ €3)
-
-        ~
-
-        Cheesecake met Maltezers en speculaas
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 59
-        Witte wijn, rode wijn & water inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-      image: /img/istockphoto-1166354887-612x612.jpg
     - title: OKTOBER | maandmenu
       image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
       text: >-
@@ -456,9 +426,9 @@ menus:
 
 
 
-        59 € per persoon
+        59 € 
 
-        all-in (wit en rode wijn & water op tafel)
+        water, wit en rode wijn inbegrepen 
 
 
 
@@ -483,12 +453,120 @@ menus:
 
         Mokka en versnaperingen
 
-
-        Prijs: € 59
-        Witte wijn, rode wijn & water inbegrepen
+        59 € 
+        water, wit en rode wijn inbegrepen
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: KERST & NIEUWJAAR | feestmenu
+      image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
+      text: >-
+        Bruisend aperitief met tapa
+
+        ~
+
+
+        Vitello tonnato
+
+
+        ~
+
+
+        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
+
+
+        ~
+
+
+        Saint Honoré
+
+
+        ~ 
+
+
+        Mokka en versnaperingen
+
+
+
+        Prijs: € 62
+
+        All-in
+
+
+
+        | Wij vragen u steeds om te reserveren voor de feestmenu
+    - title: DECEMBER | maandmenu
+      text: >-
+        Bruisend aperitief met tapa
+
+        ~
+
+
+        Vitello tonnato
+
+
+        ~
+
+
+        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
+
+
+        ~
+
+
+        Saint Honoré
+
+
+        ~ 
+
+
+        Mokka en versnaperingen
+
+
+        59 € 
+
+        water, wit en rode wijn inbegrepen
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+      image: /img/10653548_8.webp
+    - title: JANUARI | maandmenu
+      text: >-
+        Bruisend aperitief met tapa
+
+        ~
+
+
+        Vitello tonnato
+
+
+        ~
+
+
+        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
+
+
+        ~
+
+
+        Saint Honoré
+
+
+        ~ 
+
+
+        Mokka en versnaperingen
+
+
+        59 € 
+
+        water, wit en rode wijn inbegrepen
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+      image: /img/maand.png
 info: >+
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

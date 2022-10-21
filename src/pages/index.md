@@ -472,7 +472,7 @@ menus:
         ~
 
 
-        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
+        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
 
 
         ~
@@ -487,11 +487,11 @@ menus:
         Mokka en versnaperingen
 
 
+        water, wit en rode wijn inbegrepen
 
         Prijs: € 62
 
         All-in
-
 
 
         | Wij vragen u steeds om te reserveren voor de feestmenu
@@ -508,8 +508,7 @@ menus:
         ~
 
 
-        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
-
+        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
 
         ~
 
@@ -523,10 +522,11 @@ menus:
         Mokka en versnaperingen
 
 
-        59 € 
-
         water, wit en rode wijn inbegrepen
 
+        Prijs: € 62
+
+        All-in
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
@@ -544,8 +544,7 @@ menus:
         ~
 
 
-        Parelhoenfilet met Normandisch roomsaus - wintergroenten of tartin met witloof
-
+        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
 
         ~
 
@@ -559,15 +558,17 @@ menus:
         Mokka en versnaperingen
 
 
-        59 € 
-
         water, wit en rode wijn inbegrepen
+
+        Prijs: € 62
+
+        All-in
 
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
       image: /img/maand.png
-info: >+
+info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 
    Proef onze hartverwarmende Tiegemse koffie.
@@ -581,7 +582,7 @@ info: >+
   | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
 
 
-  | Tijdens de zomermaanden variëren onze openingsuren. In juli en augustus zijn wij doorlopend (van 15 juli tem 15 augustus). De correcte openingstijden zullen uiteraard verschijnen op onze website en facebook-pagina. 
+  | Tijdens de zomermaanden variëren onze openingsuren. De correcte openingstijden zullen uiteraard verschijnen op onze website en facebook-pagina. 
 
 
   | Check onze facebook-pagina voor de laatste updates, leuke sfeerfoto's en veel meer!
@@ -592,14 +593,12 @@ info: >+
 
   | Wij aanvaarden cash & Payconiq - GEEN BANK- EN/OF KREDIETKAARTEN. 
 
-hours: |-
+
+  | Een toegankelijke plaats voor rolstoelgebruikers
+hours: |+
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u
 
-  ZOMERPERIODE: 
-  15 JULI - 15 AUGUSTUS DOORLOPEND OPEN OP
-  MA - WOE - DO - VRIJ VANAF 17U
-  ZO & ZO VANAF 12U
 main:
   heading: Great coffee with no compromises
   description: >

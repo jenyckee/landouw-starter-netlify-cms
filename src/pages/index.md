@@ -487,11 +487,10 @@ menus:
         Mokka en versnaperingen
 
 
-        water, wit en rode wijn inbegrepen
 
         Prijs: € 62
 
-        All-in
+        water, wit en rode wijn inbegrepen
 
 
         | Wij vragen u steeds om te reserveren voor de feestmenu
@@ -522,11 +521,9 @@ menus:
         Mokka en versnaperingen
 
 
-        water, wit en rode wijn inbegrepen
-
         Prijs: € 62
 
-        All-in
+        water, wit en rode wijn inbegrepen
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
@@ -558,11 +555,9 @@ menus:
         Mokka en versnaperingen
 
 
-        water, wit en rode wijn inbegrepen
-
         Prijs: € 62
 
-        All-in
+        water, wit en rode wijn inbegrepen
 
 
 

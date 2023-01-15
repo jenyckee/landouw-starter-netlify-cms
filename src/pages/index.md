@@ -395,139 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: OKTOBER | maandmenu
-      image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
-      text: >-
-        Glaasje bubbels met tapa 
-
-
-        ~
-
-
-        Mosselen natuur
-
-
-        ~
-
-
-        Brasvar filet pur, roomsaus met witte beukenzwam en ambachtelijke kroketten
-
-
-        ~
-
-
-        Roomijs met aardbeiensorbet
-
-
-        ~
-
-
-        Mokka en versnaperingen
-
-
-
-        59 € 
-
-        water, wit en rode wijn inbegrepen 
-
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: NOVEMBER | maandmenu
-      image: /img/november-word-hand-lettering-typography-260nw-1153658308.webp
-      text: |-
-        Glas bubbels met tapa
-        ~
-
-        Kabeljauw in papillot - garnaal - coquille 
-
-        ~
-
-        Eendenborstfilet met sjalot honingsaus en bloemkoolroosjes
-
-        ~
-
-        Chocoladeschuim met meringue en speculaas
-
-        ~ 
-
-        Mokka en versnaperingen
-
-        59 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: KERST & NIEUWJAAR | feestmenu
-      image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
-      text: >-
-        Bruisend aperitief met tapa
-
-        ~
-
-
-        Vitello tonnato
-
-
-        ~
-
-
-        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
-
-
-        ~
-
-
-        Saint Honoré
-
-
-        ~ 
-
-
-        Mokka en versnaperingen
-
-
-
-        Prijs: € 62
-
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de feestmenu
-    - title: DECEMBER | maandmenu
-      text: >-
-        Bruisend aperitief met tapa
-
-        ~
-
-
-        Vitello tonnato
-
-
-        ~
-
-
-        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
-
-        ~
-
-
-        Saint Honoré
-
-
-        ~ 
-
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 62
-
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-      image: /img/10653548_8.webp
     - title: JANUARI | maandmenu
       text: >-
         Bruisend aperitief met tapa
@@ -563,6 +430,31 @@ menus:
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
       image: /img/maand.png
+    - title: FEBRUARI | maandmenu
+      image: /img/hello-february-wallpaper.jpg
+      text: |-
+        Aperitief maison en een hapje
+        ~
+
+        Gebakken zeewolffilet - julienne prei
+
+        ~
+
+        Krokant kipje - pont-neuf 'lucifer'
+
+        ~
+
+        Carpaccio van ananas - colonel
+
+        ~ 
+
+        Mokka en versnaperingen
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

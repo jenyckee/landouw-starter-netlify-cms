@@ -395,45 +395,11 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JANUARI | maandmenu
-      text: >-
-        Bruisend aperitief met tapa
-
-        ~
-
-
-        Vitello tonnato
-
-
-        ~
-
-
-        Parelhoenfilet met Normandische roomsaus -  witlooftaartje- ambachtelijke kroketten
-
-        ~
-
-
-        Saint Honoré
-
-
-        ~ 
-
-
-        Mokka en versnaperingen
-
-
-        Prijs: € 62
-
-        water, wit en rode wijn inbegrepen
-
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-      image: /img/maand.png
     - title: FEBRUARI | maandmenu
       image: /img/hello-february-wallpaper.jpg
       text: |-
         Aperitief maison en een hapje
+
         ~
 
         Gebakken zeewolffilet - julienne prei
@@ -449,6 +415,62 @@ menus:
         ~ 
 
         Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MAART | maandmenu
+      image: /img/hellomarch.webp
+      text: |-
+        Aperitief maison en een hapje
+
+        ~
+
+        Duo van gerookte zalm en Italiaanse ham
+
+        ~
+
+        Filet van Brasvar, roomsaus
+        Aardappelpuree met spinazie en witte beukenzwam
+
+        ~
+
+        Panna cotta, sausje van rode vruchten
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: "APRIL | maandmenu "
+      image: /img/hello-april-background-wallpaper.jpg
+      text: |-
+        Bruisend aperitief en een hapje
+
+        ~
+
+        Schartongrolletjes met gebakken scampi
+
+        ~
+
+        Kalfsmedaillon choron met lentegroenten
+
+        ~
+
+        Huisbereide chocoladeschuim met framboos
+
+        ~
+
+        Mokka en versnaperingen
+
 
         62 € 
         water, wit en rode wijn inbegrepen

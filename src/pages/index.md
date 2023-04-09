@@ -395,34 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: MAART | maandmenu
-      image: /img/hellomarch.webp
-      text: |-
-        Aperitief maison en een hapje
-
-        ~
-
-        Duo van gerookte zalm en Italiaanse ham
-
-        ~
-
-        Filet van Brasvar, roomsaus
-        Aardappelpuree met spinazie en witte beukenzwam
-
-        ~
-
-        Panna cotta, sausje van rode vruchten
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: "APRIL | maandmenu "
       image: /img/hello-april-background-wallpaper.jpg
       text: |-
@@ -478,6 +450,61 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JUNI | maandmenu
+      image: /img/hello-june-wallpaper-floral.jpg
+      text: |
+        Glaasje bubbels met amuse
+
+        ~
+
+        Portobello met peterselieboter, geitenkaas en balsamico
+
+        ~
+
+        Krokante eendenborst met honingsaus
+        Slaatje en kroketten
+
+        ~
+
+        Sinaasappelmeringues met laurierroom en amandel
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JULI & AUGUSTUS | maandmenu
+      image: /img/istockphoto-1312253210-612x612.jpg
+      text: |-
+        Aperitief met tapa
+
+        ~
+
+        Carpaccio de pulpo met radijs, avocado en fris slaatje
+
+        ~
+
+        Parelhoen met peultjes en puree van zoete aardappel
+
+        ~
+
+        American s’mores
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 
@@ -505,6 +532,12 @@ info: >
 
 
   | Een toegankelijke plaats voor rolstoelgebruikers
+
+
+  | Jaarlijks verlof weekend van 4, 5 & 6 augustus - weekend van 25, 26 & 27 augustus
+
+
+  | Jaarlijkse bbq 14 augustus
 hours: |+
   VRIJDAG OPEN OM 17U
   ZATERDAG & ZONDAG OPEN OM 12u

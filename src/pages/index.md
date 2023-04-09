@@ -395,33 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: FEBRUARI | maandmenu
-      image: /img/hello-february-wallpaper.jpg
-      text: |-
-        Aperitief maison en een hapje
-
-        ~
-
-        Gebakken zeewolffilet - julienne prei
-
-        ~
-
-        Krokant kipje - pont-neuf 'lucifer'
-
-        ~
-
-        Carpaccio van ananas - colonel
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: MAART | maandmenu
       image: /img/hellomarch.webp
       text: |-
@@ -468,6 +441,34 @@ menus:
         Huisbereide chocoladeschuim met framboos
 
         ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MEI | maandmenu
+      image: /img/pink-floral-hello-may-wallpaper.jpg
+      text: |
+        Coupe fleur met een hapje van de chef
+
+        ~
+
+        Asperges op z’n Vlaams
+
+        ~
+
+        Kalkoen gevuld met mozzarella, pesto en zongedroogde tomaatjes
+        Risotto en champignons 
+
+        ~
+
+        Vanille ijs met gemarineerde aardbeien
+
+        ~ 
 
         Mokka en versnaperingen
 

@@ -485,7 +485,7 @@ menus:
 
         ~
 
-        Carpaccio de pulpo met radijs, avocado en fris slaatje
+        Carpaccio met radijs, avocado en fris slaatje
 
         ~
 
@@ -538,10 +538,13 @@ info: >
 
 
   | Jaarlijkse bbq 14 augustus
-hours: |+
+hours: >-
   VRIJDAG OPEN OM 17U
+
   ZATERDAG & ZONDAG OPEN OM 12u
 
+
+  | Jaarlijks verlof weekend van 4, 5 & 6 augustus - weekend van 25, 26 & 27 augustus
 main:
   heading: Great coffee with no compromises
   description: >

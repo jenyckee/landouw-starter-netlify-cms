@@ -115,7 +115,7 @@ menus:
         Virgin mojito | € 6
 
         Sweet dreams | € 6
-        beer 0.0 - cranberrysap - citroensap
+        tonic - mango - cranberrysap - citroensap
 
         Bitter Spritz | € 6
         bitter Rosso - tonic 
@@ -150,16 +150,16 @@ menus:
         Huisgemaakte zoete aardappel chips | € 4
 
 
-        Huisgemaakte lookbroodjes | € 4
+        Huisgemaakte lookbroodjes | € 6
 
 
-        Patatas bravas | € 6
+        Patatas bravas | € 8
 
 
-        Portie gegrilde witte pens | € 6
+        Portie gegrilde witte pens | € 8
 
 
-        Bowl nacho's | € 6
+        Bowl nacho's | € 10
 
 
         Gelakt buikspek | € 8
@@ -176,13 +176,13 @@ menus:
         Spaanse bruschetta's met serranoham (6st) | € 14
 
 
-        Spaanse bruschetta's met gerookte zalm (6st) | € 14
+        Spaanse bruschetta's met gerookte zalm (6st) | € 16
 
 
-        Tapaskroketjes | € 12
+        Tapaskroketjes | € 14
 
 
-        Toastjes gerookte zalm | € 12
+        Toastjes gerookte zalm | € 16
 
 
         Plankje serranoham | € 18
@@ -194,17 +194,17 @@ menus:
     - title: Tapasplanken
       image: /img/111802368_3100003306749853_339794286471165344_n.jpg
       text: >-
-        Warme tapasplank | € 20
+        Warme tapasplank | € 24
 
         gegrilde witte pens - buikspek - patatas bravas - lookbroodjes - gebakken scampi's - tempura van groenten
 
 
-        Koude tapasplank | € 18
+        Koude tapasplank | € 22
 
         verschillende kazen & Spaanse hespen - chorizo - paté - tapenade 
 
 
-        Kinder tapasplank | € 12
+        Kinder tapasplank | € 14
 
         mini frikandellen - kipnuggets - bitterballen - loempia's - sausjes
     - text: |-
@@ -226,36 +226,36 @@ menus:
 
         Nagerecht van de chef
 
-        | € 44
+        | € 46
       title: Suggestiemenu
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: "Voorgerechten & kleine honger "
       text: |-
         VOORGERECHTEN
 
-        Ravioli met basilicum in roomsaus | € 14
+        Ravioli met basilicum in roomsaus | € 16
 
-        Duo van kaas- en garnaalkroket | € 16
+        Duo van kaas- en garnaalkroket | € 18
 
-        Gerookte zalm met slaatje | € 18
+        Gerookte zalm met slaatje | € 20
 
         Slaatje geitenkaas | € 19
 
-        Scampi look | € 19
+        Scampi look | € 20
 
-        Scampi maison | € 19
+        Scampi maison | € 20
 
 
 
         KLEINE HONGER
 
-        Spaghetti bolognaise | € 14
+        Spaghetti bolognaise | € 16
 
-        Kaaskroketten (2st) | € 14
+        Kaaskroketten (2st) | € 16
 
-        Duo van kaas- en garnaalkroket | € 16
+        Duo van kaas- en garnaalkroket | € 18
 
-        Garnaalkroketten (2st) | € 18
+        Garnaalkroketten (2st) | € 19
 
 
         met slaatje - brood/frietjes | + € 2
@@ -266,7 +266,7 @@ menus:
         VIS
 
 
-        Scampi maison met gegrilde sucrine | € 24
+        Scampi maison met gegrilde sucrine | € 26
 
 
         Gegrilde gamba's op chef's wijze | € 28
@@ -292,7 +292,7 @@ menus:
         Stoverij van varkenswangetjes met patersbier | € 24
 
 
-        Gelakte ribbetjes | € 24
+        Gelakte ribbetjes | € 26
 
 
         Lamskoteletten met hofmeesterboter | € 31
@@ -310,7 +310,7 @@ menus:
         met slaatje en frietjes 
 
 
-        Côte à l'os gegrild, saus naar keuze | € 29
+        Côte à l'os gegrild, saus naar keuze | € 31
 
         met slaatje en frietjes 
 
@@ -330,11 +330,11 @@ menus:
 
         SLAATJES
 
-        Salade geitenkaas | € 22
+        Salade geitenkaas | € 24
 
-        Salade gebakken kip met appeltjes | € 22
+        Salade gebakken kip met appeltjes | € 24
 
-        Salade Landouw | € 24
+        Salade Landouw | € 26
       image: /img/a9f52358f53611564065a8d8f950a627.jpg
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
@@ -369,10 +369,10 @@ menus:
         Coupe bresilienne | € 8
 
 
-        Coupe vers fruit | € 8
+        Coupe vers fruit | € 10
 
 
-        Brusselse wafel (met ijs of slagroom) | € 8
+        Brusselse wafel (met ijs of slagroom) | € 8 - € 10
 
 
         Warme Bretoense appeltaart | € 9

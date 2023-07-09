@@ -395,89 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: "APRIL | maandmenu "
-      image: /img/hello-april-background-wallpaper.jpg
-      text: |-
-        Bruisend aperitief en een hapje
-
-        ~
-
-        Schartongrolletjes met gebakken scampi
-
-        ~
-
-        Kalfsmedaillon choron met lentegroenten
-
-        ~
-
-        Huisbereide chocoladeschuim met framboos
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: MEI | maandmenu
-      image: /img/pink-floral-hello-may-wallpaper.jpg
-      text: |
-        Coupe fleur met een hapje van de chef
-
-        ~
-
-        Asperges op z’n Vlaams
-
-        ~
-
-        Kalkoen gevuld met mozzarella, pesto en zongedroogde tomaatjes
-        Risotto en champignons 
-
-        ~
-
-        Vanille ijs met gemarineerde aardbeien
-
-        ~ 
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: JUNI | maandmenu
-      image: /img/hello-june-wallpaper-floral.jpg
-      text: |
-        Glaasje bubbels met amuse
-
-        ~
-
-        Portobello met peterselieboter, geitenkaas en balsamico
-
-        ~
-
-        Krokante eendenborst met honingsaus
-        Slaatje en kroketten
-
-        ~
-
-        Sinaasappelmeringues met laurierroom en amandel
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: JULI & AUGUSTUS | maandmenu
       image: /img/istockphoto-1312253210-612x612.jpg
       text: |-
@@ -494,6 +411,33 @@ menus:
         ~
 
         American s’mores
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: SEPTEMBER | maandmenu
+      image: /img/hand-drawn-hello-september-lettering_23-2149042259.avif
+      text: |
+        Rumba rum met hapje
+
+        ~
+
+        Saveurs mix met mozzarella, tomaat en balsamico 
+
+        ~
+
+        Gebakken tongfilets met beurre blanc en frietjes 
+
+        ~
+
+        Churros met poedersuiker
 
         ~
 

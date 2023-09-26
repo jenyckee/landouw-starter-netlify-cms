@@ -395,33 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JULI & AUGUSTUS | maandmenu
-      image: /img/istockphoto-1312253210-612x612.jpg
-      text: |-
-        Aperitief met tapa
-
-        ~
-
-        Carpaccio met radijs, avocado en fris slaatje
-
-        ~
-
-        Parelhoen met peultjes en puree van zoete aardappel
-
-        ~
-
-        American s’mores
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: SEPTEMBER | maandmenu
       image: /img/hand-drawn-hello-september-lettering_23-2149042259.avif
       text: |
@@ -438,6 +411,30 @@ menus:
         ~
 
         Churros met poedersuiker
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: OKTOBER | maandmenu
+      image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
+      text: |-
+        Vitello tonnato
+
+        ~
+
+        Parelhoenfilet met sinaasappelsaus
+
+        ~
+
+        crème brûlée
+
 
         ~
 

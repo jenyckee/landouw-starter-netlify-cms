@@ -433,7 +433,7 @@ menus:
 
         ~
 
-        crème brûlée
+        Crème brûlée
 
 
         ~

@@ -395,33 +395,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: NOVEMBER | maandmenu
-      image: /img/aea78772119941.5bdc63ba31701.png
-      text: |
-        Bruisend aperitief met hapje
-
-        ~
-
-        Papilotte van noordzeevis 
-
-        ~
-
-        Varkenshaasje met champignonroomsaus, warme groenten en kroketten 
-
-        ~
-
-        Tarte tatin van ananas met roomijs en slagroom
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: OKTOBER | maandmenu
       image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
       text: |-
@@ -438,6 +411,33 @@ menus:
         ~
 
         Crème brûlée
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        62 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: NOVEMBER | maandmenu
+      image: /img/aea78772119941.5bdc63ba31701.png
+      text: |
+        Bruisend aperitief met hapje
+
+        ~
+
+        Papilotte van noordzeevis 
+
+        ~
+
+        Varkenshaasje met champignonroomsaus, warme groenten en kroketten 
+
+        ~
+
+        Tarte tatin van ananas met roomijs en slagroom
 
         ~
 

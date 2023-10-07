@@ -512,7 +512,7 @@ menus:
 
 
 
-        42 € 
+        46 € 
 
         met passende dranken + 26 € (meerdere glazen cava, 2x wijn - bier of frisdrank en koffie)
 
@@ -546,19 +546,10 @@ info: >
 
 
   | Een toegankelijke plaats voor rolstoelgebruikers
-
-
-  | Jaarlijks verlof weekend van 4, 5 & 6 augustus - weekend van 25, 26 & 27 augustus
-
-
-  | Jaarlijkse bbq 14 augustus
-hours: >-
-  VRIJDAG OPEN OM 17U
-
-  ZATERDAG & ZONDAG OPEN OM 12u
-
-
-  | Jaarlijks verlof weekend van 4, 5 & 6 augustus - weekend van 25, 26 & 27 augustus
+hours: |-
+  VRIJDAG OPEN OM 17u
+  ZATERDAG OPEN OM 12u-15u EN 17u-...
+  ZONDAG OPEN OM 12u
 main:
   heading: Great coffee with no compromises
   description: >

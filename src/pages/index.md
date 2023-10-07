@@ -395,22 +395,22 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: SEPTEMBER | maandmenu
-      image: /img/hand-drawn-hello-september-lettering_23-2149042259.avif
+    - title: NOVEMBER | maandmenu
+      image: /img/aea78772119941.5bdc63ba31701.png
       text: |
-        Rumba rum met hapje
+        Bruisend aperitief met hapje
 
         ~
 
-        Saveurs mix met mozzarella, tomaat en balsamico 
+        Papilotte van noordzeevis 
 
         ~
 
-        Gebakken tongfilets met beurre blanc en frietjes 
+        Varkenshaasje met champignonroomsaus, warme groenten en kroketten 
 
         ~
 
-        Churros met poedersuiker
+        Tarte tatin van ananas met roomijs en slagroom
 
         ~
 
@@ -438,7 +438,6 @@ menus:
         ~
 
         Crème brûlée
-
 
         ~
 

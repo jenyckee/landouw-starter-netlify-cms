@@ -425,6 +425,10 @@ menus:
     - title: OKTOBER | maandmenu
       image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
       text: |-
+        Cava met hapje
+
+        ~
+
         Vitello tonnato
 
         ~

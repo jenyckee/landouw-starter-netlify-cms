@@ -449,6 +449,76 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - text: >-
+        Cocktail met proevertje
+
+
+        ~
+
+
+        Zeetongfilet met crumble, kruidensalade en in het huis gemaakte tartaar
+
+
+        ~
+
+
+        Kalkoenfilet, gevulde peer, gekaramelliseerde appeltjes en aardappelgratin
+
+
+        ~
+
+
+        Kerstmuts
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        62 € 
+
+        water, wit en rode wijn inbegrepen
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+      title: KERSTDAG - DECEMBER | maandmenu
+      image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
+    - title: "NIEUWJAARDAG - JANUARI | maandmenu "
+      image: /img/1000_f_538335771_gjvknbqgongfzgnl4pbavraend385lzm.jpg
+      text: >-
+        Een vierluik van tapas de luxe vergezeld van meerdere glazen bubbels
+
+
+        ~
+
+
+        Op de Josper gegrilde côte à l'os, frisse groenten, frietjes en sauzen naar keuze 
+
+
+        ~
+
+
+        Carpaccio van ananas met gezouten karamel en speculaas - kaneelijs 
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        42 € 
+
+        met passende dranken + 26 € (meerdere glazen cava, 2x wijn - bier of frisdrank en koffie)
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

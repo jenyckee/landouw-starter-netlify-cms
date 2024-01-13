@@ -395,99 +395,7 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: OKTOBER | maandmenu
-      image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
-      text: |-
-        Cava met hapje
-
-        ~
-
-        Vitello tonnato
-
-        ~
-
-        Parelhoenfilet met sinaasappelsaus
-
-        ~
-
-        Crème brûlée
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: NOVEMBER | maandmenu
-      image: /img/aea78772119941.5bdc63ba31701.png
-      text: |
-        Bruisend aperitief met hapje
-
-        ~
-
-        Papilotte van noordzeevis 
-
-        ~
-
-        Varkenshaasje met champignonroomsaus, warme groenten en kroketten 
-
-        ~
-
-        Tarte tatin van ananas met roomijs en slagroom
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        62 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - text: >-
-        Cocktail met proevertje
-
-
-        ~
-
-
-        Zeetongfilet met crumble, kruidensalade en in het huis gemaakte tartaar
-
-
-        ~
-
-
-        Kalkoenfilet, gevulde peer, gekaramelliseerde appeltjes en aardappelgratin
-
-
-        ~
-
-
-        Kerstmuts
-
-
-        ~
-
-
-        Mokka en versnaperingen
-
-
-
-        62 € 
-
-        water, wit en rode wijn inbegrepen
-
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-      title: KERSTDAG - DECEMBER | maandmenu
-      image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
-    - title: "NIEUWJAARDAG - JANUARI | maandmenu "
+    - title: "JANUARI | maandmenu "
       image: /img/1000_f_538335771_gjvknbqgongfzgnl4pbavraend385lzm.jpg
       text: >-
         Een vierluik van tapas de luxe vergezeld van meerdere glazen bubbels
@@ -515,6 +423,44 @@ menus:
         46 € 
 
         met passende dranken + 26 € (meerdere glazen cava, 2x wijn - bier of frisdrank en koffie)
+
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: FEBRUARI | maandmenu
+      image: /img/hello-february-wallpaper.jpg
+      text: >-
+        Cava met tapa
+
+
+        ~
+
+
+        Gegratineerde zalm met wok groentjes
+
+
+        ~
+
+
+        Parelhoenfilet met Normandisch sausje, warme groenten en ambachtelijke kroketten
+
+
+        ~
+
+
+        Valentijnijsje
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        65 € 
+
+        water, wit en rode wijn inbegrepen
 
 
 

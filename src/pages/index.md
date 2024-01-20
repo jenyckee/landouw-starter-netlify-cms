@@ -465,6 +465,60 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MAART | maandmenu
+      image: /img/istockphoto-1297036474-612x612.jpg
+      text: |-
+        Cocktail met proevertje
+
+        ~
+
+        Gekonfijt witlooftaartje met feta en Breydel spekjes 
+
+        ~
+
+        Kalfssteak met picklessaus, bloemkoolroosjes  en ambachtelijke kroketten
+
+        ~
+
+        Chocoladefantasie 
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: APRIL | maandmenu
+      image: /img/april.jpg
+      text: |-
+        Bruisend aperitief met tapa
+
+        ~
+
+        Vitello tonnato 
+
+        ~
+
+        Kalkoen orloff met lentegroenten en wafel chips 
+
+        ~
+
+        Paasdessert  
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

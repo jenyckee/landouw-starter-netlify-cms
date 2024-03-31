@@ -474,22 +474,21 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: APRIL | maandmenu
-      image: /img/april.jpg
+    - title: SEPTEMBER | maandmenu
+      image: /img/afbeelding-september.jpg
       text: |-
-        Bruisend aperitief met tapa
+        Cava met hapje
+        ~
+
+        Quiche met spinazie, brie en zoete aardappelchips
 
         ~
 
-        Vitello tonnato 
+        Parelhoenfilet met boschampignons en witloof
 
         ~
 
-        Kalkoen orloff met lentegroenten en wafel chips 
-
-        ~
-
-        Paasdessert  
+        Crème brûlèe  
 
         ~
 

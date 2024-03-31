@@ -421,41 +421,29 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: FEBRUARI | maandmenu
-      image: /img/hello-february-wallpaper.jpg
-      text: >-
-        Cava met tapa
-
-
-        ~
-
-
-        Gegratineerde zalm met wok groentjes
-
+    - title: JUNI | maandmenu
+      image: /img/afbeelding-juni.jpg
+      text: |-
+        Bruisend aperitief met hapje
 
         ~
 
-
-        Parelhoenfilet met Normandisch sausje, warme groenten en ambachtelijke kroketten
-
+        Rundscarpaccio met rucola en parmezaan
 
         ~
 
-
-        Valentijnijsje
-
-
+        Vol au vent van Bresse kip met slaatje en frieten
         ~
 
+        Tarte tatin van appel met roomijs
+
+        ~
 
         Mokka en versnaperingen
 
 
-
         65 € 
-
         water, wit en rode wijn inbegrepen
-
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu

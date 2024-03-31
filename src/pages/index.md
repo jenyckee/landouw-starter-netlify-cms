@@ -447,22 +447,22 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: MAART | maandmenu
-      image: /img/istockphoto-1297036474-612x612.jpg
+    - title: JULI- AUGUSTUS | maandmenu
+      image: /img/vakantie-juli-augustus.jpg
       text: |-
         Cocktail met proevertje
 
         ~
 
-        Gekonfijt witlooftaartje met feta en Breydel spekjes 
+        Trio van tomaat mozzarella
 
         ~
 
-        Kalfssteak met picklessaus, bloemkoolroosjes  en ambachtelijke kroketten
+        Varkenshaasje met mosterdsaus  en warme groenten
 
         ~
 
-        Chocoladefantasie 
+        Chocolademousse 
 
         ~
 

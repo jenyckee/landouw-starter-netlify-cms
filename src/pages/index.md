@@ -395,36 +395,30 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: "JANUARI | maandmenu "
-      image: /img/1000_f_538335771_gjvknbqgongfzgnl4pbavraend385lzm.jpg
-      text: >-
-        Een vierluik van tapas de luxe vergezeld van meerdere glazen bubbels
-
-
-        ~
-
-
-        Op de Josper gegrilde côte à l'os, frisse groenten, frietjes en sauzen naar keuze 
-
+    - title: "MEI | maandmenu "
+      image: /img/mei-foto.jpg
+      text: |-
+        Cava met tapa
 
         ~
 
-
-        Carpaccio van ananas met gezouten karamel en speculaas - kaneelijs 
-
+        Asperges op Vlaamse wijze
 
         ~
 
+        Eendenborstfilet met sinaasappelsaus en ambachtelijke kroketten 
+
+        ~
+
+        Belgische aardbeien
+
+        ~
 
         Mokka en versnaperingen
 
 
-
-        46 € 
-
-        met passende dranken + 26 € (meerdere glazen cava, 2x wijn - bier of frisdrank en koffie)
-
-
+        65 € 
+        water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: FEBRUARI | maandmenu

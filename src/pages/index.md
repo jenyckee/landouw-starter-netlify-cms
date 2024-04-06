@@ -266,15 +266,15 @@ menus:
         Scampi maison met gegrilde sucrine | € 26
 
 
-        Gegrilde gamba's op chef's wijze | € 28
+        Gegrilde gamba's op chef's wijze | € 30
 
         met bearnaisesaus
 
 
-        Dagverse vis op zoutsteen | € 26
+        Zalm op zoutsteen | € 28
 
 
-        Gegratineerde zalm | € 26
+        Gegratineerde zalm | € 28
 
 
 
@@ -283,13 +283,13 @@ menus:
         VLEES
 
 
-        Vol au vent | € 24
+        Vol au vent | € 26
 
 
-        Stoverij van varkenswangetjes met patersbier | € 24
+        Stoverij van varkenswangetjes met patersbier | € 26
 
 
-        Gelakte ribbetjes | € 26
+        Gelakte ribbetjes | € 28
 
 
         Lamskoteletten met hofmeesterboter | € 31
@@ -297,12 +297,12 @@ menus:
         met slaatje en frietjes
 
 
-        Reuzenkipbrochette | € 26
+        Reuzenkipbrochette | € 28
 
         met champignonsaus, slaatje en frietjes
 
 
-        Gegrilde steak, saus naar keuze | € 26
+        Gegrilde steak, saus naar keuze | € 29
 
         met slaatje en frietjes 
 
@@ -312,7 +312,7 @@ menus:
         met slaatje en frietjes 
 
 
-        Zesrib entrecôte | € 29
+        Zesrib entrecôte | € 30
 
 
 

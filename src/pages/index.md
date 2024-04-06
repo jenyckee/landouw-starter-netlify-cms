@@ -500,6 +500,32 @@ menus:
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: APRIL | maandmenu
+      image: /img/april.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Vitello tonato
+
+        ~
+
+        Kalkoenorloff met warme groenten waaier en ambachtelijke kroketten 
+
+        ~
+
+        Paasdessert
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast. 

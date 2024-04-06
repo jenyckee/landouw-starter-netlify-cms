@@ -321,7 +321,7 @@ menus:
       text: |-
         VEGETARISCH
 
-        Quinoa-burger met gewokte groentjes of slaatje | € 22
+        Quinoa-burger met gewokte groentjes of slaatje | € 24
 
 
 
@@ -340,14 +340,14 @@ menus:
 
         Kipnuggets met appelmoes en frietjes | € 10
 
-        Kinderspaghetti | € 10
+        Kinderspaghetti | € 12
 
         Frikandel met frietjes | € 10
         2 stuks
 
-        Balletjes in tomatensaus | € 10
+        Balletjes in tomatensaus | € 12
 
-        Hamburger met appelmoes | € 10
+        Hamburger met appelmoes | € 12
 
         Kindersteak | € 14
         met appelmoes - frietjes 

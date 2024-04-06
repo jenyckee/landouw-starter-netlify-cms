@@ -377,7 +377,7 @@ menus:
         met ijs en slagroom
 
 
-        Moelleux au chocolat | € 9
+        Moelleux au chocolat | € 10
 
         met roomijs
 

@@ -191,21 +191,21 @@ menus:
     - title: Tapasplanken
       image: /img/111802368_3100003306749853_339794286471165344_n.jpg
       text: >-
-        Warme tapasplank | € 24
+        Warme tapasplank | € 26
 
         gegrilde witte pens - buikspek - patatas bravas - lookbroodjes - gebakken scampi's - tempura van groenten
 
 
-        Koude tapasplank | € 22
+        Koude tapasplank | € 24
 
         verschillende kazen & Spaanse hespen - chorizo - paté - tapenade 
 
 
-        Kinder tapasplank | € 14
+        Kinder tapasplank | € 16
 
         mini frikandellen - kipnuggets - bitterballen - loempia's - sausjes
     - text: |-
-        Duo kaas- en garnaalkroketje met fris slaatje
+        Duo van kroketten met fris slaatje
 
         of
 
@@ -223,7 +223,7 @@ menus:
 
         Nagerecht van de chef
 
-        | € 46
+        | € 48
       title: Suggestiemenu
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: "Voorgerechten & kleine honger "

@@ -75,14 +75,11 @@ menus:
         Kirr Royal | € 7
         crème de cassis - cava
 
-        Kirr Landouw | € 7
-        aardbeienlikeur - cava
-
         Pisang orange | € 7
 
         Campari orange | € 7
 
-        Picon | € 7
+        Picon | € 8
 
         Aperitief van het huis | € 9
 
@@ -125,13 +122,13 @@ menus:
       image: /img/landouwsummer-13.jpg
     - title: Gin & Bubbels
       text: |
-        Fie's homemade | € 10
+        Fie's homemade | € 12
 
-        Bombay | € 10
+        Bombay | € 12
 
-        Bulldog | € 12
+        Bulldog | € 14
 
-        Gin Mare | € 14
+        Gin Mare | € 16
 
         ~
 
@@ -395,6 +392,32 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
+    - title: APRIL | maandmenu
+      image: /img/april.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Vitello tonato
+
+        ~
+
+        Kalkoenorloff met warme groenten waaier en ambachtelijke kroketten 
+
+        ~
+
+        Paasdessert
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: "MEI | maandmenu "
       image: /img/mei-foto.jpg
       text: |-
@@ -498,32 +521,6 @@ menus:
         65 € 
         water, wit en rode wijn inbegrepen
 
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: APRIL | maandmenu
-      image: /img/april.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Vitello tonato
-
-        ~
-
-        Kalkoenorloff met warme groenten waaier en ambachtelijke kroketten 
-
-        ~
-
-        Paasdessert
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

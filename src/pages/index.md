@@ -485,7 +485,7 @@ menus:
 
         ~
 
-        Chocolademousse 
+        Javanais 
 
         ~
 

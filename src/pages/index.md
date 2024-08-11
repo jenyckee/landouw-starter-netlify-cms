@@ -509,8 +509,8 @@ menus:
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
-  aangepast. 
-   Proef onze hartverwarmende Tiegemse koffie.
+  aangepast.  
+
 
   | Ruime parkeermogelijkheden, grote speeltuinen (binnen en buiten) en gezellig terras. 
 
@@ -518,7 +518,7 @@ info: >
   | Vraag onze geschenkbonnen: een PRACHTIG cadeau in te ruilen tegen een heerlijke maaltijd (waarde zelf te bepalen).
 
 
-  | Restaurant landouw is open op vrijdag vanaf 17u en op zaterdag en zondag vanaf 12u.
+  | Restaurant landouw is open op vrijdag vanaf 17u30  en op zaterdag en zondag vanaf 12u.
 
 
   | Tijdens de zomermaanden variëren onze openingsuren. De correcte openingstijden zullen uiteraard verschijnen op onze website en facebook-pagina. 

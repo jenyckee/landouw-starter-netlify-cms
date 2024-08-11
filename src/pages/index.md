@@ -535,7 +535,7 @@ info: >
 
   | Een toegankelijke plaats voor rolstoelgebruikers
 hours: |-
-  VRIJDAG OPEN OM 17u
+  VRIJDAG OPEN OM 17u 30
   ZATERDAG OPEN OM 12u-15u EN 17u-...
   ZONDAG OPEN OM 12u
 main:

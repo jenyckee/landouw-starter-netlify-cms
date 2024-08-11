@@ -392,111 +392,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: APRIL | maandmenu
-      image: /img/april.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Vitello tonato
-
-        ~
-
-        Kalkoenorloff met warme groenten waaier en ambachtelijke kroketten 
-
-        ~
-
-        Paasdessert
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: "MEI | maandmenu "
-      image: /img/mei-foto.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Asperges op Vlaamse wijze
-
-        ~
-
-        Eendenborstfilet met sinaasappelsaus en ambachtelijke kroketten 
-
-        ~
-
-        Belgische aardbeien
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: JUNI | maandmenu
-      image: /img/afbeelding-juni.jpg
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Rundscarpaccio met rucola en parmezaan
-
-        ~
-
-        Vol au vent van Bresse kip met slaatje en frieten
-        ~
-
-        Tarte tatin van appel met roomijs
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: JULI- AUGUSTUS | maandmenu
-      image: /img/vakantie-juli-augustus.jpg
-      text: |-
-        Cocktail met proevertje
-
-        ~
-
-        Trio van tomaat mozzarella
-
-        ~
-
-        Varkenshaasje met mosterdsaus  en warme groenten
-
-        ~
-
-        Javanais 
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: SEPTEMBER | maandmenu
       image: /img/afbeelding-september.jpg
       text: |-
@@ -521,6 +416,95 @@ menus:
         65 € 
         water, wit en rode wijn inbegrepen
 
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: OKTOBER | maandmenu
+      image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Gyoza met kip, slaatje en aioli 
+
+        ~
+
+        Varkenshaasje met gegrilde prei en een jus-roomsaus
+
+        ~
+
+        Trifle met koffielikeur
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: "NOVEMBER | maandmenu "
+      image: /img/aea78772119941.5bdc63ba31701.png
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Papillotte met kabeljauw, coquille en rivierkreeftjes
+
+        ~
+
+        Kalkoen orloff met Archiducsaus  en witlooftaart 
+
+        ~
+
+        Poire Belle Hélène
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: DECMBER- KERSTDAG | maandmenu
+      image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Opera van gemarineerde zalm en gerookte zalm
+
+        ~
+
+        Eendenborstfilet met sinaasappelsaus en aardappeltorentje
+
+
+        ~
+
+        Tarte tatin van appel met roomijs
+
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        65 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JANUARI- NIEUWJAARDAG | maandmenu
+      image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
+      text: >-
+        
+        48 € voor de menu
+
+        26 € ( meerdere glazen cava, 2 x wijn - bier of frisdrank en koffie met versnapering )
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

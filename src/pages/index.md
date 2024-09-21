@@ -501,10 +501,34 @@ menus:
     - title: JANUARI- NIEUWJAARDAG | maandmenu
       image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
       text: >-
-        
+        Tapa gegratineerde zalmfilet met brunoise van groenten
+
+        Tapa ravioli met champignon in room-tuinkruidensaus
+
+        Tapa carpaccio van Belgisch witblauw met Parmezaan
+
+        Tapa geitenkaaskroket met gebakken peterselie
+
+        vergezeld van verschillende glazen cava of mocktail
+
+        ~~~
+
+        Op de Josper gegrilde côte a l'os, groente slaatje, frieten en sauzen 
+
+        ~~~
+
+        Chocolade symfonie
+
+        ~~~
+
+        Mokka en versnaperingen
+
+
         48 € voor de menu
 
-        26 € ( meerdere glazen cava, 2 x wijn - bier of frisdrank en koffie met versnapering )
+        26 € (meerdere glazen cava, 2 x wijn - bier of frisdrank, water op tafel en koffie)
+
+        formule dranken inbegrepen is per tafel
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

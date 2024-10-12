@@ -392,32 +392,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: SEPTEMBER | maandmenu
-      image: /img/afbeelding-september.jpg
-      text: |-
-        Cava met hapje
-        ~
-
-        Quiche met spinazie, brie en zoete aardappelchips
-
-        ~
-
-        Parelhoenfilet met boschampignons en witloof
-
-        ~
-
-        Crème brûlèe  
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: OKTOBER | maandmenu
       image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
       text: |-
@@ -529,6 +503,32 @@ menus:
         26 € (meerdere glazen cava, 2 x wijn - bier of frisdrank, water op tafel en koffie)
 
         formule dranken inbegrepen is per tafel
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: FEBRUARI | maandmenu
+      image: /img/hello-february-wallpaper.jpg
+      text: |-
+        Cava met hapje
+        ~
+
+        Carpaccio van runderlende met Parmezaanse kaas
+
+        ~
+
+        Gebakken kabeljauw met witte wijnsaus en brunoise van groenten
+
+        ~
+
+        Sabayon
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import 'react-accessible-accordion/dist/minimal-example.css';
+import 'react-accessible-accordion/dist/fancy-example.css';
 import { format } from './helpers';
 
 function getSrc(image) {

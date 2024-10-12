@@ -7,7 +7,7 @@ import DatePicker, { registerLocale, setDefaultLocale } from "react-datepicker"
 import { format } from "./helpers"
 import { navigate } from 'gatsby-link'
 
-import "react-datepicker/dist/react-datepicker.css"
+import "react-datepicker/dist/react-datepicker.css";
 import nl from 'date-fns/locale/nl';
 import { getDay, setHours, setMinutes } from "date-fns";
 
@@ -44,7 +44,6 @@ export default class Home extends React.Component {
   }
 
   handleChange = e => {
-    console.log(this.state)
     this.setState({ [e.target.name]: e.target.value })
   }
 
@@ -52,19 +51,16 @@ export default class Home extends React.Component {
     return getDay(date) === 5 ? setHours(setMinutes(new Date(), 0), 18) : setHours(setMinutes(new Date(), 0), 12)
   }
 
-  render() {
-    const isWeekendday = date => {
-      const day = getDay(date);
-      return !(day !== 0 && day !== 6 && day !== 5)
-    }
-    const chosenDate = this.state.datum
-    // const minTime = this.getMinTime(chosenDate)
-    const minTime = setHours(setMinutes(new Date(), 0), 17)
-    const maxTime = setHours(setMinutes(new Date(), 30), 20)
 
+
+  render() {
     const info = format(this.props.info)
     const about = format(this.props.about)
-
+    const excludeDates = [
+      new Date(2024, 9, 26),
+      new Date(2024, 9, 27),
+      new Date(2024, 9, 28)
+    ];
     return (
       <Page>
         <div className="intro">
@@ -72,12 +68,14 @@ export default class Home extends React.Component {
             <div className="row no-gutters">
               <div className="col-md-12 col-lg-6 d-md-flex yellow-bg-left">
                 <div className="block">
-                  <img src="/img/logo.png" width="250px"></img>
+                  <img src="/img/logo.png" width="250px" alt=""></img>
                 </div>
               </div>
               <div className="col-md-12 col-lg-6">
                 <div style={{ background: "white", width: "100%"}}>
-                  <img className="splash" height="787" src={this.props.intro}></img>
+                  <img className="splash" height="787" src={this.props.intro}
+                    alt="Landouw"
+                  ></img>
                 </div>
               </div>
             </div>
@@ -98,7 +96,9 @@ export default class Home extends React.Component {
             <div className="col-md-6 hidden-sm-down">
             </div>
             <div className="col-lg-6 col-md-12">
-              <video className="video-section__video" controls src="img/tendens.mp4"></video>
+              <video className="video-section__video" controls src="img/tendens.mp4">
+                <track default kind="captions" srclang="en" src="SUBTITLE_PATH" />
+              </video>
             </div>
           </div>
         </div>
@@ -147,20 +147,25 @@ export default class Home extends React.Component {
                     <div className="row">
                       <div className="col-md-6">
                         <div>
-                          <label>Datum</label>
+                          <label htmlFor="datum-day">Datum</label>
                           <DatePicker
-                            locale="nl"
+                            id="datum-day"
                             name="datum"
                             dateFormat="dd/MM/yyyy"
                             selected={this.state.datum}
                             required={true}
-                            onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
+                            onChange={d => this.setState({...this.state, datum: d})}
+                            excludeDates={excludeDates}
+                          ></DatePicker>
                         </div>
                       </div>
                       <div className="col-md-6">
                         <div>
-                          <label>Uur</label>
+                          <label
+                            htmlFor="datum-time"
+                          >Uur</label>
                           <DatePicker 
+                            id="datum-time"
                             locale="nl"
                             name="datum"
                             showTimeSelect

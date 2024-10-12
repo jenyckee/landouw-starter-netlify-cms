@@ -1,7 +1,6 @@
-import React, { Component } from 'react'
-import styled from 'styled-components'
+import React, { Component } from 'react';
 import 'react-accessible-accordion/dist/minimal-example.css';
-import { format } from './helpers'
+import { format } from './helpers';
 
 function getSrc(image) {
   return !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -24,7 +23,9 @@ export default class Menus extends Component {
           <div className="text-center"
            style={{display:"flex", alignItems: "center", flexWrap: "wrap", padding: "1rem", justifyContent:'center'}}>
           {this.props.data.options.map((menu, i) => 
-            <div style={{margin: "0 0.5rem"}} key={i} onClick={() => this.setState({current: i})}>
+            <div style={{margin: "0 0.5rem"}} key={i} onClick={() => this.setState({current: i})}
+            onKeyDown={() => {}} role="button" tabIndex={0}
+            >
               <h4 className={`menu-title ${this.state.current === i ? "selected": ""}`}>{menu.title}</h4>
             </div>
           )}
@@ -34,7 +35,7 @@ export default class Menus extends Component {
           {format(this.props.data.options[this.state.current].text)}
         </div>
         <div className="col-md-6">
-          <img style={{width: "100%"}} src={getSrc(this.props.data.options[this.state.current].image)}></img>
+          <img alt="" style={{width: "100%"}} src={getSrc(this.props.data.options[this.state.current].image)}></img>
         </div>
       </div>
     )

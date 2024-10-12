@@ -1,10 +1,10 @@
-import React from 'react'
+import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import React from 'react'
 
-import Layout from '../components/Layout'
+import { ThemeProvider } from 'styled-components'
 import Home from '../components/Home'
-import {ThemeProvider} from 'styled-components'
+import Layout from '../components/Layout'
 import theme from './theme'
 
 export const IndexPageTemplate = ({

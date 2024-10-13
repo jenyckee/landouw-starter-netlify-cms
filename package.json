@@ -49,6 +49,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "netlify-cms-proxy-server": "^1.3.24",
     "prettier": "^2.0.5"
   },
   "engines": {

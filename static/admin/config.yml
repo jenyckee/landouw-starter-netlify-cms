@@ -27,3 +27,4 @@ collections:
           - {label: Menus, name: menus, widget: object, fields: [{label: Options, name: options, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
           - {label: Info, name: info, widget: text}
           - {label: Openingsuren, name: hours, widget: text}
+          - {label: Sluitingsdagen, name: sluiting, widget: list, fields: [{label: Dag, name: day, widget: datetime}]}

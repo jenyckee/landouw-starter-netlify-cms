@@ -13,7 +13,8 @@ export const IndexPageTemplate = ({
   info,
   about,
   menus,
-  hours
+  hours,
+  sluiting
 }) => (
   <div>
     {/* <Features gridItems={intro.blurbs} /> */}
@@ -24,6 +25,7 @@ export const IndexPageTemplate = ({
         info={info} 
         menus={menus} 
         about={about}
+        sluiting={sluiting}
         hours={hours}/>
     </ThemeProvider>
   </div>
@@ -53,6 +55,7 @@ const IndexPage = ({ data }) => {
         info={frontmatter.info}
         menus={frontmatter.menus}
         hours={frontmatter.hours}
+        sluiting={frontmatter.sluiting}
       />
     </Layout>
   )
@@ -96,6 +99,9 @@ export const pageQuery = graphql`
         }
         info
         hours
+        sluiting {
+          day
+        }
       }
     }
   }

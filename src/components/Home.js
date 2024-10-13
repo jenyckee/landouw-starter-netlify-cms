@@ -56,11 +56,7 @@ export default class Home extends React.Component {
   render() {
     const info = format(this.props.info)
     const about = format(this.props.about)
-    const excludeDates = [
-      new Date(2024, 9, 25),
-      new Date(2024, 9, 26),
-      new Date(2024, 9, 27),
-    ];
+    const excludeDates = this.props.sluiting.map(s => new Date(s.day))
     return (
       <Page>
         <div className="intro">

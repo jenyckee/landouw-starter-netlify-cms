@@ -29,15 +29,17 @@ export default class Home extends React.Component {
   }
 
   handleSubmit = e => {
-    e.preventDefault()
-    const form = e.target
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+
+    const body = new URLSearchParams(formData).toString();
+    console.log(body)
+
     fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: encode({
-        'form-name': form.getAttribute('name'),
-        ...this.state,
-      }),
+      body
     })
       .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))

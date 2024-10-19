@@ -457,6 +457,9 @@ menus:
 
         Eendenborstfilet met sinaasappelsaus en aardappeltorentje
 
+                  ---
+        Warm vispalet
+
 
         ~
 
@@ -488,6 +491,9 @@ menus:
         ~~~
 
         Op de Josper gegrilde côte a l'os, groente slaatje, frieten en sauzen 
+
+                  ---
+        Warm vispalet
 
         ~~~
 

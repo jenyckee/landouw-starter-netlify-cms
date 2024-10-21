@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-decap-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "landauw",
+  "description": "Landauw restaurant grill tearoom",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Jeroen Nyckees",
   "dependencies": {
     "bulma": "^0.9.0",
     "decap-cms-app": "^3.0.12",

@@ -129,15 +129,15 @@ export default class Home extends React.Component {
                         name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                     <input type="hidden" name="form-name" value="contact" />
                     <h4>RESERVEREN</h4>
-                    <InputField label="Naam" name="naam" onChange={this.handleChange}/>
-                    <InputField label="Email" name="_replyto" onChange={this.handleChange}/>
-                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange}/>
+                    <InputField label="Naam" name="naam" onChange={this.handleChange} title="Vul uw naam in"/>
+                    <InputField label="Email" name="_replyto" onChange={this.handleChange} title="Vul een geldig emailadres in"/>
+                    <InputField label="Telefoonnummer" name="telefoonnummer" onChange={this.handleChange} title="Vul een geldig telefoonnummer in"/>
                     <div className="row">
                       <div className="col-md-6">
-                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={this.handleChange}/>
+                        <InputField label="Volwassenen" name="volwassenen" type="number" onChange={this.handleChange} title="Vul het aantal volwassenen in"/>
                       </div>
                       <div className="col-md-6">
-                        <InputField label="Kinderen" name="kinderen" type="number" onChange={this.handleChange}/>
+                        <InputField label="Kinderen" name="kinderen" type="number" onChange={this.handleChange} title="Vul het aantal kinderen in"/>
                       </div>
                     </div>
                     <div className="row">
@@ -228,10 +228,17 @@ width: 100%;
 }
 `
 
-export const InputField = ({label, name, type, value, onChange}) => (
+export const InputField = ({label, name, type, value, onChange, title}) => (
 <div>
   <label>{label}</label>
-  <input required={true} type={type} name={name} value={value} onChange={onChange}></input>
+  <input 
+    pattern=".*\S+.*"
+    required={true} 
+    type={type} 
+    name={name} 
+    value={value} 
+    onChange={onChange}
+    title={title}></input>
 </div>
 )
 

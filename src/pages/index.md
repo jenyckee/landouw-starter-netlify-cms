@@ -444,7 +444,7 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: DECMBER- KERSTDAG | maandmenu
+    - title: DECEMBER- KERSTDAG | maandmenu
       image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
       text: |-
         Bruisend aperitief met hapje
@@ -457,7 +457,8 @@ menus:
 
         Eendenborstfilet met sinaasappelsaus en aardappeltorentje
 
-                  ---
+                  OF
+
         Warm vispalet
 
 

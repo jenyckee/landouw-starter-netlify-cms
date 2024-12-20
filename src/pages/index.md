@@ -493,7 +493,8 @@ menus:
 
         Op de Josper gegrilde côte a l'os, groente slaatje, frieten en sauzen 
 
-                  ---
+                  OF
+
         Warm vispalet
 
         ~~~

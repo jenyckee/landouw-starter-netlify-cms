@@ -392,58 +392,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: OKTOBER | maandmenu
-      image: /img/hello-october-with-ornate-of-leaves-flower-frame-autumn-october-vector.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Gyoza met kip, slaatje en aioli 
-
-        ~
-
-        Varkenshaasje met gegrilde prei en een jus-roomsaus
-
-        ~
-
-        Trifle met koffielikeur
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: "NOVEMBER | maandmenu "
-      image: /img/aea78772119941.5bdc63ba31701.png
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Papillotte met kabeljauw, coquille en rivierkreeftjes
-
-        ~
-
-        Kalkoen orloff met Archiducsaus  en witlooftaart 
-
-        ~
-
-        Poire Belle Hélène
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: DECEMBER- KERSTDAG | maandmenu
       image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
       text: |-
@@ -535,6 +483,69 @@ menus:
 
 
         67 € 
+        water, wit en rode wijn inbegrepen
+
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MAART | maandmenu
+      image: /img/istockphoto-1297036474-612x612.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Gebakken dumpling met kip, slaatje en aioli 
+
+        ~
+
+        Entrecôte met homemade frietjes en saus naar keuze
+
+        ~
+
+        Tiramisu ijs
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: "April | maandmenu "
+      image: /img/april.jpg
+      text: >-
+        Cava met tapa
+
+
+        ~
+
+
+        Klassieke zeevruchtencoupe met cocktailsaus
+
+
+        ~
+
+
+        Varkenshaas met bospaddenstoelen roomsaus en rozemarijn aardappelschijfjes
+
+
+        ~
+
+
+        Duo van chocolademousse
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        67 € 
+
         water, wit en rode wijn inbegrepen
 
 

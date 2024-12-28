@@ -30,7 +30,7 @@ export const HourPicker = ({value, onChange}) => {
     return (
         <div className='row'>
             {slots.map((hour, index) => (
-                <div className='col col-sm-4' key={index}>
+                <div className='col-3 col-sm-4' key={index}>
                     <HourChip 
                         isSelected={moment(hour).format('HH:mm') === moment(value).format('HH:mm')}
                         onClick={() => handleChange(hour)}>

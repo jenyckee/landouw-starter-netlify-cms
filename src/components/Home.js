@@ -161,25 +161,12 @@ export default class Home extends React.Component {
                         </div>
                       </div>
                       <div className="col-md-6">
-                        <div>
+                        {this.state.datum && <div>
                           <label
                             htmlFor="datum-time"
                           >Uur</label>
-                          {/* <DatePicker 
-                            id="datum-time"
-                            locale="nl"
-                            name="datum"
-                            showTimeSelect
-                            timeIntervals={30}
-                            minTime={this.getMinTime(this.state.datum)}
-                            maxTime={setHours(setMinutes(new Date(), 0), 22)}
-                            showTimeSelectOnly
-                            selected={this.state.datum}
-                            dateFormat="HH:mm"
-                            required={true}
-                            onChange={this.setDate}></DatePicker> */}
                             <HourPicker onChange={this.setDate} value={this.state.datum}></HourPicker>
-                        </div>
+                        </div>}
                       </div>
                     </div>
                     <div className="row">

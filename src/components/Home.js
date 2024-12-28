@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import Location from './Location'
+import { HourPicker } from './HourPicker'
 import Menus from './Menus'
 import Page from './Page'
 import DatePicker, { registerLocale, setDefaultLocale } from "react-datepicker"
@@ -48,10 +49,12 @@ export default class Home extends React.Component {
   }
 
   getMinTime(date) {
-    return getDay(date) === 5 ? setHours(setMinutes(new Date(), 0), 18) : setHours(setMinutes(new Date(), 0), 12)
+    return getDay(date) === 5 ? setHours(setMinutes(new Date(), 59), 17) : setHours(setMinutes(new Date(), 59), 11)
   }
 
-
+  setDate = (date) => {
+    this.setState({...this.state, datum: date})
+  }
 
   render() {
     const info = format(this.props.info)
@@ -93,7 +96,7 @@ export default class Home extends React.Component {
             </div>
             <div className="col-lg-6 col-md-12">
               <video className="video-section__video" controls src="img/tendens.mp4">
-                <track default kind="captions" srclang="en" src="SUBTITLE_PATH" />
+                <track default kind="captions" src="SUBTITLE_PATH" />
               </video>
             </div>
           </div>
@@ -148,9 +151,11 @@ export default class Home extends React.Component {
                             id="datum-day"
                             name="datum"
                             dateFormat="dd/MM/yyyy"
+                            minDate={new Date()}
                             selected={this.state.datum}
+                            filterDate={date => date.getDay() !== 1 && date.getDay() !== 2 && date.getDay() !== 3 && date.getDay() !== 4}
                             required={true}
-                            onChange={d => this.setState({...this.state, datum: d})}
+                            onChange={this.setDate}
                             excludeDates={excludeDates}
                           ></DatePicker>
                         </div>
@@ -160,17 +165,20 @@ export default class Home extends React.Component {
                           <label
                             htmlFor="datum-time"
                           >Uur</label>
-                          <DatePicker 
+                          {/* <DatePicker 
                             id="datum-time"
                             locale="nl"
                             name="datum"
                             showTimeSelect
                             timeIntervals={30}
+                            minTime={this.getMinTime(this.state.datum)}
+                            maxTime={setHours(setMinutes(new Date(), 0), 22)}
                             showTimeSelectOnly
                             selected={this.state.datum}
                             dateFormat="HH:mm"
                             required={true}
-                            onChange={d => this.setState({...this.state, datum: d})}></DatePicker>
+                            onChange={this.setDate}></DatePicker> */}
+                            <HourPicker onChange={this.setDate} value={this.state.datum}></HourPicker>
                         </div>
                       </div>
                     </div>

@@ -1,7 +1,7 @@
-import React from 'react'
-import styled from 'styled-components'
-import { getDay, getHours, setHours, setMinutes } from "date-fns";
+import { getDay, setHours, setMinutes } from "date-fns";
 import moment from 'moment';
+import React from 'react';
+import styled from 'styled-components';
 
 export const getReservationSlots = (date) => {
     if (!date) {
@@ -20,11 +20,6 @@ export const getReservationSlots = (date) => {
 
 export const HourPicker = ({value, onChange}) => {
 
-    const handleChange = (hour) => {
-        console.log(hour);
-        onChange(hour)
-    }
-
     const slots = getReservationSlots(value);
 
     return (
@@ -33,7 +28,7 @@ export const HourPicker = ({value, onChange}) => {
                 <div className='col-3 col-sm-4' key={index}>
                     <HourChip 
                         isSelected={moment(hour).format('HH:mm') === moment(value).format('HH:mm')}
-                        onClick={() => handleChange(hour)}>
+                        onClick={() => onChange(hour)}>
                         {moment(hour).format('HH:mm')}
                     </HourChip>
                 </div>

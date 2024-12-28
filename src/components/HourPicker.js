@@ -49,7 +49,6 @@ const HourChip = styled.div`
     margin-bottom: 0.5rem;
     display: inline-block;
     cursor: pointer;
-    // if not mobile then hover effect
     @media (min-width: 768px) {
         &:hover {
             background-color: #c2baa6;

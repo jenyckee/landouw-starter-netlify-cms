@@ -7,13 +7,22 @@ export const getReservationSlots = (date) => {
     if (!date) {
         return [];
     }
-    // half hour intervals from 18:00 to 22:00 on Fridays
+    // half hour intervals from 17:30 to 22:00 on Fridays
     if (getDay(date) === 5) {
-        return [18, 19, 20, 21].flatMap(hour => [0, 30].map(minute => setMinutes(setHours(date, hour), minute)));
+        return ["17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
+            .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
     }
-    // half hour intervals from 12:00 to 15:00 and 18:00 to 22:00 on Saturdays and Sundays
-    if (getDay(date) === 6 || getDay(date) === 0) {
-        return [12, 13, 14, 15, 18, 19, 20, 21].flatMap(hour => [0, 30].map(minute => setMinutes(setHours(date, hour), minute)));
+    // half hour intervals from 12:00 to 15:00 and 17:30 to 22:00 on Saturdays
+    if (getDay(date) === 6) {
+        return ["12:00", "12:30", "13:00", "13:30", "14:00", "14:30", 
+                "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
+        .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
+    }
+    // Sundays half hour intervals from 12:00 to 22:00
+    if (getDay(date) === 0) {
+        return ["12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30", "16:00", "16:30", "17:00",
+                "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
+        .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
     }
     return [];
 }

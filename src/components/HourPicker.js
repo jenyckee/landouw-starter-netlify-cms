@@ -3,27 +3,35 @@ import moment from 'moment';
 import React from 'react';
 import styled from 'styled-components';
 
+function generateIntervals(date, startHour, startMinute, endHour, endMinute, intervalMinutes) {
+    const start = new Date(date);
+    start.setHours(startHour, startMinute, 0, 0);
+
+    const end = new Date(date);
+    end.setHours(endHour, endMinute, 0, 0);
+
+    const totalIntervals = Math.floor((end - start) / (intervalMinutes * 60 * 1000)) + 1;
+
+    return Array.from({ length: totalIntervals }, (_, i) => {
+        const time = new Date(start.getTime() + i * intervalMinutes * 60 * 1000);
+        return time;
+    });
+}
+
 export const getReservationSlots = (date) => {
-    if (!date) {
-        return [];
+    const day = getDay(date);
+
+    if (day === 5) { // Friday: 17:30 to 21:30
+        return generateIntervals(date, 17, 30, 21, 30, 30);
+    } else if (day === 6) { // Saturday: 12:00 to 14:30 and 17:30 to 21:30
+        return [
+            ...generateIntervals(date, 12, 0, 14, 30, 30),
+            ...generateIntervals(date, 17, 30, 21, 30, 30),
+        ];
+    } else if (day === 0) { // Sunday: 12:00 to 21:30
+        return generateIntervals(date, 12, 0, 21, 30, 30);
     }
-    // half hour intervals from 17:30 to 22:00 on Fridays
-    if (getDay(date) === 5) {
-        return ["17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
-            .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
-    }
-    // half hour intervals from 12:00 to 15:00 and 17:30 to 22:00 on Saturdays
-    if (getDay(date) === 6) {
-        return ["12:00", "12:30", "13:00", "13:30", "14:00", "14:30", 
-                "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
-        .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
-    }
-    // Sundays half hour intervals from 12:00 to 22:00
-    if (getDay(date) === 0) {
-        return ["12:00", "12:30", "13:00", "13:30", "14:00", "14:30", "15:00", "15:30", "16:00", "16:30", "17:00",
-                "17:30", "18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
-        .map(time => setHours(setMinutes(date, time.split(":")[1]), time.split(":")[0]));
-    }
+    
     return [];
 }
 

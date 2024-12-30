@@ -1,4 +1,4 @@
-import { getDay, setHours, setMinutes } from "date-fns";
+import { getDay } from "date-fns";
 import moment from 'moment';
 import React from 'react';
 import styled from 'styled-components';

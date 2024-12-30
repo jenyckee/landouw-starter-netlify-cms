@@ -17,8 +17,6 @@ export const IndexPageTemplate = ({
   sluiting
 }) => (
   <div>
-    {/* <Features gridItems={intro.blurbs} /> */}
-    {/* <BlogRoll /> */}
     <ThemeProvider theme={theme}>
       <Home 
         intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}

@@ -601,6 +601,7 @@ sluiting:
   - day: 2024-10-26T08:16:38.950Z
   - day: 2024-10-27T09:16:55.738Z
   - day: 2024-10-25T08:17:23.372Z
+  - day: 2025-01-03T12:18:10.698Z
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that

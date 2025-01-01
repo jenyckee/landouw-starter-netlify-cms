@@ -5,7 +5,7 @@ import React from 'react'
 import { ThemeProvider } from 'styled-components'
 import Home from '../components/Home'
 import Layout from '../components/Layout'
-import theme from './theme'
+import { Theme } from './theme'
 
 export const IndexPageTemplate = ({
   image,
@@ -17,9 +17,7 @@ export const IndexPageTemplate = ({
   sluiting
 }) => (
   <div>
-    {/* <Features gridItems={intro.blurbs} /> */}
-    {/* <BlogRoll /> */}
-    <ThemeProvider theme={theme}>
+    <ThemeProvider theme={Theme}>
       <Home 
         intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
         info={info} 

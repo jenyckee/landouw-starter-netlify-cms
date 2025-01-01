@@ -599,6 +599,9 @@ main:
     image: /img/products-grid1.jpg
 sluiting:
   - day: 2025-01-03T12:18:10.698Z
+  - day: 2025-02-28T15:15:00.000Z
+  - day: 2025-03-01T15:15:00.000Z
+  - day: 2025-03-02T15:15:00.000Z
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that

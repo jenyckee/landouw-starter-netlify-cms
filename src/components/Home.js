@@ -261,7 +261,6 @@ color:  ${props => props.theme.coal};
 export const MenuSection = styled.section`
 background: ${props => props.theme.brownLight};
 color:  ${props => props.theme.white};
-// min-height: 1000px;
 `
 
 

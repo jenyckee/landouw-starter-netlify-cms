@@ -1,4 +1,4 @@
-export default {
+export const Theme = {
   brown: "#886B4D",
   brownLight:"#B68453",
   red: "#B11D25",

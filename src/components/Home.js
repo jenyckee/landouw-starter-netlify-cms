@@ -96,7 +96,7 @@ export default class Home extends React.Component {
             </div>
             <div className="col-lg-6 col-md-12">
               <video className="video-section__video" controls src="img/tendens.mp4">
-                <track default kind="captions" src="SUBTITLE_PATH" />
+                <track default kind="captions" src="" />
               </video>
             </div>
           </div>

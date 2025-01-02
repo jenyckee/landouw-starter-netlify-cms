@@ -9,7 +9,6 @@ import theme from './theme'
 
 export const IndexPageTemplate = ({
   image,
-  title,
   info,
   about,
   menus,
@@ -17,8 +16,6 @@ export const IndexPageTemplate = ({
   sluiting
 }) => (
   <div>
-    {/* <Features gridItems={intro.blurbs} /> */}
-    {/* <BlogRoll /> */}
     <ThemeProvider theme={theme}>
       <Home 
         intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
@@ -33,14 +30,6 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
 }
 
 const IndexPage = ({ data }) => {

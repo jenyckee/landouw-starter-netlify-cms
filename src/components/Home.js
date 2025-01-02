@@ -143,9 +143,9 @@ export default class Home extends React.Component {
                         <InputField label="Kinderen" name="kinderen" type="number" onChange={this.handleChange} title="Vul het aantal kinderen in"/>
                       </div>
                     </div>
-                    <div className="row">
-                      <div className="col-md-6">
-                        <div>
+                    <div className="row mb-1">
+                      <div className="col-md-12">
+                        <div className="mb-1">
                           <label htmlFor="datum-day">Datum</label>
                           <DatePicker
                             id="datum-day"
@@ -159,14 +159,14 @@ export default class Home extends React.Component {
                             excludeDates={excludeDates}
                           ></DatePicker>
                         </div>
-                      </div>
-                      <div className="col-md-6">
-                        {this.state.datum && <div>
-                          <label
-                            htmlFor="datum-time"
-                          >Uur</label>
-                            <HourPicker onChange={this.setDate} value={this.state.datum}></HourPicker>
-                        </div>}
+                        {this.state.datum && 
+                          <div className="mb-1">
+                            <label
+                              htmlFor="datum-time"
+                            >Uur</label>
+                              <HourPicker onChange={this.setDate} value={this.state.datum}></HourPicker>
+                          </div>
+                        }
                       </div>
                     </div>
                     <div className="row">

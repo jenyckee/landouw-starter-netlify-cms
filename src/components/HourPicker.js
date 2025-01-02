@@ -40,27 +40,32 @@ export const HourPicker = ({value, onChange}) => {
     const slots = getReservationSlots(value);
 
     return (
-        <div className='row'>
-            {slots.map((hour, index) => (
-                <div className='col-3 col-sm-4' key={index}>
-                    <HourChip 
-                        isSelected={moment(hour).format('HH:mm') === moment(value).format('HH:mm')}
-                        onClick={() => onChange(hour)}>
-                        {moment(hour).format('HH:mm')}
-                    </HourChip>
-                </div>
+        <ChipContainer>
+            {slots.map((hour) => (
+                <HourChip 
+                    isSelected={moment(hour).format('HH:mm') === moment(value).format('HH:mm')}
+                    onClick={() => onChange(hour)}>
+                    {moment(hour).format('HH:mm')}
+                </HourChip>
             ))}
-        </div>
+        </ChipContainer>
     )
 }
 
+const ChipContainer = styled.div`
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.5rem;
+`
+
 const HourChip = styled.div`
     background-color: ${props => props.isSelected ? '#c2baa6' : 'white'};
+    text-align: center;
     color: ${props => props.isSelected ? 'white' : 'black'};
     padding: 0.25rem 0.5rem;
-    margin-bottom: 0.5rem;
     display: inline-block;
     cursor: pointer;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
     @media (min-width: 768px) {
         &:hover {
             background-color: #c2baa6;

@@ -8,15 +8,13 @@ import Layout from '../components/Layout'
 import { Theme } from './theme'
 
 export const IndexPageTemplate = ({
-  image,
-  title,
-  info,
-  about,
-  menus,
-  hours,
-  sluiting
-}) => (
-  <div>
+    image,
+    info,
+    about,
+    menus,
+    hours,
+    sluiting
+  }) => (
     <ThemeProvider theme={Theme}>
       <Home 
         intro={!!image.childImageSharp ? image.childImageSharp.fluid.src : image}
@@ -26,19 +24,15 @@ export const IndexPageTemplate = ({
         sluiting={sluiting}
         hours={hours}/>
     </ThemeProvider>
-  </div>
-)
+);
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  about: PropTypes.string,
+  info: PropTypes.string,
+  menus: PropTypes.object,
+  hours: PropTypes.string,
+  sluiting: PropTypes.array
 }
 
 const IndexPage = ({ data }) => {
@@ -48,7 +42,6 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
         about={frontmatter.about}
         info={frontmatter.info}
         menus={frontmatter.menus}

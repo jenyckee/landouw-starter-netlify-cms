@@ -348,38 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: DECEMBER- KERSTDAG | maandmenu
-      image: /img/kerstkaart-fijne-feestdagen-spetters-sterren-hartje-goud.jpg
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Opera van gemarineerde zalm en gerookte zalm
-
-        ~
-
-        Eendenborstfilet met sinaasappelsaus en aardappeltorentje
-
-                  OF
-
-        Warm vispalet
-
-
-        ~
-
-        Tarte tatin van appel met roomijs
-
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        65 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: JANUARI- NIEUWJAARDAG | maandmenu
       image: /img/kerstkaart-fijne-feestdagen-zwart-en-goud.jpg
       text: >-
@@ -469,7 +437,7 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: "April | maandmenu "
+    - title: "APRIL | maandmenu "
       image: /img/april.jpg
       text: >-
         Cava met tapa
@@ -504,6 +472,32 @@ menus:
 
         water, wit en rode wijn inbegrepen
 
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MEI | maandmenu
+      image: /img/c55673c22750d226f02805768b7df6f8.jpg
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Aspergekroketten met gemengd slaatje
+
+        ~
+
+        Suprême van parelhoenfilet met roomsaus en ambachtelijke kroketten
+
+        ~
+
+        Appelbeignets met poedersuiker
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

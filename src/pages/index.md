@@ -489,6 +489,32 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JULI - AUGUSTUS | maandmenu
+      image: /img/istockphoto-1312253210-612x612.jpg
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Salade gerookte zalm met bieslook vinaigrette
+
+        ~
+
+        Wok van Mechelse koekoek en zoetzure saus
+         
+        ~
+
+        Coupe colonel
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast.  

@@ -515,6 +515,32 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: SEPTEMBER | maandmenu
+      image: /img/afbeelding-september.jpg
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Vitello tonnato
+
+        ~
+
+        Stoverij van varkenswangen met witlofsalade
+         
+        ~
+
+        Tarte Tatin 
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >
   | Ruim aanbod aan verschillende tapas. Onze eetkaart wordt ook geregeld
   aangepast.  

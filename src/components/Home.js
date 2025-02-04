@@ -203,6 +203,9 @@ export default class Home extends React.Component {
                     </div>
                   </div>
                 </section>
+                <section>
+                  <p>Neem een kijkje op de website van ons <a href="https://joyce-poperinge.wixsite.com/casa88" target='_blank'>vakantiehuis in Estepona</a>.</p>
+                </section>
               </div>
             </div>
           </div>

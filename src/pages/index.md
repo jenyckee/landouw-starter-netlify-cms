@@ -147,12 +147,12 @@ menus:
     - title: Tapasplanken
       image: /img/111802368_3100003306749853_339794286471165344_n.jpg
       text: >-
-        Warme tapasplank | € 26
+        Warme tapasplank | € 28
 
         gegrilde witte pens - buikspek - patatas bravas - lookbroodjes - gebakken scampi's - tempura van groenten
 
 
-        Koude tapasplank | € 24
+        Koude tapasplank | € 28
 
         verschillende kazen & Spaanse hespen - chorizo - paté - tapenade 
 

@@ -292,20 +292,20 @@ menus:
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg
       text: |-
-        Smull-mannetje met appelmoes en frietjes | € 10
+        Smull-mannetje met appelmoes en frietjes | € 12
 
-        Kipnuggets met appelmoes en frietjes | € 10
+        Kipnuggets met appelmoes en frietjes | € 12
 
         Kinderspaghetti | € 12
 
-        Frikandel met frietjes | € 10
+        Frikandel met frietjes | € 12
         2 stuks
 
-        Balletjes in tomatensaus | € 12
+        Balletjes in tomatensaus | € 14
 
-        Hamburger met appelmoes | € 12
+        Hamburger met appelmoes | € 14
 
-        Kindersteak | € 14
+        Kindersteak | € 16
         met appelmoes - frietjes 
     - title: Desserts
       image: /img/47216601_2182634031948800_5103231736825774080_o.jpg

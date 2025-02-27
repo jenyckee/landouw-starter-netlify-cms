@@ -100,25 +100,25 @@ menus:
       image: /img/102378089_2579945298884336_236358606140524371_o.jpg
     - title: Tapas
       text: >-
-        Huisgemaakte zoete aardappel chips | € 4
+        Huisgemaakte zoete aardappel chips | € 8
 
 
-        Huisgemaakte lookbroodjes | € 6
+        Huisgemaakte lookbroodjes | € 8
 
 
-        Patatas bravas | € 8
+        Patatas bravas | € 12
 
 
-        Portie gegrilde witte pens | € 8
+        Portie gegrilde witte pens | € 10
 
 
-        Bowl nacho's | € 10
+        Bowl nacho's | € 12
 
 
         Gelakt buikspek | € 8
 
 
-        Huisgemaakte goujounettes (6st) | € 12
+        Huisgemaakte goujounettes (6st) | € 16
 
         met verse tartaarsaus
 
@@ -132,10 +132,10 @@ menus:
         Spaanse bruschetta's met gerookte zalm (6st) | € 16
 
 
-        Tapaskroketjes | € 14
+        Tapaskroketjes | € 16
 
 
-        Toastjes gerookte zalm | € 16
+        Toastjes gerookte zalm | € 18
 
 
         Plankje serranoham | € 18

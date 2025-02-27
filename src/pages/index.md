@@ -283,11 +283,11 @@ menus:
 
         SLAATJES
 
-        Salade geitenkaas | € 24
+        Salade geitenkaas | € 26
 
-        Salade gebakken kip met appeltjes | € 24
+        Salade gebakken kip met appeltjes | € 28
 
-        Salade Landouw | € 26
+        Salade Landouw | € 28
       image: /img/a9f52358f53611564065a8d8f950a627.jpg
     - title: Voor de kleinsten
       image: /img/104197658_2585399395005593_3660973127453757766_n.jpg

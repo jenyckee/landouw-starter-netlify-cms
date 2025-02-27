@@ -90,7 +90,7 @@ menus:
 
         Coupe cava | € 7
 
-        Coupe champagne | € 11
+        Coupe champagne | € 12
 
         Fles cava | € 29
 

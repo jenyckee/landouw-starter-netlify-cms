@@ -20,28 +20,28 @@ menus:
   options:
     - title: Apero
       text: |-
-        Porto | € 6
+        Porto | € 7
         wit - rood
 
-        Martini | € 6
+        Martini | € 7
         wit - rood 
 
         Ricard | € 7
 
-        Kirr Royal | € 7
+        Kirr Royal | € 8
         crème de cassis - cava
 
-        Pisang orange | € 7
+        Pisang orange | € 8
 
-        Campari orange | € 7
+        Campari orange | € 9
 
-        Picon | € 8
+        Picon | € 9
 
         Aperitief van het huis | € 9
 
-        Aperol Spritz | € 9
+        Aperol Spritz | € 10
 
-        Witte sangria v/h huis | € 9
+        Witte sangria v/h huis | € 11
       image: /img/103599103_2579945292217670_5428184127548653514_o.jpg
     - title: "Cocktails "
       image: /img/onze_verfrissende_mojito_.jpg

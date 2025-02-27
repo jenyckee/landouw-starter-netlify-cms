@@ -313,32 +313,32 @@ menus:
         Assortiment kinderijsjes | € 3
 
 
-        Coupe vanille | € 7
+        Coupe vanille | € 8
 
 
-        Dame blanche | € 8
+        Dame blanche | € 9
 
 
-        Coupe bresilienne | € 8
+        Coupe bresilienne | € 9
 
 
-        Coupe vers fruit | € 10
+        Coupe vers fruit | € 12
 
 
-        Brusselse wafel (met ijs of slagroom) | € 8 - € 10
+        Brusselse wafel (met ijs of slagroom) | € 10 - € 12
 
 
-        Warme Bretoense appeltaart | € 9
+        Warme Bretoense appeltaart | € 12
 
         met ijs en slagroom
 
 
-        Moelleux au chocolat | € 10
+        Moelleux au chocolat | € 12
 
         met roomijs
 
 
-        Ananastaartje met roomijs en caramel | € 9
+        Ananastaartje met roomijs en caramel | € 10
 
 
         Café Glacé | € 10

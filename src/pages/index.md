@@ -63,17 +63,17 @@ menus:
         wodka - gemberbier - limoen 
     - title: Mocktails
       text: |-
-        Appletiser special | € 4
+        Appletiser special | € 5
 
-        Virgin mojito | € 6
+        Virgin mojito | € 7
 
-        Sweet dreams | € 6
+        Sweet dreams | € 7
         tonic - mango - cranberrysap - citroensap
 
-        Bitter Spritz | € 6
+        Bitter Spritz | € 7
         bitter Rosso - tonic 
 
-        Virgin Moscow mule | € 6
+        Virgin Moscow mule | € 7
         gemberbier - limoen 
       image: /img/landouwsummer-13.jpg
     - title: Gin & Bubbels

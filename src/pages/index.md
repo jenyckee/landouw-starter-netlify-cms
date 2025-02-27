@@ -202,7 +202,7 @@ menus:
 
         KLEINE HONGER
 
-        Spaghetti bolognaise | € 16
+        Spaghetti bolognaise | € 19
 
         Kaaskroketten (2st) | € 16
 

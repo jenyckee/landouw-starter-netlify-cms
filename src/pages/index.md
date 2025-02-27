@@ -9,7 +9,7 @@ about: >-
   Een tijd terug zijn wij gestart met een gloednieuw concept tapas & lounge bar. Door het grote succes, de dankbaarheid en vele complimenten behouden we dit concept.
 
 
-  In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | Tiegemse koffie & veel meer. 
+  In een sfeervol kader verwennen wij jullie met lekkere tapas | heerlijke cocktails & mocktails | seizoengebonden hoofdgerechten | lekkere desserts | koffie & veel meer. 
 
 
   Natuurlijk staan kids bij ons nog altijd op de eerste plaats. Daarom bieden wij hen kindertapas | kindvriendelijke hoofdgerechten en een lekker ijsje aan! De kinderen kunnen genieten van een grote binnenspeeltuin mét springkasteel én bij goed weer kunnen zij zich buiten uitleven op de buitenspeeltuin. 

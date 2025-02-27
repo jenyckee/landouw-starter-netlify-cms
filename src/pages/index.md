@@ -219,18 +219,18 @@ menus:
         VIS
 
 
-        Scampi maison met gegrilde sucrine | € 26
+        Scampi maison met gegrilde sucrine | € 28
 
 
-        Gegrilde gamba's op chef's wijze | € 30
+        Gegrilde gamba's op chef's wijze | € 31
 
         met bearnaisesaus
 
 
-        Zalm op zoutsteen | € 28
+        Zalm op zoutsteen | € 29
 
 
-        Gegratineerde zalm | € 28
+        Gegratineerde zalm | € 29
 
 
 
@@ -242,7 +242,7 @@ menus:
         Vol au vent | € 26
 
 
-        Stoverij van varkenswangetjes met patersbier | € 26
+        Stoverij van varkenswangetjes met patersbier | € 28
 
 
         Gelakte ribbetjes | € 28
@@ -258,17 +258,17 @@ menus:
         met champignonsaus, slaatje en frietjes
 
 
-        Gegrilde steak, saus naar keuze | € 29
+        Gegrilde steak, saus naar keuze | € 30
 
         met slaatje en frietjes 
 
 
-        Côte à l'os gegrild, saus naar keuze | € 31
+        Côte à l'os gegrild, saus naar keuze | € 33
 
         met slaatje en frietjes 
 
 
-        Zesrib entrecôte | € 30
+        Zesrib entrecôte | € 32
 
 
 

@@ -179,7 +179,7 @@ menus:
 
         Nagerecht van de chef
 
-        | € 48
+        | € 50
       title: Suggestiemenu
       image: /img/71755925_2379381265607408_5731947651117613056_n.jpg
     - title: "Voorgerechten & kleine honger "

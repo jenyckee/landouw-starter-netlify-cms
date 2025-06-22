@@ -348,32 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: FEBRUARI | maandmenu
-      image: /img/hello-february-wallpaper.jpg
-      text: |-
-        Cava met hapje
-        ~
-
-        Carpaccio van runderlende met Parmezaanse kaas
-
-        ~
-
-        Gebakken kabeljauw met witte wijnsaus en brunoise van groenten
-
-        ~
-
-        Sabayon
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: MAART | maandmenu
       image: /img/istockphoto-1297036474-612x612.jpg
       text: |-
@@ -539,6 +513,32 @@ menus:
 
         67 € 
         water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: FEBRUARI | maandmenu
+      image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
+      text: |-
+        Cava met tapa
+        ~
+
+        Papillot van Noordzeevis
+
+        ~
+
+        Varkenshaasje met bospaddenstoelensaus en ambachtelijke kroketten
+
+        ~
+
+        Crème brûlée
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

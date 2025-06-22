@@ -515,7 +515,7 @@ menus:
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: FEBRUARI | maandmenu
+    - title: OCTOBER | maandmenu
       image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
       text: |-
         Cava met tapa

@@ -348,32 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: MEI | maandmenu
-      image: /img/c55673c22750d226f02805768b7df6f8.jpg
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Aspergekroketten met gemengd slaatje
-
-        ~
-
-        Suprême van parelhoenfilet met roomsaus en ambachtelijke kroketten
-
-        ~
-
-        Appelbeignets met poedersuiker
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: JUNI | maandmenu
       image: /img/hello-june-wallpaper-floral.jpg
       text: |
@@ -527,6 +501,32 @@ menus:
 
 
         67 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JANUARI | maandmenu
+      image: /img/maand.png
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Zalm Belle- vue
+
+        ~
+
+        Mixed grill met béarnaise
+
+        ~
+
+        American pancakes met roomijs
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        69 € 
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu

@@ -348,32 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JUNI | maandmenu
-      image: /img/hello-june-wallpaper-floral.jpg
-      text: |
-        Bruisend aperitief met hapje
-
-        ~
-
-        Scampi's in een zachte curryroomsaus
-
-        ~
-
-        Varkensmedaillon met Provençaalse saus en warme seizoengroenten
-         
-        ~
-
-        Aardbeien, munt en vanille-ijs
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: JULI - AUGUSTUS | maandmenu
       image: /img/istockphoto-1312253210-612x612.jpg
       text: |-
@@ -520,6 +494,32 @@ menus:
         ~
 
         American pancakes met roomijs
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        69 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: FEBRUARI | maandmenu
+      image: /img/hello-february-wallpaper.jpg
+      text: |
+        Bruisend aperitief met hapje
+
+        ~
+
+        Vispapillot met bladerdeeg koekje
+
+        ~
+
+        Krokant gebakken kip met witlofsalade en appel
+         
+        ~
+
+        Coupe colonel
 
         ~
 

@@ -348,32 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JULI - AUGUSTUS | maandmenu
-      image: /img/istockphoto-1312253210-612x612.jpg
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Salade gerookte zalm met bieslook vinaigrette
-
-        ~
-
-        Wok van Mechelse koekoek en zoetzure saus
-         
-        ~
-
-        Coupe colonel
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: SEPTEMBER | maandmenu
       image: /img/afbeelding-september.jpg
       text: |-
@@ -521,6 +495,31 @@ menus:
 
         Coupe colonel
 
+        ~
+
+        Mokka en versnaperingen
+
+
+        69 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MAART | maandmenu
+      image: /img/istockphoto-1297036474-612x612.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Salade gerookte zalm met bieslook vinaigrette
+
+        ~
+
+        Kalfslende  met tuinbonen en jonge wortels
+         
+        ~
+
+        Carpaccio van ananas met sorbet
         ~
 
         Mokka en versnaperingen

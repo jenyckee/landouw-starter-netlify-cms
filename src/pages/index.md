@@ -348,32 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: MAART | maandmenu
-      image: /img/istockphoto-1297036474-612x612.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Gebakken dumpling met kip, slaatje en aioli 
-
-        ~
-
-        Entrecôte met homemade frietjes en saus naar keuze
-
-        ~
-
-        Tiramisu ijs
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: "APRIL | maandmenu "
       image: /img/april.jpg
       text: >-
@@ -539,6 +513,32 @@ menus:
         67 € 
         water, wit en rode wijn inbegrepen
 
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: NOVEMBER | maandmenu
+      image: /img/aea78772119941.5bdc63ba31701.png
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Luikse salade 
+
+        ~
+
+        Entrecôte met homemade frietjes en choronsaus 
+
+        ~
+
+        Churros met warme chocoladesaus
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

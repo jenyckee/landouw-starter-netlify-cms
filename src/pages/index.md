@@ -348,43 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: "APRIL | maandmenu "
-      image: /img/april.jpg
-      text: >-
-        Cava met tapa
-
-
-        ~
-
-
-        Klassieke zeevruchtencoupe met cocktailsaus
-
-
-        ~
-
-
-        Varkenshaas met bospaddenstoelen roomsaus en rozemarijn aardappelschijfjes
-
-
-        ~
-
-
-        Duo van chocolademousse
-
-
-        ~
-
-
-        Mokka en versnaperingen
-
-
-
-        67 € 
-
-        water, wit en rode wijn inbegrepen
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: MEI | maandmenu
       image: /img/c55673c22750d226f02805768b7df6f8.jpg
       text: |-
@@ -531,6 +494,32 @@ menus:
         ~
 
         Churros met warme chocoladesaus
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        67 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: "DECEMBER | maandmenu "
+      image: /img/10653548_8.webp
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Gegrilde witte pens met kortgebakken coquille
+
+        ~
+
+        Kalkoenfilet met witte beukenzwam en ambachtelijke kroketten
+
+        ~
+
+        Café glacé
 
         ~
 

@@ -348,29 +348,40 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: OCTOBER | maandmenu
-      image: /img/hello-october-design-template-d37ad6bdcb46653241f968ee141da40f_screen.jpg
-      text: |-
+    - title: MEI | maandmenu
+      image: /img/mei-foto.jpg
+      text: >-
         Cava met tapa
-        ~
-
-        Papillot van Noordzeevis
 
         ~
 
-        Varkenshaasje met bospaddenstoelensaus en ambachtelijke kroketten
+
+        Aspergekroketten met slaatje  
+
 
         ~
 
-        Crème brûlée
+
+        Eendenborstfilet met bospaddenstoelen, jonge wortel en ambachtelijke kroketten
+
 
         ~
+
+
+        Appelbeignet met roomijs
+
+
+        ~
+
 
         Mokka en versnaperingen
 
 
-        67 € 
+
+        69 € 
+
         water, wit en rode wijn inbegrepen
+
 
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
@@ -423,31 +434,6 @@ menus:
 
 
         67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: APRIL | maandmenu
-      image: /img/april.jpg
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Vitello tonnato
-
-        ~
-
-        Kabeljauw op vel gebakken met brunoise van groenten en roomsausje
-        ~
-
-        Advocaat toetje 
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        69 € 
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
@@ -519,6 +505,31 @@ menus:
         ~
 
         Carpaccio van ananas met sorbet
+        ~
+
+        Mokka en versnaperingen
+
+
+        69 € 
+        water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: APRIL | maandmenu
+      image: /img/april.jpg
+      text: |-
+        Bruisend aperitief met hapje
+
+        ~
+
+        Vitello tonnato
+
+        ~
+
+        Kabeljauw op vel gebakken met brunoise van groenten en roomsausje
+        ~
+
+        Advocaat toetje 
+
         ~
 
         Mokka en versnaperingen

@@ -348,7 +348,7 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: NOVEMBER | maandmenu
+    - title: JUNI | maandmenu
       image: /img/hello-june-wallpaper-floral.jpg
       text: |-
         Cava met tapa

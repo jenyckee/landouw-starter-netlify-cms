@@ -348,55 +348,18 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: MEI | maandmenu
-      image: /img/mei-foto.jpg
-      text: >-
-        Cava met tapa
-
-        ~
-
-
-        Aspergekroketten met slaatje  
-
-
-        ~
-
-
-        Eendenborstfilet met bospaddenstoelen, jonge wortel en ambachtelijke kroketten
-
-
-        ~
-
-
-        Appelbeignet met roomijs
-
-
-        ~
-
-
-        Mokka en versnaperingen
-
-
-
-        69 € 
-
-        water, wit en rode wijn inbegrepen
-
-
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: NOVEMBER | maandmenu
-      image: /img/aea78772119941.5bdc63ba31701.png
+      image: /img/hello-june-wallpaper-floral.jpg
       text: |-
         Cava met tapa
 
         ~
 
-        Luikse salade 
+        Rösti met gerookte zalm en dillesaus 
 
         ~
 
-        Entrecôte met homemade frietjes en choronsaus 
+        Surf en turf met homemade frietjes en choronsaus 
 
         ~
 
@@ -407,7 +370,7 @@ menus:
         Mokka en versnaperingen
 
 
-        67 € 
+        69 € 
         water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
@@ -537,6 +500,43 @@ menus:
 
         69 € 
         water, wit en rode wijn inbegrepen
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: MEI | maandmenu
+      image: /img/mei-foto.jpg
+      text: >-
+        Cava met tapa
+
+        ~
+
+
+        Aspergekroketten met slaatje  
+
+
+        ~
+
+
+        Eendenborstfilet met bospaddenstoelen, jonge wortel en ambachtelijke kroketten
+
+
+        ~
+
+
+        Appelbeignet met roomijs
+
+
+        ~
+
+
+        Mokka en versnaperingen
+
+
+
+        69 € 
+
+        water, wit en rode wijn inbegrepen
+
+
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

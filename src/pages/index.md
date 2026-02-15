@@ -348,84 +348,6 @@ menus:
 
 
         Dit is een voorbeeld van onze dessertkaart. Onze dessertkaart wordt geregeld aangepast. 
-    - title: JUNI | maandmenu
-      image: /img/hello-june-wallpaper-floral.jpg
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Rösti met gerookte zalm en dillesaus 
-
-        ~
-
-        Surf en turf met homemade frietjes en choronsaus 
-
-        ~
-
-        Churros met warme chocoladesaus
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        69 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: "DECEMBER | maandmenu "
-      image: /img/10653548_8.webp
-      text: |-
-        Cava met tapa
-
-        ~
-
-        Gegrilde witte pens met kortgebakken coquille
-
-        ~
-
-        Kalkoenfilet met witte beukenzwam en ambachtelijke kroketten
-
-        ~
-
-        Café glacé
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        67 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
-    - title: JANUARI | maandmenu
-      image: /img/maand.png
-      text: |-
-        Bruisend aperitief met hapje
-
-        ~
-
-        Zalm Belle- vue
-
-        ~
-
-        Mixed grill met béarnaise
-
-        ~
-
-        American pancakes met roomijs
-
-        ~
-
-        Mokka en versnaperingen
-
-
-        69 € 
-        water, wit en rode wijn inbegrepen
-
-        | Wij vragen u steeds om te reserveren voor de maandmenu
     - title: FEBRUARI | maandmenu
       image: /img/hello-february-wallpaper.jpg
       text: |
@@ -537,6 +459,32 @@ menus:
         water, wit en rode wijn inbegrepen
 
 
+
+        | Wij vragen u steeds om te reserveren voor de maandmenu
+    - title: JUNI | maandmenu
+      image: /img/hello-june-wallpaper-floral.jpg
+      text: |-
+        Cava met tapa
+
+        ~
+
+        Rösti met gerookte zalm en dillesaus 
+
+        ~
+
+        Surf en turf met homemade frietjes en choronsaus 
+
+        ~
+
+        Churros met warme chocoladesaus
+
+        ~
+
+        Mokka en versnaperingen
+
+
+        69 € 
+        water, wit en rode wijn inbegrepen
 
         | Wij vragen u steeds om te reserveren voor de maandmenu
 info: >

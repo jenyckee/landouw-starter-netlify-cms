@@ -12,6 +12,34 @@ import "react-datepicker/dist/react-datepicker.css";
 import nl from 'date-fns/locale/nl';
 import { getDay, setHours, setMinutes } from "date-fns";
 
+const closingNotice = `# Een laatste hoofdstuk na meer dan 50 jaar ❤️
+
+**Lieve klanten, vrienden en familie,**
+
+Wat was het fijn om samen met jullie onze allerlaatste barbecue te mogen beleven. Het werd een schitterende avond, gevuld met gezelligheid, lachende gezichten en vooral heel veel mooie herinneringen.
+
+We willen iedereen die erbij was dan ook uit de grond van ons hart bedanken. Jullie aanwezigheid maakte deze avond tot een moment dat we voor altijd zullen koesteren.
+
+Intussen weten we ook wanneer we definitief onze deuren zullen sluiten.
+
+### Zondag 20 september wordt onze allerlaatste openingsdag.
+
+Na **meer dan vijftig jaar** komt daarmee een einde aan ons familieverhaal.
+
+De komende weken willen we nog volop genieten.
+
+We hopen jullie dan ook nog te mogen verwelkomen, om samen nog één keer te genieten van de sfeer, de gezelligheid en de vertrouwde plek die zoveel voor ons allemaal heeft betekend.
+
+Op **zondag 20 september** valt dan uiteindelijk het doek.
+
+Dat zal ongetwijfeld een emotioneel moment worden. Maar bovenal willen we terugkijken met **heel veel dankbaarheid**.
+
+Dankjewel voor meer dan vijftig jaar vertrouwen, vriendschap, steun, warmte en mooie herinneringen.
+
+**Jullie hebben mee het verhaal van onze zaak geschreven.**
+
+En daarvoor zullen we jullie altijd dankbaar blijven. ❤️`
+
 registerLocale('nl', nl)
 setDefaultLocale('nl');
 
@@ -25,8 +53,13 @@ export default class Home extends React.Component {
   constructor() {
     super()
     this.state = {
-      isValidated: false
+      isValidated: false,
+      showClosingNotice: true
     }
+  }
+
+  dismissClosingNotice = () => {
+    this.setState({ showClosingNotice: false })
   }
 
   handleSubmit = e => {
@@ -60,8 +93,17 @@ export default class Home extends React.Component {
     const info = format(this.props.info)
     const about = format(this.props.about)
     const excludeDates = this.props.sluiting.map(s => new Date(s.day))
+    const closingMarkup = format(closingNotice)
     return (
       <Page>
+        {this.state.showClosingNotice && (
+          <PopupOverlay onClick={this.dismissClosingNotice}>
+            <PopupCard onClick={e => e.stopPropagation()}>
+              <CloseButton type="button" onClick={this.dismissClosingNotice} aria-label="Dismiss popup">×</CloseButton>
+              {closingMarkup}
+            </PopupCard>
+          </PopupOverlay>
+        )}
         <div className="intro">
           <div className="container">
             <div className="row no-gutters">
@@ -255,6 +297,50 @@ background: ${props => props.theme.beigeLight};
 export const SectionInfo = styled.section`
 background: ${props => props.theme.oliveGreen};
 color:  ${props => props.theme.coal};
+`
+
+export const PopupOverlay = styled.div`
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 1rem;
+`
+
+export const PopupCard = styled.div`
+  position: relative;
+  max-width: 66rem;
+  width: 100%;
+  background: #f8f5ef;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2);
+  padding: 4rem;
+  max-height: 90vh;
+  overflow-y: auto;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+`
+
+export const CloseButton = styled.button`
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  border: none;
+  background: transparent;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #000;
 `
 
 export const Section = styled.section`

@@ -318,6 +318,10 @@ export const PopupCard = styled.div`
   border: 1px solid rgba(0, 0, 0, 0.08);
   box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2);
   padding: 4rem;
+  // on mobile less padding
+  @media (max-width: 768px) {
+    padding: 2rem;
+  }
   max-height: 90vh;
   overflow-y: auto;
 

@@ -54,8 +54,13 @@ export default class Home extends React.Component {
     super()
     this.state = {
       isValidated: false,
-      showClosingNotice: true
+      showClosingNotice: true,
+      mounted: false
     }
+  }
+
+  componentDidMount() {
+    this.setState({ mounted: true })
   }
 
   dismissClosingNotice = () => {
@@ -94,9 +99,10 @@ export default class Home extends React.Component {
     const about = format(this.props.about)
     const excludeDates = this.props.sluiting.map(s => new Date(s.day))
     const closingMarkup = format(closingNotice)
+    const shouldShowClosingNotice = this.state.mounted && this.state.showClosingNotice
     return (
       <Page>
-        {this.state.showClosingNotice && (
+        {shouldShowClosingNotice && (
           <PopupOverlay onClick={this.dismissClosingNotice}>
             <PopupCard onClick={e => e.stopPropagation()}>
               <CloseButton type="button" onClick={this.dismissClosingNotice} aria-label="Dismiss popup">×</CloseButton>

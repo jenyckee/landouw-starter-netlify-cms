@@ -152,6 +152,7 @@ export default class Home extends React.Component {
                             name="datum"
                             dateFormat="dd/MM/yyyy"
                             minDate={new Date()}
+                            maxDate={new Date('2026-09-20')}
                             selected={this.state.datum}
                             filterDate={date => date.getDay() !== 1 && date.getDay() !== 2 && date.getDay() !== 3 && date.getDay() !== 4}
                             required={true}
